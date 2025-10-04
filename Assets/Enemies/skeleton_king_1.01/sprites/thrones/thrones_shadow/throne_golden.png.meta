@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      throne_golden_0: 2580528761964880706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

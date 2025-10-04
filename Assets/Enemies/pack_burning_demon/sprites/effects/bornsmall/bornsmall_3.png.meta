@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bornsmall_3_0: -5059751537959858024
+      bornsmall_3_1: 8595071344427933117
+      bornsmall_3_2: 3914577381266280915
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

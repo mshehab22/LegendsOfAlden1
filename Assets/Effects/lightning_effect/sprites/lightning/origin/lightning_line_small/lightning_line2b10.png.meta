@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lightning_line2b10_0: 6267036940308583472
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

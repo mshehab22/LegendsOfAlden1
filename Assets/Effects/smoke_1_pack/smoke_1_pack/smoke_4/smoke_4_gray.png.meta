@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      smoke_4_gray_0: 369069361080323106
+      smoke_4_gray_1: -2883405493805457458
+      smoke_4_gray_2: 5362724458144414916
+      smoke_4_gray_3: 479421010011133546
+      smoke_4_gray_4: -5818656679208510512
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

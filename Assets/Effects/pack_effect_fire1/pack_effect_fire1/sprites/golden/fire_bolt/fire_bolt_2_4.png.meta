@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire_bolt_2_4_0: -1809038768764946155
+      fire_bolt_2_4_1: -3095765353643878831
+      fire_bolt_2_4_2: 3350239940737220424
+      fire_bolt_2_4_3: 453676717206732245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

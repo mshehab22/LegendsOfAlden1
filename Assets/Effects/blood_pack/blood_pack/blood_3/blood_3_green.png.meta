@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blood_3_green_0: 5067892796108313958
+      blood_3_green_1: 409995835544641377
+      blood_3_green_2: -2945683765516524127
+      blood_3_green_3: 6798049587983775890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

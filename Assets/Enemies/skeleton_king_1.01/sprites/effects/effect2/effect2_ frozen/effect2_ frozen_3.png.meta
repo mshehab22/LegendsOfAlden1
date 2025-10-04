@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect2_ frozen_3_0: 3108194174450477258
+      effect2_ frozen_3_1: 4686314779182209241
+      effect2_ frozen_3_10: -605971268695008038
+      effect2_ frozen_3_11: -6079800210383468703
+      effect2_ frozen_3_12: 3625585205358299827
+      effect2_ frozen_3_13: 7764375462319042583
+      effect2_ frozen_3_2: -3188344312567415847
+      effect2_ frozen_3_3: -1507381138845390447
+      effect2_ frozen_3_4: -3460551121642300468
+      effect2_ frozen_3_5: -8265648665579440658
+      effect2_ frozen_3_6: -5700609401342172071
+      effect2_ frozen_3_7: -4762697301851902555
+      effect2_ frozen_3_8: -5776489409968324497
+      effect2_ frozen_3_9: 1744616188364880077
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

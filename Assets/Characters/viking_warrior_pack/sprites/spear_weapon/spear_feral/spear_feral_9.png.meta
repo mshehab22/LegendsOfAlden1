@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spear_feral_9_0: -4504774691270324317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

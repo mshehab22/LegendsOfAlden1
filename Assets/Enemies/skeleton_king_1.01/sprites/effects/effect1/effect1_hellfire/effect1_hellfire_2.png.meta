@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect1_hellfire_2_0: 6149864256955068250
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

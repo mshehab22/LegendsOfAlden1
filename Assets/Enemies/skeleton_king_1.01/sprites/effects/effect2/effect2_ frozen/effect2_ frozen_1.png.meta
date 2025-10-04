@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect2_ frozen_1_0: -3826225154768854901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

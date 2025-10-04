@@ -1959,7 +1959,81 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sheet_hero_archer_1_0: -4851087583405435999
+      sheet_hero_archer_1_1: 4129251363324469096
+      sheet_hero_archer_1_10: -7521422242956778346
+      sheet_hero_archer_1_11: 2690218832347674696
+      sheet_hero_archer_1_12: -3857326208644018724
+      sheet_hero_archer_1_13: -378920563668638676
+      sheet_hero_archer_1_14: 3761085712928157856
+      sheet_hero_archer_1_15: -257773233368438887
+      sheet_hero_archer_1_16: -6599550879666170834
+      sheet_hero_archer_1_17: -7715523025691797634
+      sheet_hero_archer_1_18: -2026247307356434398
+      sheet_hero_archer_1_19: 6067307582618063738
+      sheet_hero_archer_1_2: -2631219705293924346
+      sheet_hero_archer_1_20: -1049947415302568661
+      sheet_hero_archer_1_21: 5858434796894994745
+      sheet_hero_archer_1_22: 2075825020986625969
+      sheet_hero_archer_1_23: -4496797086046771860
+      sheet_hero_archer_1_24: -2580989141740300440
+      sheet_hero_archer_1_25: -33660466381219637
+      sheet_hero_archer_1_26: -3604697066359550902
+      sheet_hero_archer_1_27: -5197901137500461237
+      sheet_hero_archer_1_28: -2322483752602425823
+      sheet_hero_archer_1_29: -5623801669522845686
+      sheet_hero_archer_1_3: -4021318397586705718
+      sheet_hero_archer_1_30: -5602689345907852777
+      sheet_hero_archer_1_31: -8355265987210413074
+      sheet_hero_archer_1_32: -2542423833311539764
+      sheet_hero_archer_1_33: -8711488334054634840
+      sheet_hero_archer_1_34: 6062731822263890157
+      sheet_hero_archer_1_35: 8649130992247703861
+      sheet_hero_archer_1_36: 3860694542259223976
+      sheet_hero_archer_1_37: -2482839647397449431
+      sheet_hero_archer_1_38: 3321339303945916876
+      sheet_hero_archer_1_39: -7526210668132520631
+      sheet_hero_archer_1_4: 5890512618602136427
+      sheet_hero_archer_1_40: -4375656243079248921
+      sheet_hero_archer_1_41: 2326461101352955980
+      sheet_hero_archer_1_42: -6586839297390642657
+      sheet_hero_archer_1_43: 2561541204145908539
+      sheet_hero_archer_1_44: -7795172809177006925
+      sheet_hero_archer_1_45: -2112188581225030151
+      sheet_hero_archer_1_46: 2217875001119906896
+      sheet_hero_archer_1_47: -7233875857408733636
+      sheet_hero_archer_1_48: 8417858412475155751
+      sheet_hero_archer_1_49: -9214111834955941971
+      sheet_hero_archer_1_5: -8332291851051155062
+      sheet_hero_archer_1_50: -2244905231756006699
+      sheet_hero_archer_1_51: 7129224112405608282
+      sheet_hero_archer_1_52: 8732210779613323684
+      sheet_hero_archer_1_53: -7919121664050584476
+      sheet_hero_archer_1_54: 6461917867381924064
+      sheet_hero_archer_1_55: 4067089716837228655
+      sheet_hero_archer_1_56: 2173887151183579197
+      sheet_hero_archer_1_57: 7433556307149829554
+      sheet_hero_archer_1_58: -8921681374284190973
+      sheet_hero_archer_1_59: 8133577681314262622
+      sheet_hero_archer_1_6: -7202336608001865895
+      sheet_hero_archer_1_60: 257912775010911946
+      sheet_hero_archer_1_61: -6702410293672168022
+      sheet_hero_archer_1_62: -867945480427747609
+      sheet_hero_archer_1_63: 4338506578401099272
+      sheet_hero_archer_1_64: -964143986154101935
+      sheet_hero_archer_1_65: 8944945192057926723
+      sheet_hero_archer_1_66: -6652484761992171313
+      sheet_hero_archer_1_67: 4803554660787544717
+      sheet_hero_archer_1_68: 6717598728841263184
+      sheet_hero_archer_1_69: -1216846965678275584
+      sheet_hero_archer_1_7: 7955951750097218737
+      sheet_hero_archer_1_70: -4610518416362070603
+      sheet_hero_archer_1_71: -6618414694274093711
+      sheet_hero_archer_1_72: -1985965324424702326
+      sheet_hero_archer_1_73: 7845110232696989786
+      sheet_hero_archer_1_8: 5615827444860526920
+      sheet_hero_archer_1_9: -160858128518295465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

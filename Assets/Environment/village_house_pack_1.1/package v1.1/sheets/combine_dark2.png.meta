@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      combine_dark2_0: -4351965568997655704
+      combine_dark2_1: 6178522806837905492
+      combine_dark2_10: -4115848106518336224
+      combine_dark2_2: 2916525783695391876
+      combine_dark2_3: 1954306517213386470
+      combine_dark2_4: 6783198732914957645
+      combine_dark2_5: -6216789788187332716
+      combine_dark2_6: 3436480271854816067
+      combine_dark2_7: -8876949197285865674
+      combine_dark2_8: 2857739356100450463
+      combine_dark2_9: 1887576808200861455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect2_ cursed_3_0: 2746356757544421633
+      effect2_ cursed_3_1: -6707359580995605376
+      effect2_ cursed_3_10: -5662354723799518811
+      effect2_ cursed_3_11: 8536129145000273959
+      effect2_ cursed_3_12: -4815839626267048143
+      effect2_ cursed_3_13: -780512738446651331
+      effect2_ cursed_3_2: 5913506653893212801
+      effect2_ cursed_3_3: -8262442709620991394
+      effect2_ cursed_3_4: 2864593476843526107
+      effect2_ cursed_3_5: -2092396033425933354
+      effect2_ cursed_3_6: 2064842372857050641
+      effect2_ cursed_3_7: -8852012836751932513
+      effect2_ cursed_3_8: -4055114015871929545
+      effect2_ cursed_3_9: 4266331976365259098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

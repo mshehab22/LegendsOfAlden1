@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      combine_blue2_0: 9010806183024674263
+      combine_blue2_1: -7861656761651020631
+      combine_blue2_10: -4139876401517865233
+      combine_blue2_2: 3379154792147365332
+      combine_blue2_3: -276095032112809440
+      combine_blue2_4: -1302453743263266235
+      combine_blue2_5: -8739320059021993839
+      combine_blue2_6: 3306291298582998597
+      combine_blue2_7: -4034904083025325225
+      combine_blue2_8: 2405502944868087849
+      combine_blue2_9: 2266538443892210886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

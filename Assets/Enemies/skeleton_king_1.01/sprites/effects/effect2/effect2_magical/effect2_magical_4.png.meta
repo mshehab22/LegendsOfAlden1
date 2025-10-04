@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect2_magical_4_0: 3352957487779293054
+      effect2_magical_4_1: -6238373225499106383
+      effect2_magical_4_2: 3415129870339357112
+      effect2_magical_4_3: -5935867675635351576
+      effect2_magical_4_4: -7998563444813591661
+      effect2_magical_4_5: -7876728238859977008
+      effect2_magical_4_6: 3543316093528427508
+      effect2_magical_4_7: -1765861229632475656
+      effect2_magical_4_8: 1555073063702424260
+      effect2_magical_4_9: 1494347239941971721
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

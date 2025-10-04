@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      reborn_3_0: 4404286644388318026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

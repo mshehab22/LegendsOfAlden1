@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bosssplash_4_0: 6644811723546985639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

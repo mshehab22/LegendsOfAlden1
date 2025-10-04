@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect2_ legion_2_0: 5789405870831725390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

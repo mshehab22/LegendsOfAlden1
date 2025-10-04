@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect2_ royal_3_0: -7862753440452929118
+      effect2_ royal_3_1: -5365037693543845460
+      effect2_ royal_3_10: -5071055673693595229
+      effect2_ royal_3_11: 3358152707396807547
+      effect2_ royal_3_12: 1755779088132965310
+      effect2_ royal_3_13: -5441318915884726296
+      effect2_ royal_3_2: 8482679056319767318
+      effect2_ royal_3_3: 3817748574313343104
+      effect2_ royal_3_4: 8926519636300569981
+      effect2_ royal_3_5: -5461729831239032684
+      effect2_ royal_3_6: -47362546866375974
+      effect2_ royal_3_7: -638734376704874062
+      effect2_ royal_3_8: 8893873565964837106
+      effect2_ royal_3_9: -6973413221126353203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

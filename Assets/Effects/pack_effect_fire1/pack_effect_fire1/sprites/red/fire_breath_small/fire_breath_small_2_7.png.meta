@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire_breath_small_2_7_0: -8972806923730021468
+      fire_breath_small_2_7_1: -5355840923620827060
+      fire_breath_small_2_7_2: 2579514250677067746
+      fire_breath_small_2_7_3: -8565955883529079474
+      fire_breath_small_2_7_4: 3880649977486802728
+      fire_breath_small_2_7_5: -4320365877353568135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

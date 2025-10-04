@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      destroyerrunconflict_1_0: 7816012298768224898
+      destroyerrunconflict_1_1: 6007774876563231073
+      destroyerrunconflict_1_2: -2760153987230419362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

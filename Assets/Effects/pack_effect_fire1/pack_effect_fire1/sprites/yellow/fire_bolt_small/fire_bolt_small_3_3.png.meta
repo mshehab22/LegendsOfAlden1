@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire_bolt_small_3_3_0: 7223889227171820464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

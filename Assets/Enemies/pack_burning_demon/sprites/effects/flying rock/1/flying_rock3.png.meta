@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flying_rock3_0: 8472621780511859503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

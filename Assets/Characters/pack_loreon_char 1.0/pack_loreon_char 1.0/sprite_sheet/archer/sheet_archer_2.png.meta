@@ -1959,7 +1959,81 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sheet_archer_2_0: 9103537703774567602
+      sheet_archer_2_1: 2154751799228894216
+      sheet_archer_2_10: 7550311034243984419
+      sheet_archer_2_11: -2219752150975663827
+      sheet_archer_2_12: -3112285620238384645
+      sheet_archer_2_13: -3687906927788502420
+      sheet_archer_2_14: -634017655015453635
+      sheet_archer_2_15: -1852486272521818214
+      sheet_archer_2_16: 4304792304563461269
+      sheet_archer_2_17: 5105789889940977167
+      sheet_archer_2_18: -7492044941422480887
+      sheet_archer_2_19: -2262945265000154367
+      sheet_archer_2_2: -4969275372569742461
+      sheet_archer_2_20: -7854148914778571763
+      sheet_archer_2_21: -1497766386990179654
+      sheet_archer_2_22: -7667930782698068364
+      sheet_archer_2_23: 5759809711374031054
+      sheet_archer_2_24: -8703631188838411644
+      sheet_archer_2_25: 8505974732536203695
+      sheet_archer_2_26: 2123484860669191749
+      sheet_archer_2_27: -5062138342355412537
+      sheet_archer_2_28: -951794654159167231
+      sheet_archer_2_29: 2503570171800157708
+      sheet_archer_2_3: 1691040807331505685
+      sheet_archer_2_30: -36349554906214227
+      sheet_archer_2_31: -3944172737016719549
+      sheet_archer_2_32: -6689286836202525453
+      sheet_archer_2_33: -5891029563083271091
+      sheet_archer_2_34: -260312773388456705
+      sheet_archer_2_35: -1698083707350607332
+      sheet_archer_2_36: 6478756989653141569
+      sheet_archer_2_37: 3643115913695942850
+      sheet_archer_2_38: -8277110277538043978
+      sheet_archer_2_39: -7960658802221754161
+      sheet_archer_2_4: 9084679257189034064
+      sheet_archer_2_40: -2520361991201182657
+      sheet_archer_2_41: 6021255456447192283
+      sheet_archer_2_42: -3113136743352481591
+      sheet_archer_2_43: -2338665011482496688
+      sheet_archer_2_44: 558429048605720082
+      sheet_archer_2_45: 5849932875311673124
+      sheet_archer_2_46: -5725558809490232325
+      sheet_archer_2_47: -6567319324808330267
+      sheet_archer_2_48: -5147706118702275381
+      sheet_archer_2_49: 8260718708175003193
+      sheet_archer_2_5: 6160648584505958021
+      sheet_archer_2_50: -6550849783773321489
+      sheet_archer_2_51: 7402007193397055079
+      sheet_archer_2_52: 8613695628317457170
+      sheet_archer_2_53: -4422276020687427944
+      sheet_archer_2_54: -4885917865107349261
+      sheet_archer_2_55: 7382127876270399319
+      sheet_archer_2_56: -5973440418343816841
+      sheet_archer_2_57: 5099791707444061990
+      sheet_archer_2_58: 2111266066108577436
+      sheet_archer_2_59: 6615904232106306421
+      sheet_archer_2_6: 7913971238911288305
+      sheet_archer_2_60: 727439591510841127
+      sheet_archer_2_61: -3888803481381069580
+      sheet_archer_2_62: -7611574738540107505
+      sheet_archer_2_63: 3667800386801049994
+      sheet_archer_2_64: 8738014378829693741
+      sheet_archer_2_65: 2566286921094605967
+      sheet_archer_2_66: -8712856323380288487
+      sheet_archer_2_67: -826465252290463589
+      sheet_archer_2_68: 4574438795047036541
+      sheet_archer_2_69: 15923381056282645
+      sheet_archer_2_7: 5853338292841505856
+      sheet_archer_2_70: 813172918483961459
+      sheet_archer_2_71: -202048562912347019
+      sheet_archer_2_72: 1716675311123434275
+      sheet_archer_2_73: 2020711091794004794
+      sheet_archer_2_8: 3057999232597709950
+      sheet_archer_2_9: -8595794205081601986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

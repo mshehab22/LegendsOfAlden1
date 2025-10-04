@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      throne_brick_0: 5614445963687136183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

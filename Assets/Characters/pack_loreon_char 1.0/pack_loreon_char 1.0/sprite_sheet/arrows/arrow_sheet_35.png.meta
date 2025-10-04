@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arrow_sheet_35_0: -1644909687882494762
+      arrow_sheet_35_1: -233657058377553178
+      arrow_sheet_35_10: -1459113404454213941
+      arrow_sheet_35_2: -8497921628605664064
+      arrow_sheet_35_3: -388835642362697485
+      arrow_sheet_35_4: 6511348586780627837
+      arrow_sheet_35_5: -334565799158950158
+      arrow_sheet_35_6: -1120008468552791242
+      arrow_sheet_35_7: 6871654577586312082
+      arrow_sheet_35_8: -7339611603435864179
+      arrow_sheet_35_9: 3584052017212598524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

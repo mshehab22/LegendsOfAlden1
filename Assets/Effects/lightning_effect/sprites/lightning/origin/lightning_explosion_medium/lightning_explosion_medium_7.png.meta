@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lightning_explosion_medium_7_0: 6637107370501663909
+      lightning_explosion_medium_7_1: -5306390351876888096
+      lightning_explosion_medium_7_2: -6974204919412776401
+      lightning_explosion_medium_7_3: -6631360744642643172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

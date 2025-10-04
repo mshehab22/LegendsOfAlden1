@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect2_hellfire_3_0: -5201680910164741433
+      effect2_hellfire_3_1: -1210451875267660124
+      effect2_hellfire_3_10: -7656479317476975381
+      effect2_hellfire_3_11: 6422698581343258312
+      effect2_hellfire_3_12: 664614759700282650
+      effect2_hellfire_3_13: 2420128113668548025
+      effect2_hellfire_3_2: 3515194212520086172
+      effect2_hellfire_3_3: -8696585056032839758
+      effect2_hellfire_3_4: -8048047278117806363
+      effect2_hellfire_3_5: -882650772989764860
+      effect2_hellfire_3_6: -7450192236236234234
+      effect2_hellfire_3_7: -8409471479397126306
+      effect2_hellfire_3_8: 1460344505402804711
+      effect2_hellfire_3_9: 4094776914591543899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

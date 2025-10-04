@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      3floor_green_0: 1323924448093459557
+      3floor_green_1: -4900472104493636273
+      3floor_green_10: 7144445545242536558
+      3floor_green_11: -2213156379920992051
+      3floor_green_12: -3253914039759763600
+      3floor_green_13: -5133131289870939462
+      3floor_green_2: -7060965032762832944
+      3floor_green_3: -5167646586075760215
+      3floor_green_4: 5559016485247646762
+      3floor_green_5: -1776055065224453924
+      3floor_green_6: 7466553818339300646
+      3floor_green_7: 900599397292338552
+      3floor_green_8: 7401172471666621532
+      3floor_green_9: 4357537927084282811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

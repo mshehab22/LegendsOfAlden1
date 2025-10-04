@@ -809,7 +809,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect_sheet_set1_50_0: 6207000323774612602
+      effect_sheet_set1_50_1: -6508605422414480192
+      effect_sheet_set1_50_10: -5449582345550400737
+      effect_sheet_set1_50_11: 4463852141511464164
+      effect_sheet_set1_50_12: -1443563101517904862
+      effect_sheet_set1_50_13: -5310280116089715970
+      effect_sheet_set1_50_14: 8562773110080505461
+      effect_sheet_set1_50_15: 41975279943724229
+      effect_sheet_set1_50_16: -4420002217874834251
+      effect_sheet_set1_50_17: -2802169733818906857
+      effect_sheet_set1_50_18: -1837627542976111119
+      effect_sheet_set1_50_19: 7199708140908131499
+      effect_sheet_set1_50_2: -1983547360909185164
+      effect_sheet_set1_50_20: 779201858859356322
+      effect_sheet_set1_50_21: -4560300567673961123
+      effect_sheet_set1_50_22: -7998989952907220256
+      effect_sheet_set1_50_23: 3957397619970882832
+      effect_sheet_set1_50_24: -602015261435585366
+      effect_sheet_set1_50_25: 6826407079150242505
+      effect_sheet_set1_50_26: 2373244078533933998
+      effect_sheet_set1_50_27: 6679891877157489062
+      effect_sheet_set1_50_3: 7791596230138386448
+      effect_sheet_set1_50_4: -6337389642845510025
+      effect_sheet_set1_50_5: -7319642973236713283
+      effect_sheet_set1_50_6: 5073770524734514581
+      effect_sheet_set1_50_7: 1907362669361621595
+      effect_sheet_set1_50_8: -2420295387033351317
+      effect_sheet_set1_50_9: 6174650182211723989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

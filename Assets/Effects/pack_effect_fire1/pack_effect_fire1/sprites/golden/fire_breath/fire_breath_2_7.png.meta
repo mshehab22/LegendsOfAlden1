@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire_breath_2_7_0: 8582624092602707024
+      fire_breath_2_7_1: 7939124126891188651
+      fire_breath_2_7_10: -3002572956834490086
+      fire_breath_2_7_11: -4990729440633895023
+      fire_breath_2_7_12: 6404715822730116845
+      fire_breath_2_7_13: -4565474091668349360
+      fire_breath_2_7_14: 8242874354886553922
+      fire_breath_2_7_15: 1154386028431740350
+      fire_breath_2_7_16: -1075830663828330810
+      fire_breath_2_7_17: 1079419620127647025
+      fire_breath_2_7_18: -1035478913777844829
+      fire_breath_2_7_19: 6884620171716245894
+      fire_breath_2_7_2: 3661437337968311851
+      fire_breath_2_7_20: 6246525567162797487
+      fire_breath_2_7_21: -8014901237640937705
+      fire_breath_2_7_22: -1524996099459736365
+      fire_breath_2_7_23: 3673939266596317563
+      fire_breath_2_7_3: 5691136004967218909
+      fire_breath_2_7_4: -1642469086333201406
+      fire_breath_2_7_5: 3173311188518508187
+      fire_breath_2_7_6: -1159386296349929437
+      fire_breath_2_7_7: 1019630308105674480
+      fire_breath_2_7_8: 8894699186330298765
+      fire_breath_2_7_9: -8234728581899587976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

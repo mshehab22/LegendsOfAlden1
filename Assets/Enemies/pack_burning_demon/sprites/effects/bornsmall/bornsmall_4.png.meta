@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bornsmall_4_0: -5046649890052694923
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
