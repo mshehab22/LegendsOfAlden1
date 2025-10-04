@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: cf09570b58706224195a8daac946fc42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8070703398399816293
+    second: sheet_mage_2_0
+  - first:
+      213: 6886018713932843590
+    second: sheet_mage_2_1
+  - first:
+      213: -3713108093154503247
+    second: sheet_mage_2_2
+  - first:
+      213: -4998033675857874570
+    second: sheet_mage_2_3
+  - first:
+      213: -2129383881900949003
+    second: sheet_mage_2_4
+  - first:
+      213: 389758455372051916
+    second: sheet_mage_2_5
+  - first:
+      213: 6926953953334894165
+    second: sheet_mage_2_6
+  - first:
+      213: 5086818932479138870
+    second: sheet_mage_2_7
+  - first:
+      213: -760350399176151214
+    second: sheet_mage_2_8
+  - first:
+      213: 6842352929310234361
+    second: sheet_mage_2_9
+  - first:
+      213: -5998748115748608617
+    second: sheet_mage_2_10
+  - first:
+      213: 8202663538911003115
+    second: sheet_mage_2_11
+  - first:
+      213: -5316630398113404333
+    second: sheet_mage_2_12
+  - first:
+      213: -2789230778358591473
+    second: sheet_mage_2_13
+  - first:
+      213: 696416485713762170
+    second: sheet_mage_2_14
+  - first:
+      213: -1538516276238993462
+    second: sheet_mage_2_15
+  - first:
+      213: 6866835635852802508
+    second: sheet_mage_2_16
+  - first:
+      213: 2046975745011171631
+    second: sheet_mage_2_17
+  - first:
+      213: 2081783799507792103
+    second: sheet_mage_2_18
+  - first:
+      213: 6547450854733956394
+    second: sheet_mage_2_19
+  - first:
+      213: 3885234305199503172
+    second: sheet_mage_2_20
+  - first:
+      213: 3041084670451042555
+    second: sheet_mage_2_21
+  - first:
+      213: 6958942934537170406
+    second: sheet_mage_2_22
+  - first:
+      213: 4243763443928257719
+    second: sheet_mage_2_23
+  - first:
+      213: -2390267217966450730
+    second: sheet_mage_2_24
+  - first:
+      213: 644715514303837055
+    second: sheet_mage_2_25
+  - first:
+      213: 6860980628453252769
+    second: sheet_mage_2_26
+  - first:
+      213: -8057978026177910192
+    second: sheet_mage_2_27
+  - first:
+      213: -3545991461017309661
+    second: sheet_mage_2_28
+  - first:
+      213: -8877017934572617013
+    second: sheet_mage_2_29
+  - first:
+      213: -1440458791384894134
+    second: sheet_mage_2_30
+  - first:
+      213: -6635343021969021600
+    second: sheet_mage_2_31
+  - first:
+      213: 6008011779819295083
+    second: sheet_mage_2_32
+  - first:
+      213: -7008223540870352903
+    second: sheet_mage_2_33
+  - first:
+      213: 1305805027795228547
+    second: sheet_mage_2_34
+  - first:
+      213: -160626947253694081
+    second: sheet_mage_2_35
+  - first:
+      213: -8051917034484852177
+    second: sheet_mage_2_36
+  - first:
+      213: 9195171516315165417
+    second: sheet_mage_2_37
+  - first:
+      213: -8784028697519081891
+    second: sheet_mage_2_38
+  - first:
+      213: -1031129243161527159
+    second: sheet_mage_2_39
+  - first:
+      213: -358158054047531506
+    second: sheet_mage_2_40
+  - first:
+      213: 3207347674074617177
+    second: sheet_mage_2_41
+  - first:
+      213: -5025309816360570338
+    second: sheet_mage_2_42
+  - first:
+      213: -7811430650189963927
+    second: sheet_mage_2_43
+  - first:
+      213: -971691409434925889
+    second: sheet_mage_2_44
+  - first:
+      213: -8254425566691403645
+    second: sheet_mage_2_45
+  - first:
+      213: 753161271624867461
+    second: sheet_mage_2_46
+  - first:
+      213: -6211074973662898532
+    second: sheet_mage_2_47
+  - first:
+      213: 8460696475026620289
+    second: sheet_mage_2_48
+  - first:
+      213: 6346605715874155488
+    second: sheet_mage_2_49
+  - first:
+      213: -5790424135780629949
+    second: sheet_mage_2_50
+  - first:
+      213: 953630843349009308
+    second: sheet_mage_2_51
+  - first:
+      213: 6112688059376464563
+    second: sheet_mage_2_52
+  - first:
+      213: 5870829213499404099
+    second: sheet_mage_2_53
+  - first:
+      213: 909462610583838161
+    second: sheet_mage_2_54
+  - first:
+      213: 8745985572094743320
+    second: sheet_mage_2_55
+  - first:
+      213: -6999874824088213032
+    second: sheet_mage_2_56
+  - first:
+      213: -367928364598730232
+    second: sheet_mage_2_57
+  - first:
+      213: 8140582015128337723
+    second: sheet_mage_2_58
+  - first:
+      213: 928931944713751813
+    second: sheet_mage_2_59
+  - first:
+      213: 4620298254788162036
+    second: sheet_mage_2_60
+  - first:
+      213: -2565437125979688110
+    second: sheet_mage_2_61
+  - first:
+      213: -4607267974457085405
+    second: sheet_mage_2_62
+  - first:
+      213: -6848096788155049681
+    second: sheet_mage_2_63
+  - first:
+      213: 8231268994065129957
+    second: sheet_mage_2_64
+  - first:
+      213: 7587822372085339589
+    second: sheet_mage_2_65
+  - first:
+      213: -2093833818256294990
+    second: sheet_mage_2_66
+  - first:
+      213: 7025291032414179330
+    second: sheet_mage_2_67
+  - first:
+      213: -4991977084107874572
+    second: sheet_mage_2_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_mage_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b82dfaf5e00070800000000000000
+      internalID: 8070703398399816293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 711
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ac8a0698d009f50800000000000000
+      internalID: 6886018713932843590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 711
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d5e6bcd3687cc0800000000000000
+      internalID: -3713108093154503247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 711
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6713d0f3ada63aab0800000000000000
+      internalID: -4998033675857874570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f10ad034a8e272e0800000000000000
+      internalID: -2129383881900949003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 663
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f7a80043b86500800000000000000
+      internalID: 389758455372051916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 663
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e93048beb712060800000000000000
+      internalID: 6926953953334894165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 663
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c96233ed2089640800000000000000
+      internalID: 5086818932479138870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 663
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f67482751b275f0800000000000000
+      internalID: -760350399176151214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 663
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6d363acbbe4fe50800000000000000
+      internalID: 6842352929310234361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795a2c71f5a20cca0800000000000000
+      internalID: -5998748115748608617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 615
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1c6d07707b5d170800000000000000
+      internalID: 8202663538911003115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 615
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a286652d88736b0800000000000000
+      internalID: -5316630398113404333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 615
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0099539269aa49d0800000000000000
+      internalID: -2789230778358591473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 615
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77d1be9a1b2aa900800000000000000
+      internalID: 696416485713762170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 615
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac73e91299716aae0800000000000000
+      internalID: -1538516276238993462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 615
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9fff5f0a6eb4f50800000000000000
+      internalID: 6866835635852802508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 615
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f214b314891586c10800000000000000
+      internalID: 2046975745011171631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 615
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e033dcf55bf3ec10800000000000000
+      internalID: 2081783799507792103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 615
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25cebcccd73dda50800000000000000
+      internalID: 6547450854733956394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 615
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f39604002be530800000000000000
+      internalID: 3885234305199503172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 567
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8ce1a356a143a20800000000000000
+      internalID: 3041084670451042555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 566
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed6d499ab1239060800000000000000
+      internalID: 6958942934537170406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 567
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d12a2e50e4ea30800000000000000
+      internalID: 4243763443928257719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 567
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d739d221a014ded0800000000000000
+      internalID: -2390267217966450730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 567
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73734b285d72f800800000000000000
+      internalID: 644715514303837055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 567
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aedac1d789173f50800000000000000
+      internalID: 6860980628453252769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 567
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a23cd9daf4c2090800000000000000
+      internalID: -8057978026177910192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 567
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eae7dbd8b1acec0800000000000000
+      internalID: -3545991461017309661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 567
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc20701983f7ec480800000000000000
+      internalID: -8877017934572617013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_30
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 567
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a453ae17c56720ce0800000000000000
+      internalID: -1440458791384894134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0656ba45da68ae3a0800000000000000
+      internalID: -6635343021969021600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 519
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61dd76c1eeb06350800000000000000
+      internalID: 6008011779819295083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 522
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff64eb12d9cdbe90800000000000000
+      internalID: -7008223540870352903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 519
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38757ab11c62f1210800000000000000
+      internalID: 1305805027795228547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 519
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71969b74a655cdf0800000000000000
+      internalID: -160626947253694081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 519
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a1d963e18d14090800000000000000
+      internalID: -8051917034484852177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_37
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 519
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e261c6a6cfcb9f70800000000000000
+      internalID: 9195171516315165417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_38
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 519
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56b98b707cd81680800000000000000
+      internalID: -8784028697519081891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_39
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 519
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cf6df9a61b0b1f0800000000000000
+      internalID: -1031129243161527159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_40
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 519
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e3d0fb521970bf0800000000000000
+      internalID: -358158054047531506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 469
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955946067b9c28c20800000000000000
+      internalID: 3207347674074617177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 470
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e127b85e853824ab0800000000000000
+      internalID: -5025309816360570338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 471
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d14dbd539389390800000000000000
+      internalID: -7811430650189963927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 471
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb42555bfcbd382f0800000000000000
+      internalID: -971691409434925889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 471
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d4705ea3627d80800000000000000
+      internalID: -8254425566691403645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e18c5af24c37a00800000000000000
+      internalID: 753161271624867461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 423
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9611891834ddc9a0800000000000000
+      internalID: -6211074973662898532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 422
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f7c5a0e9e6a6570800000000000000
+      internalID: 8460696475026620289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 422
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb8428d54ca31850800000000000000
+      internalID: 6346605715874155488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 423
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34282ff6de744afa0800000000000000
+      internalID: -5790424135780629949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_51
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 423
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c938ca0133afb3d00800000000000000
+      internalID: 953630843349009308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_52
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 417
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2f7e15761a4d450800000000000000
+      internalID: 6112688059376464563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 423
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2e9f8010697150800000000000000
+      internalID: 5870829213499404099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_54
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 423
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd59500d6f0f9c00800000000000000
+      internalID: 909462610583838161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_55
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 423
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81316632a8bff5970800000000000000
+      internalID: 8745985572094743320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 293
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9a5063fe27bde90800000000000000
+      internalID: -6999874824088213032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 228
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8026d4d0a1bd4eaf0800000000000000
+      internalID: -367928364598730232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 358
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d78ac463829f070800000000000000
+      internalID: 8140582015128337723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 293
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0d299eaa34ec00800000000000000
+      internalID: 928931944713751813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 358
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1710988c89e1040800000000000000
+      internalID: 4620298254788162036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 228
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b164b68cb56cd0800000000000000
+      internalID: -2565437125979688110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 358
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b3750032bf00c0800000000000000
+      internalID: -4607267974457085405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 293
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f295682014ca6f0a0800000000000000
+      internalID: -6848096788155049681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_64
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 228
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e160f9f9875b3270800000000000000
+      internalID: 8231268994065129957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_65
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 293
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c598e2de3c5d4960800000000000000
+      internalID: 7587822372085339589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 358
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb32246c3531f2e0800000000000000
+      internalID: -2093833818256294990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_67
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 358
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200d8cee8f8de7160800000000000000
+      internalID: 7025291032414179330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_mage_2_68
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 249
+        width: 37
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe1cd66a4fe8bab0800000000000000
+      internalID: -4991977084107874572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3992 @@
+fileFormatVersion: 2
+guid: a1cbcdcf15286a3439d5b2aa8abd19e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6478801433226992775
+    second: line50-blue_0
+  - first:
+      213: 3736530741847228191
+    second: line50-blue_1
+  - first:
+      213: 6441136801038259500
+    second: line50-blue_2
+  - first:
+      213: 4387928036911991020
+    second: line50-blue_3
+  - first:
+      213: -7319774612644695845
+    second: line50-blue_4
+  - first:
+      213: 8515430597677062176
+    second: line50-blue_5
+  - first:
+      213: -2435400581578887869
+    second: line50-blue_6
+  - first:
+      213: -2881402655652119571
+    second: line50-blue_7
+  - first:
+      213: 4939373649775863977
+    second: line50-blue_8
+  - first:
+      213: 91113560288101021
+    second: line50-blue_9
+  - first:
+      213: 5121916103014244164
+    second: line50-blue_10
+  - first:
+      213: 2928377633577029824
+    second: line50-blue_11
+  - first:
+      213: -7930787915914117079
+    second: line50-blue_12
+  - first:
+      213: 7443895293387571884
+    second: line50-blue_13
+  - first:
+      213: -2314670333435234136
+    second: line50-blue_14
+  - first:
+      213: -5285340132713329728
+    second: line50-blue_15
+  - first:
+      213: 7774387768595972613
+    second: line50-blue_16
+  - first:
+      213: -4771776902758002075
+    second: line50-blue_17
+  - first:
+      213: 5124010947766820377
+    second: line50-blue_18
+  - first:
+      213: -4632011562752272031
+    second: line50-blue_19
+  - first:
+      213: -863793963534792361
+    second: line50-blue_20
+  - first:
+      213: 7298042524564562743
+    second: line50-blue_21
+  - first:
+      213: 4144942917353389910
+    second: line50-blue_22
+  - first:
+      213: -2296194258132525314
+    second: line50-blue_23
+  - first:
+      213: 6482033984329639449
+    second: line50-blue_24
+  - first:
+      213: -8907855080566533869
+    second: line50-blue_25
+  - first:
+      213: 4619299708544230882
+    second: line50-blue_26
+  - first:
+      213: -1510156217224223799
+    second: line50-blue_27
+  - first:
+      213: 3195975419767586562
+    second: line50-blue_28
+  - first:
+      213: -2578407065148329983
+    second: line50-blue_29
+  - first:
+      213: -5476155830653434180
+    second: line50-blue_30
+  - first:
+      213: -5284495980526679342
+    second: line50-blue_31
+  - first:
+      213: -4203646838878684672
+    second: line50-blue_32
+  - first:
+      213: -4164073342460330648
+    second: line50-blue_33
+  - first:
+      213: -3873091158128967629
+    second: line50-blue_34
+  - first:
+      213: 8498601925956565561
+    second: line50-blue_35
+  - first:
+      213: 4093715116313230313
+    second: line50-blue_36
+  - first:
+      213: 1032402154588897129
+    second: line50-blue_37
+  - first:
+      213: -5386619197736935689
+    second: line50-blue_38
+  - first:
+      213: -7058306173798133117
+    second: line50-blue_39
+  - first:
+      213: -4991942009785686799
+    second: line50-blue_40
+  - first:
+      213: 604413800536216105
+    second: line50-blue_41
+  - first:
+      213: 8966110858311667154
+    second: line50-blue_42
+  - first:
+      213: 2353152583771006569
+    second: line50-blue_43
+  - first:
+      213: -1851083470571298897
+    second: line50-blue_44
+  - first:
+      213: -981328595608593839
+    second: line50-blue_45
+  - first:
+      213: -4239174815107698370
+    second: line50-blue_46
+  - first:
+      213: -6991638356035774807
+    second: line50-blue_47
+  - first:
+      213: 600579005183229350
+    second: line50-blue_48
+  - first:
+      213: -4738478171795777951
+    second: line50-blue_49
+  - first:
+      213: -4332341233070459966
+    second: line50-blue_50
+  - first:
+      213: 7741724438569798941
+    second: line50-blue_51
+  - first:
+      213: 4450667750553971869
+    second: line50-blue_52
+  - first:
+      213: -8843010994076204455
+    second: line50-blue_53
+  - first:
+      213: -1346768140694934627
+    second: line50-blue_54
+  - first:
+      213: -9012542213640763927
+    second: line50-blue_55
+  - first:
+      213: 4918144793015855084
+    second: line50-blue_56
+  - first:
+      213: -4526838205780662038
+    second: line50-blue_57
+  - first:
+      213: -3438215379083421565
+    second: line50-blue_58
+  - first:
+      213: 9221249219647149175
+    second: line50-blue_59
+  - first:
+      213: 360177727717896870
+    second: line50-blue_60
+  - first:
+      213: 3652026712015192682
+    second: line50-blue_61
+  - first:
+      213: -8037220730099614133
+    second: line50-blue_62
+  - first:
+      213: 6949832698315949163
+    second: line50-blue_63
+  - first:
+      213: -8547727898689605642
+    second: line50-blue_64
+  - first:
+      213: -3514481244236487751
+    second: line50-blue_65
+  - first:
+      213: -4393194314937798167
+    second: line50-blue_66
+  - first:
+      213: 8579852583249457371
+    second: line50-blue_67
+  - first:
+      213: -1667158827738563898
+    second: line50-blue_68
+  - first:
+      213: -4560409920519274752
+    second: line50-blue_69
+  - first:
+      213: -1708412745938642034
+    second: line50-blue_70
+  - first:
+      213: -4322329021383647137
+    second: line50-blue_71
+  - first:
+      213: 7316410408150516684
+    second: line50-blue_72
+  - first:
+      213: -3481297009380242812
+    second: line50-blue_73
+  - first:
+      213: -7395276984464112676
+    second: line50-blue_74
+  - first:
+      213: 5521764701049008334
+    second: line50-blue_75
+  - first:
+      213: -7794429069588814545
+    second: line50-blue_76
+  - first:
+      213: 6954652672626126069
+    second: line50-blue_77
+  - first:
+      213: 7351343716808723213
+    second: line50-blue_78
+  - first:
+      213: -5692335877962572363
+    second: line50-blue_79
+  - first:
+      213: -9140693317703852415
+    second: line50-blue_80
+  - first:
+      213: -3140401596226481879
+    second: line50-blue_81
+  - first:
+      213: -2398252094899464660
+    second: line50-blue_82
+  - first:
+      213: -1082270291644460851
+    second: line50-blue_83
+  - first:
+      213: -8475899535021928358
+    second: line50-blue_84
+  - first:
+      213: 572531625603907174
+    second: line50-blue_85
+  - first:
+      213: -3974794695420011999
+    second: line50-blue_86
+  - first:
+      213: -4610646960712763936
+    second: line50-blue_87
+  - first:
+      213: 7987357219000179703
+    second: line50-blue_88
+  - first:
+      213: -5068168511405517460
+    second: line50-blue_89
+  - first:
+      213: -5031237998468078310
+    second: line50-blue_90
+  - first:
+      213: 1002693901048520999
+    second: line50-blue_91
+  - first:
+      213: 8992626714638067108
+    second: line50-blue_92
+  - first:
+      213: 6858622487640591093
+    second: line50-blue_93
+  - first:
+      213: -6442405402367219771
+    second: line50-blue_94
+  - first:
+      213: -9181326789320388510
+    second: line50-blue_95
+  - first:
+      213: -8876706299694753514
+    second: line50-blue_96
+  - first:
+      213: -1179618495756008516
+    second: line50-blue_97
+  - first:
+      213: -772561246000408721
+    second: line50-blue_98
+  - first:
+      213: 7963489927170389307
+    second: line50-blue_99
+  - first:
+      213: 3270853082389634523
+    second: line50-blue_100
+  - first:
+      213: -1596581343959677476
+    second: line50-blue_101
+  - first:
+      213: 7474422377747380549
+    second: line50-blue_102
+  - first:
+      213: -2608126806583410728
+    second: line50-blue_103
+  - first:
+      213: -8168831231918326254
+    second: line50-blue_104
+  - first:
+      213: 3658641623871509863
+    second: line50-blue_105
+  - first:
+      213: 1608002316996725462
+    second: line50-blue_106
+  - first:
+      213: -1165583337956897217
+    second: line50-blue_107
+  - first:
+      213: -4768882638955228758
+    second: line50-blue_108
+  - first:
+      213: 1047177108536179702
+    second: line50-blue_109
+  - first:
+      213: 1590768299564702103
+    second: line50-blue_110
+  - first:
+      213: 6060325557644145157
+    second: line50-blue_111
+  - first:
+      213: -7058782249501432190
+    second: line50-blue_112
+  - first:
+      213: -1817815091571824229
+    second: line50-blue_113
+  - first:
+      213: -9016989454266262952
+    second: line50-blue_114
+  - first:
+      213: -2713307013414796769
+    second: line50-blue_115
+  - first:
+      213: -7852577934429245728
+    second: line50-blue_116
+  - first:
+      213: -3832778357707161972
+    second: line50-blue_117
+  - first:
+      213: -4895070868723324300
+    second: line50-blue_118
+  - first:
+      213: -8652906963665825720
+    second: line50-blue_119
+  - first:
+      213: 2084592509053712947
+    second: line50-blue_120
+  - first:
+      213: 800001390063032020
+    second: line50-blue_121
+  - first:
+      213: 8396537846596759806
+    second: line50-blue_122
+  - first:
+      213: 3739099650403681533
+    second: line50-blue_123
+  - first:
+      213: -1253748608939541533
+    second: line50-blue_124
+  - first:
+      213: -2171181104908014827
+    second: line50-blue_125
+  - first:
+      213: -729282708400507076
+    second: line50-blue_126
+  - first:
+      213: 8962581448215510468
+    second: line50-blue_127
+  - first:
+      213: -639211112540150292
+    second: line50-blue_128
+  - first:
+      213: -8778683852886957854
+    second: line50-blue_129
+  - first:
+      213: -2317281255523900063
+    second: line50-blue_130
+  - first:
+      213: -5611785166052559455
+    second: line50-blue_131
+  - first:
+      213: 6461656044521979481
+    second: line50-blue_132
+  - first:
+      213: 2072555072587354019
+    second: line50-blue_133
+  - first:
+      213: -6108509280406713971
+    second: line50-blue_134
+  - first:
+      213: -6059095355878676549
+    second: line50-blue_135
+  - first:
+      213: -5140671241958497444
+    second: line50-blue_136
+  - first:
+      213: 4547900043791399106
+    second: line50-blue_137
+  - first:
+      213: -1880108575755215290
+    second: line50-blue_138
+  - first:
+      213: -9149575222945103513
+    second: line50-blue_139
+  - first:
+      213: -1207692984740598944
+    second: line50-blue_140
+  - first:
+      213: 6857817043334860169
+    second: line50-blue_141
+  - first:
+      213: -2358262351792219172
+    second: line50-blue_142
+  - first:
+      213: -6370243951504079879
+    second: line50-blue_143
+  - first:
+      213: 5092740390161773130
+    second: line50-blue_144
+  - first:
+      213: 5281998969309389609
+    second: line50-blue_145
+  - first:
+      213: 1042419487385713634
+    second: line50-blue_146
+  - first:
+      213: 1702653634545138839
+    second: line50-blue_147
+  - first:
+      213: -3144284443567960946
+    second: line50-blue_148
+  - first:
+      213: -2947544432049322602
+    second: line50-blue_149
+  - first:
+      213: -8544364022491777820
+    second: line50-blue_150
+  - first:
+      213: -3348412859935247650
+    second: line50-blue_151
+  - first:
+      213: -2956021960087261706
+    second: line50-blue_152
+  - first:
+      213: -4209096655561673227
+    second: line50-blue_153
+  - first:
+      213: -3682180328982637020
+    second: line50-blue_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: line50-blue_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 931
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973a6323c6ca616a0800000000000000
+      internalID: -6478801433226992775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 931
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f7128a9e2dad330800000000000000
+      internalID: 3736530741847228191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 932
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25d49f3bc3836950800000000000000
+      internalID: 6441136801038259500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 936
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8cd142d4d05ec30800000000000000
+      internalID: 4387928036911991020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 931
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0f36985cfea6a90800000000000000
+      internalID: -7319774612644695845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 932
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028980c0303ec2670800000000000000
+      internalID: 8515430597677062176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 931
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34de5390318b33ed0800000000000000
+      internalID: -2435400581578887869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 931
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debfcfe0d833308d0800000000000000
+      internalID: -2881402655652119571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 933
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a0df1a2e2c8440800000000000000
+      internalID: 4939373649775863977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 934
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d928133ec43b34100800000000000000
+      internalID: 91113560288101021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 935
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f54810f83b41740800000000000000
+      internalID: 5121916103014244164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 931
+        width: 61
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0de8941ffa3a820800000000000000
+      internalID: 2928377633577029824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_12
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 931
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9208afad86e20f190800000000000000
+      internalID: -7930787915914117079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 11
+        width: 353
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2819374570e4760800000000000000
+      internalID: 7443895293387571884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 830
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8357b6893a0efd0800000000000000
+      internalID: -2314670333435234136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 830
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb8188f623b6a6b0800000000000000
+      internalID: -5285340132713329728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 833
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5020e4d2c7c24eb60800000000000000
+      internalID: 7774387768595972613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 831
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56212bb503e37cdb0800000000000000
+      internalID: -4771776902758002075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 830
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e9ade0fc42c1740800000000000000
+      internalID: 5124010947766820377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 831
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16916ae660ac7bfb0800000000000000
+      internalID: -4632011562752272031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 830
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759c16c77ff2304f0800000000000000
+      internalID: -863793963534792361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 834
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733ad58620bd74560800000000000000
+      internalID: 7298042524564562743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 831
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fbe1b5f9bc58930800000000000000
+      internalID: 4144942917353389910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 834
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe18bcec774220e0800000000000000
+      internalID: -2296194258132525314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_24
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 831
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166af1c09fc4f950800000000000000
+      internalID: 6482033984329639449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 831
+        width: 61
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115c240001f06480800000000000000
+      internalID: -8907855080566533869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_26
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 834
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e528de5c9c0b1040800000000000000
+      internalID: 4619299708544230882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 719
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3a00debe8da0be0800000000000000
+      internalID: -1510156217224223799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 719
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f702616b26a5c20800000000000000
+      internalID: 3195975419767586562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 731
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100f97b6f68a73cd0800000000000000
+      internalID: -2578407065148329983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 722
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6c7333949c004b0800000000000000
+      internalID: -5476155830653434180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 720
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da4ab777e2b9a6b0800000000000000
+      internalID: -5284495980526679342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_32
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 736
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a317fc875a9a5c0800000000000000
+      internalID: -4203646838878684672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_33
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 735
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d7af37b5d3636c0800000000000000
+      internalID: -4164073342460330648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_34
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 731
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3304409bc14004ac0800000000000000
+      internalID: -3873091158128967629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_35
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 720
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a77149c6911f570800000000000000
+      internalID: 8498601925956565561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_36
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 727
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb3f77753ccfc830800000000000000
+      internalID: 4093715116313230313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_37
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f7e992a44d35e00800000000000000
+      internalID: 1032402154588897129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_38
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 736
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe17921162ee35b0800000000000000
+      internalID: -5386619197736935689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 724
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382d0d27eebdb0e90800000000000000
+      internalID: -7058306173798133117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 722
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4ef57c03f09bab0800000000000000
+      internalID: -4991942009785686799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 720
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9221e46362f436800800000000000000
+      internalID: 604413800536216105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_42
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 719
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd807632560e6c70800000000000000
+      internalID: 8966110858311667154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_43
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 729
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966a6f1bec318a020800000000000000
+      internalID: 2353152583771006569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 718
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf10071461af46e0800000000000000
+      internalID: -1851083470571298897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 617
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a11d277de9162f0800000000000000
+      internalID: -981328595608593839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 616
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3139bc37fc6b25c0800000000000000
+      internalID: -4239174815107698370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_47
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 637
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6dd7e55f5b8fe90800000000000000
+      internalID: -6991638356035774807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_48
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 623
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adf0875c6fa55800800000000000000
+      internalID: 600579005183229350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 622
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1669b22553b8d3eb0800000000000000
+      internalID: -4738478171795777951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 621
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3be0d2a9e60e3c0800000000000000
+      internalID: -4332341233070459966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 635
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dc9e50c51207b60800000000000000
+      internalID: 7741724438569798941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_52
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 628
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c6e0d0db2f3cd30800000000000000
+      internalID: 4450667750553971869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_53
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 620
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952c6396a50574580800000000000000
+      internalID: -8843010994076204455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_54
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 620
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba013f2815f4de0800000000000000
+      internalID: -1346768140694934627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 641
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5cab07b940de280800000000000000
+      internalID: -9012542213640763927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_56
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 635
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a5adb1a2c04440800000000000000
+      internalID: 4918144793015855084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_57
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 620
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8e6c4d2a07d21c0800000000000000
+      internalID: -4526838205780662038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 616
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388927444510940d0800000000000000
+      internalID: -3438215379083421565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7749a6a1f4578ff70800000000000000
+      internalID: 9221249219647149175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_60
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 622
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2f1ac2cbb9ff400800000000000000
+      internalID: 360177727717896870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 512
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6247eff1fa9ea230800000000000000
+      internalID: 3652026712015192682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 510
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb109345e067090800000000000000
+      internalID: -8037220730099614133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 530
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64448f6404c27060800000000000000
+      internalID: 6949832698315949163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_64
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 511
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffe8e193ce506980800000000000000
+      internalID: -8547727898689605642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 510
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3e28bcded0a3fc0800000000000000
+      internalID: -3514481244236487751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_66
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 541
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1fdd4fb0d3803c0800000000000000
+      internalID: -4393194314937798167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_67
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 532
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd03dc96772c11770800000000000000
+      internalID: 8579852583249457371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_68
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 525
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7c7011ef0dd8e0800000000000000
+      internalID: -1667158827738563898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_69
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 511
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ff741e65b26b0c0800000000000000
+      internalID: -4560409920519274752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_70
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 510
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd39cb8af7a48e0800000000000000
+      internalID: -1708412745938642034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_71
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 544
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50e01ed7a00404c0800000000000000
+      internalID: -4322329021383647137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_72
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 522
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc348c0908c198560800000000000000
+      internalID: 7316410408150516684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_73
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 509
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ac24e80d2ffafc0800000000000000
+      internalID: -3481297009380242812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd30565b3c2be5990800000000000000
+      internalID: -7395276984464112676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 509
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec031537dbf31ac40800000000000000
+      internalID: 5521764701049008334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_76
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 509
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f252e20de00a4d390800000000000000
+      internalID: -7794429069588814545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_77
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 413
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fce91822c3e38060800000000000000
+      internalID: 6954652672626126069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_78
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 412
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b0f2e4928350660800000000000000
+      internalID: 7351343716808723213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 448
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd54d3ada2c001b0800000000000000
+      internalID: -5692335877962572363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_80
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 415
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e99756bdbb52180800000000000000
+      internalID: -9140693317703852415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_81
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 428
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921d9d4036d0b64d0800000000000000
+      internalID: -3140401596226481879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_82
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 441
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c265ea91d62b7bed0800000000000000
+      internalID: -2398252094899464660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_83
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 415
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0d29367e00bf0f0800000000000000
+      internalID: -1082270291644460851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_84
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 414
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509e17b74e8f5a80800000000000000
+      internalID: -8475899535021928358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_85
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 450
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e3cc6ea7a02f700800000000000000
+      internalID: 572531625603907174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 430
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a126ca841b6d8c0800000000000000
+      internalID: -3974794695420011999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_87
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 428
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53bf97401b300c0800000000000000
+      internalID: -4610646960712763936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_88
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb58a4621bc8de60800000000000000
+      internalID: 7987357219000179703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_89
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 427
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c659ad7579f3aa9b0800000000000000
+      internalID: -5068168511405517460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_90
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 415
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15ecd072b37d2ab0800000000000000
+      internalID: -5031237998468078310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 409
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a27e5ac84aed00800000000000000
+      internalID: 1002693901048520999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_92
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 413
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5a0bb1a5a3ccc70800000000000000
+      internalID: 8992626714638067108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_93
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 417
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fac25060d8be2f50800000000000000
+      internalID: 6858622487640591093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_94
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 412
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c728dc7b6af796a0800000000000000
+      internalID: -6442405402367219771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_95
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 419
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260d7cb0eef559080800000000000000
+      internalID: -9181326789320388510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_96
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 310
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d837b6aa9fc480800000000000000
+      internalID: -8876706299694753514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_97
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 308
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb38bfd5a3721afe0800000000000000
+      internalID: -1179618495756008516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_98
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 353
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6799e4d3af4745f0800000000000000
+      internalID: -772561246000408721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 347
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35746975eff38e60800000000000000
+      internalID: 7963489927170389307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_100
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 308
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd53587c87646d20800000000000000
+      internalID: 3270853082389634523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_101
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 341
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5844a0abdc7d9e0800000000000000
+      internalID: -1596581343959677476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_102
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 324
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549fcd62d8b7ab760800000000000000
+      internalID: 7474422377747380549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_103
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 307
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dffb64ec721ecbd0800000000000000
+      internalID: -2608126806583410728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_104
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 304
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e346f564b72ae80800000000000000
+      internalID: -8168831231918326254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_105
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 337
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765d15f2c2b16c230800000000000000
+      internalID: 3658641623871509863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 332
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da48967695c05610800000000000000
+      internalID: 1608002316996725462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_107
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 305
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e07f0312403dfe0800000000000000
+      internalID: -1165583337956897217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_108
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 327
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1db89a18681ddb0800000000000000
+      internalID: -4768882638955228758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_109
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 308
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb38333802588e00800000000000000
+      internalID: 1047177108536179702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_110
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7999187175b831610800000000000000
+      internalID: 1590768299564702103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_111
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 309
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502b9965cf99a1450800000000000000
+      internalID: 6060325557644145157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_112
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 209
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28662af61fa2a0e90800000000000000
+      internalID: -7058782249501432190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_113
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 207
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99648f2ec2d5c6e0800000000000000
+      internalID: -1817815091571824229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_114
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 219
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a140b8dd73dd280800000000000000
+      internalID: -9016989454266262952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_115
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 211
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12c5d2a5a5685ad0800000000000000
+      internalID: -2713307013414796769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_116
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 211
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee264f29f9060390800000000000000
+      internalID: -7852577934429245728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_117
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 235
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e3f0ef36c3fcac0800000000000000
+      internalID: -3832778357707161972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_118
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 215
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a2267eaf6311cb0800000000000000
+      internalID: -4895070868723324300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_119
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 209
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d13c26f2bae780800000000000000
+      internalID: -8652906963665825720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_120
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 208
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3693a7d5fdec10800000000000000
+      internalID: 2084592509053712947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_121
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d69682960d2a1b00800000000000000
+      internalID: 800001390063032020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_122
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0f5894fae768470800000000000000
+      internalID: 8396537846596759806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_123
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 234
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4491a4253f3e330800000000000000
+      internalID: 3739099650403681533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_124
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 212
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebb486684ac99ee0800000000000000
+      internalID: -1253748608939541533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_125
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 206
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51beaead94a6ed1e0800000000000000
+      internalID: -2171181104908014827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_126
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 210
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37f3f89d3111e5f0800000000000000
+      internalID: -729282708400507076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_127
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 207
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd3463675c716c70800000000000000
+      internalID: 8962581448215510468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_128
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 111
+        width: 11
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5ef8c31e01127f0800000000000000
+      internalID: -639211112540150292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_129
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 106
+        width: 11
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e027391c89db2680800000000000000
+      internalID: -8778683852886957854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_130
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 121
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a3dfb9fc57dfd0800000000000000
+      internalID: -2317281255523900063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_131
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 129
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a571adbf1fee12b0800000000000000
+      internalID: -5611785166052559455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_132
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 108
+        width: 13
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95efc7aefe96ca950800000000000000
+      internalID: 6461656044521979481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_133
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 146
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afc00f8bd133cc10800000000000000
+      internalID: 2072555072587354019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_134
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 155
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d894e2a7c273a3ba0800000000000000
+      internalID: -6108509280406713971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_135
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 109
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7e1a450e4c9eba0800000000000000
+      internalID: -6059095355878676549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_136
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 106
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536ffbedbaa8a8b0800000000000000
+      internalID: -5140671241958497444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_137
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 112
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c87b287ef26d1f30800000000000000
+      internalID: 4547900043791399106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_138
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 126
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed1fa263388e5e0800000000000000
+      internalID: -1880108575755215290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_139
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 104
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76144aeafcd260180800000000000000
+      internalID: -9149575222945103513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_140
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 107
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2ec601a96d3fe0800000000000000
+      internalID: -1207692984740598944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_141
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d0892444cdb2f50800000000000000
+      internalID: 6857817043334860169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_142
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb5f3ab2e4c54fd0800000000000000
+      internalID: -2358262351792219172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_143
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 28
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3c40a80e85897a0800000000000000
+      internalID: -6370243951504079879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_144
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 11
+        width: 12
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4270e0076c0da640800000000000000
+      internalID: 5092740390161773130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_145
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 8
+        width: 13
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9236aadc31e6d4940800000000000000
+      internalID: 5281998969309389609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_146
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 39
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf194300b677e00800000000000000
+      internalID: 1042419487385713634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_147
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 18
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c3796a57a01a710800000000000000
+      internalID: 1702653634545138839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_148
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 13
+        width: 12
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c485c25f14d54d0800000000000000
+      internalID: -3144284443567960946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_149
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 59
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6950500b4f73817d0800000000000000
+      internalID: -2947544432049322602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_150
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4ffb701325c6980800000000000000
+      internalID: -8544364022491777820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_151
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 25
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2b53a9e3c0881d0800000000000000
+      internalID: -3348412859935247650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_152
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 21
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdaeb060b91af6d0800000000000000
+      internalID: -2956021960087261706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_153
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 24
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f536fb74e84695c0800000000000000
+      internalID: -4209096655561673227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-blue_154
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 6
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4261f04ff7446ecc0800000000000000
+      internalID: -3682180328982637020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

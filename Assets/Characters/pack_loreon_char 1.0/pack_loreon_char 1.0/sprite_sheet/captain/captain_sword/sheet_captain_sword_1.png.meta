@@ -1,0 +1,2217 @@
+fileFormatVersion: 2
+guid: 5c02a027188eeeb4aa0455ae93bcce5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3765499374423871649
+    second: sheet_captain_sword_1_0
+  - first:
+      213: -7039095891645493204
+    second: sheet_captain_sword_1_1
+  - first:
+      213: 1837002657024085748
+    second: sheet_captain_sword_1_2
+  - first:
+      213: -1888896556104976523
+    second: sheet_captain_sword_1_3
+  - first:
+      213: 8798718701681586649
+    second: sheet_captain_sword_1_4
+  - first:
+      213: 2293291458545551534
+    second: sheet_captain_sword_1_5
+  - first:
+      213: 1093025262916160188
+    second: sheet_captain_sword_1_6
+  - first:
+      213: -8611344395936471412
+    second: sheet_captain_sword_1_7
+  - first:
+      213: 4787549051697604043
+    second: sheet_captain_sword_1_8
+  - first:
+      213: 2274928696863164209
+    second: sheet_captain_sword_1_9
+  - first:
+      213: -998701509513259111
+    second: sheet_captain_sword_1_10
+  - first:
+      213: -6612423134481447399
+    second: sheet_captain_sword_1_11
+  - first:
+      213: 9072006094022398759
+    second: sheet_captain_sword_1_12
+  - first:
+      213: -6044891980801411091
+    second: sheet_captain_sword_1_13
+  - first:
+      213: 6898371808781153785
+    second: sheet_captain_sword_1_14
+  - first:
+      213: 2122001890011176110
+    second: sheet_captain_sword_1_15
+  - first:
+      213: 2523292838412409898
+    second: sheet_captain_sword_1_16
+  - first:
+      213: 7975891835290416460
+    second: sheet_captain_sword_1_17
+  - first:
+      213: 6505888602383767018
+    second: sheet_captain_sword_1_18
+  - first:
+      213: 3076341373894980638
+    second: sheet_captain_sword_1_19
+  - first:
+      213: -3383657728973204672
+    second: sheet_captain_sword_1_20
+  - first:
+      213: 6359826997855029546
+    second: sheet_captain_sword_1_21
+  - first:
+      213: -7877578493105342857
+    second: sheet_captain_sword_1_22
+  - first:
+      213: 7751916855985193129
+    second: sheet_captain_sword_1_23
+  - first:
+      213: -5440681707508727565
+    second: sheet_captain_sword_1_24
+  - first:
+      213: -115797559107014860
+    second: sheet_captain_sword_1_25
+  - first:
+      213: -3208016522332288301
+    second: sheet_captain_sword_1_26
+  - first:
+      213: 8130123455228501935
+    second: sheet_captain_sword_1_27
+  - first:
+      213: -4649041401309388135
+    second: sheet_captain_sword_1_28
+  - first:
+      213: 4768081469406565216
+    second: sheet_captain_sword_1_29
+  - first:
+      213: -7782875699855402957
+    second: sheet_captain_sword_1_30
+  - first:
+      213: -8164693788967715805
+    second: sheet_captain_sword_1_31
+  - first:
+      213: 3141682007176373757
+    second: sheet_captain_sword_1_32
+  - first:
+      213: -1432130236638395149
+    second: sheet_captain_sword_1_33
+  - first:
+      213: 8778011589766570653
+    second: sheet_captain_sword_1_34
+  - first:
+      213: 5156272512698194517
+    second: sheet_captain_sword_1_35
+  - first:
+      213: -4672759237365352364
+    second: sheet_captain_sword_1_36
+  - first:
+      213: 357934833895044236
+    second: sheet_captain_sword_1_37
+  - first:
+      213: -5452962961067096701
+    second: sheet_captain_sword_1_38
+  - first:
+      213: 844531594217163999
+    second: sheet_captain_sword_1_39
+  - first:
+      213: 1455083573888429852
+    second: sheet_captain_sword_1_40
+  - first:
+      213: 785374353514133395
+    second: sheet_captain_sword_1_41
+  - first:
+      213: -4009022281050736523
+    second: sheet_captain_sword_1_42
+  - first:
+      213: -9157768406273418330
+    second: sheet_captain_sword_1_43
+  - first:
+      213: 8615529792706467027
+    second: sheet_captain_sword_1_44
+  - first:
+      213: -4228213091814633831
+    second: sheet_captain_sword_1_45
+  - first:
+      213: -7506142658809938456
+    second: sheet_captain_sword_1_46
+  - first:
+      213: -5191610333169895726
+    second: sheet_captain_sword_1_47
+  - first:
+      213: 3498532175633164625
+    second: sheet_captain_sword_1_48
+  - first:
+      213: 8853504677699802773
+    second: sheet_captain_sword_1_49
+  - first:
+      213: 4917027574134455879
+    second: sheet_captain_sword_1_50
+  - first:
+      213: 6106117562704605030
+    second: sheet_captain_sword_1_51
+  - first:
+      213: 5784567359615517572
+    second: sheet_captain_sword_1_52
+  - first:
+      213: -7378475532719346030
+    second: sheet_captain_sword_1_53
+  - first:
+      213: -9217284020934919029
+    second: sheet_captain_sword_1_54
+  - first:
+      213: 8000244762450223283
+    second: sheet_captain_sword_1_55
+  - first:
+      213: 6724467243742951090
+    second: sheet_captain_sword_1_56
+  - first:
+      213: -4343160221999421782
+    second: sheet_captain_sword_1_57
+  - first:
+      213: 1233657130676080504
+    second: sheet_captain_sword_1_58
+  - first:
+      213: 5020549708718852774
+    second: sheet_captain_sword_1_59
+  - first:
+      213: 5053432924641629696
+    second: sheet_captain_sword_1_60
+  - first:
+      213: 6576762790125075310
+    second: sheet_captain_sword_1_61
+  - first:
+      213: 1404752710399675779
+    second: sheet_captain_sword_1_62
+  - first:
+      213: 8711738103214544265
+    second: sheet_captain_sword_1_63
+  - first:
+      213: -5250027016347701382
+    second: sheet_captain_sword_1_64
+  - first:
+      213: 455755600545451580
+    second: sheet_captain_sword_1_65
+  - first:
+      213: -8887978974195660264
+    second: sheet_captain_sword_1_66
+  - first:
+      213: 6089622757206663486
+    second: sheet_captain_sword_1_67
+  - first:
+      213: 2932031504026379176
+    second: sheet_captain_sword_1_68
+  - first:
+      213: 5918208912206506654
+    second: sheet_captain_sword_1_69
+  - first:
+      213: 4447937314621010266
+    second: sheet_captain_sword_1_70
+  - first:
+      213: -6886043723605044001
+    second: sheet_captain_sword_1_71
+  - first:
+      213: -3719982279226198818
+    second: sheet_captain_sword_1_72
+  - first:
+      213: 8056433453243419676
+    second: sheet_captain_sword_1_73
+  - first:
+      213: 1915957715039574201
+    second: sheet_captain_sword_1_74
+  - first:
+      213: -8626687591700655496
+    second: sheet_captain_sword_1_75
+  - first:
+      213: -5873343140886701667
+    second: sheet_captain_sword_1_76
+  - first:
+      213: 8348879196272776390
+    second: sheet_captain_sword_1_77
+  - first:
+      213: 3472487679163317582
+    second: sheet_captain_sword_1_78
+  - first:
+      213: 3793743370193222429
+    second: sheet_captain_sword_1_79
+  - first:
+      213: 4247059557468616443
+    second: sheet_captain_sword_1_80
+  - first:
+      213: -4786618090684166262
+    second: sheet_captain_sword_1_81
+  - first:
+      213: -2857262819196287060
+    second: sheet_captain_sword_1_82
+  - first:
+      213: -6486466080521358527
+    second: sheet_captain_sword_1_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 711
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f6289f4424ebbc0800000000000000
+      internalID: -3765499374423871649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 711
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c201f8ec49b105e90800000000000000
+      internalID: -7039095891645493204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 711
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe8e570f285e7910800000000000000
+      internalID: 1837002657024085748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 711
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57777eb079a49c5e0800000000000000
+      internalID: -1888896556104976523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 711
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d13154aa045b1a70800000000000000
+      internalID: 8798718701681586649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 711
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea88b016e6863df10800000000000000
+      internalID: 2293291458545551534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 711
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba45ae7fa43b2f00800000000000000
+      internalID: 1093025262916160188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 711
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e7a195eb5e7880800000000000000
+      internalID: -8611344395936471412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 663
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5a13b3f7ac07240800000000000000
+      internalID: 4787549051697604043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 663
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1370fd1c89b229f10800000000000000
+      internalID: 2274928696863164209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 663
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997d0d8b446e322f0800000000000000
+      internalID: -998701509513259111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 663
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91688ac7134fb34a0800000000000000
+      internalID: -6612423134481447399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 663
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723526a1a7d36ed70800000000000000
+      internalID: 9072006094022398759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 663
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de779ba45ca3c1ca0800000000000000
+      internalID: -6044891980801411091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 615
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f538f66c90fbbf50800000000000000
+      internalID: 6898371808781153785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 615
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacd2d2e97dd27d10800000000000000
+      internalID: 2122001890011176110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 615
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cdbd1b779840320800000000000000
+      internalID: 2523292838412409898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 615
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c457c69bd5f00be60800000000000000
+      internalID: 7975891835290416460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 615
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5d855d63f894a50800000000000000
+      internalID: 6505888602383767018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 615
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14f8de2e2c51ba20800000000000000
+      internalID: 3076341373894980638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 615
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0431c0f0935da01d0800000000000000
+      internalID: -3383657728973204672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 615
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29861075f4a24850800000000000000
+      internalID: 6359826997855029546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 615
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776f23409183da290800000000000000
+      internalID: -7877578493105342857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_23
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 615
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a04c512f47549b60800000000000000
+      internalID: 7751916855985193129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_24
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 615
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00aff10d0de74b0800000000000000
+      internalID: -5440681707508727565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 567
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fa197cbba946ef0800000000000000
+      internalID: -115797559107014860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 567
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daccc048f5da73d0800000000000000
+      internalID: -3208016522332288301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 567
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf57f0153004d070800000000000000
+      internalID: 8130123455228501935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 567
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992aed82a794b7fb0800000000000000
+      internalID: -4649041401309388135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 567
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063d91485d0ab2240800000000000000
+      internalID: 4768081469406565216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 567
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338591359cbadf390800000000000000
+      internalID: -7782875699855402957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_31
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 567
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cbdb0e14e21be80800000000000000
+      internalID: -8164693788967715805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_32
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 566
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5ebf2e32f799b20800000000000000
+      internalID: 3141682007176373757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 567
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f48215332d002ce0800000000000000
+      internalID: -1432130236638395149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 567
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926c427803c1d970800000000000000
+      internalID: 8778011589766570653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 519
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a9c7cf782ce8740800000000000000
+      internalID: 5156272512698194517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 519
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458b9ef1b36072fb0800000000000000
+      internalID: -4672759237365352364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 518
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c847d03c5d3a7f400800000000000000
+      internalID: 357934833895044236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 519
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385cb34f31f2354b0800000000000000
+      internalID: -5452962961067096701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 519
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc88eaa20168bb00800000000000000
+      internalID: 844531594217163999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_40
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 519
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f20241dce713410800000000000000
+      internalID: 1455083573888429852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 519
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39779ec30d536ea00800000000000000
+      internalID: 785374353514133395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 519
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5783851e9771d58c0800000000000000
+      internalID: -4009022281050736523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_43
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 519
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab17c8872219e080800000000000000
+      internalID: -9157768406273418330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_44
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 519
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4501e03b2809770800000000000000
+      internalID: 8615529792706467027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 469
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e8bb3589e5255c0800000000000000
+      internalID: -4228213091814633831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 470
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3a346503d4d790800000000000000
+      internalID: -7506142658809938456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 471
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6392788e1b3f7b0800000000000000
+      internalID: -5191610333169895726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 471
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159a3eb4a784d8030800000000000000
+      internalID: 3498532175633164625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 471
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5965e83b897fdda70800000000000000
+      internalID: 8853504677699802773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb513f68acc3440800000000000000
+      internalID: 4917027574134455879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_51
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 423
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f28c952994db450800000000000000
+      internalID: 6106117562704605030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 423
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483c3399d59e64050800000000000000
+      internalID: 5784567359615517572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 423
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e2a5888936a9990800000000000000
+      internalID: -7378475532719346030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 422
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c3a4aa401a51080800000000000000
+      internalID: -9217284020934919029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_55
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 423
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0660e6934960f60800000000000000
+      internalID: 8000244762450223283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_56
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 417
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b67c07945b125d50800000000000000
+      internalID: 6724467243742951090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_57
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 423
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62e150acef9b3c0800000000000000
+      internalID: -4343160221999421782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_58
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 423
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f4398cf94de1110800000000000000
+      internalID: 1233657130676080504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_59
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 423
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aac06d2c539ca540800000000000000
+      internalID: 5020549708718852774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 358
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00617818876612640800000000000000
+      internalID: 5053432924641629696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 358
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b796599ea554b50800000000000000
+      internalID: 6576762790125075310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_62
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 358
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc3acb52fae7310800000000000000
+      internalID: 1404752710399675779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_63
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 358
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985965ae5af46e870800000000000000
+      internalID: 8711738103214544265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 358
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f24659e382427b0800000000000000
+      internalID: -5250027016347701382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_65
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 358
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e08e2dd4b235600800000000000000
+      internalID: 455755600545451580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_66
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 293
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a4de7a63e87a480800000000000000
+      internalID: -8887978974195660264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 293
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31207b22afa28450800000000000000
+      internalID: 6089622757206663486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_68
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 293
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32fbb4e1ba0b820800000000000000
+      internalID: 2932031504026379176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_69
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 293
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aae9e46a3b12250800000000000000
+      internalID: 5918208912206506654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_70
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 293
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51b035eb6f3abd30800000000000000
+      internalID: 4447937314621010266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 293
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd496ba97bbdf60a0800000000000000
+      internalID: -6886043723605044001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 228
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed479fb83d7ff5cc0800000000000000
+      internalID: -3719982279226198818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 228
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cc5297a833ecf60800000000000000
+      internalID: 8056433453243419676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 228
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85a910469d69a10800000000000000
+      internalID: 1915957715039574201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_75
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 228
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872996c6759d74880800000000000000
+      internalID: -8626687591700655496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_76
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 228
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99987b1881bd7ea0800000000000000
+      internalID: -5873343140886701667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 228
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4dc7e056d2dd370800000000000000
+      internalID: 8348879196272776390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_78
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 163
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d337b6521c03030800000000000000
+      internalID: 3472487679163317582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_79
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 163
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b3c5dbe7516a430800000000000000
+      internalID: 3793743370193222429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 163
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf638d66a2690fa30800000000000000
+      internalID: 4247059557468616443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_81
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 163
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fcf450534829db0800000000000000
+      internalID: -4786618090684166262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_82
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 163
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7cfd7ba96f858d0800000000000000
+      internalID: -2857262819196287060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_captain_sword_1_83
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 163
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14377ee67717bf5a0800000000000000
+      internalID: -6486466080521358527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

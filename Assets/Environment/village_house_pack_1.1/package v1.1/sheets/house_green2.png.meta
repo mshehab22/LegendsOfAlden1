@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: 9d750b1ee23d4d74d915145fb6c80201
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6081802980090947691
+    second: house_green2_0
+  - first:
+      213: -3616026633885909988
+    second: house_green2_1
+  - first:
+      213: 2793973523258115022
+    second: house_green2_2
+  - first:
+      213: 7271479872109705770
+    second: house_green2_3
+  - first:
+      213: -241584187960442932
+    second: house_green2_4
+  - first:
+      213: -8236187193780552154
+    second: house_green2_5
+  - first:
+      213: 2354105814234439445
+    second: house_green2_6
+  - first:
+      213: -2080783961662768266
+    second: house_green2_7
+  - first:
+      213: -6680923367768885936
+    second: house_green2_8
+  - first:
+      213: 6125175541853358632
+    second: house_green2_9
+  - first:
+      213: -5380783077703002749
+    second: house_green2_10
+  - first:
+      213: -3170053726179960589
+    second: house_green2_11
+  - first:
+      213: 8823347403651847765
+    second: house_green2_12
+  - first:
+      213: 1208013007397453924
+    second: house_green2_13
+  - first:
+      213: 8685429058993020515
+    second: house_green2_14
+  - first:
+      213: 6081632274916431473
+    second: house_green2_15
+  - first:
+      213: -4406766806966361130
+    second: house_green2_16
+  - first:
+      213: -423305091917011628
+    second: house_green2_17
+  - first:
+      213: 2382579941954365791
+    second: house_green2_18
+  - first:
+      213: -4644089556431350387
+    second: house_green2_19
+  - first:
+      213: -8151058760316724493
+    second: house_green2_20
+  - first:
+      213: -3229881277591065637
+    second: house_green2_21
+  - first:
+      213: -4158223010398475469
+    second: house_green2_22
+  - first:
+      213: -5382109125722189090
+    second: house_green2_23
+  - first:
+      213: 1267800382300183193
+    second: house_green2_24
+  - first:
+      213: 4976125496330659760
+    second: house_green2_25
+  - first:
+      213: -4934537381034033260
+    second: house_green2_26
+  - first:
+      213: 4906185432469882814
+    second: house_green2_27
+  - first:
+      213: -8938575893826028607
+    second: house_green2_28
+  - first:
+      213: 5999979835950106892
+    second: house_green2_29
+  - first:
+      213: -4834477010528781458
+    second: house_green2_30
+  - first:
+      213: 3233388038060908768
+    second: house_green2_31
+  - first:
+      213: 8904247812565502315
+    second: house_green2_32
+  - first:
+      213: 9215883045775555537
+    second: house_green2_33
+  - first:
+      213: 4702381427645214447
+    second: house_green2_34
+  - first:
+      213: -2442859885197927595
+    second: house_green2_35
+  - first:
+      213: 1038964813897593990
+    second: house_green2_36
+  - first:
+      213: -3931089755106668684
+    second: house_green2_37
+  - first:
+      213: -416202124983318607
+    second: house_green2_38
+  - first:
+      213: 2071643429912348160
+    second: house_green2_39
+  - first:
+      213: -3260201715456789307
+    second: house_green2_40
+  - first:
+      213: 9163871905515690379
+    second: house_green2_41
+  - first:
+      213: 9131538015646668354
+    second: house_green2_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_green2_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ab3e6697e66450800000000000000
+      internalID: 6081802980090947691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1119
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cf0ec5fea41ddc0800000000000000
+      internalID: -3616026633885909988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec385a5cd1036c620800000000000000
+      internalID: 2793973523258115022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a7080fa6c79e460800000000000000
+      internalID: 7271479872109705770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1119
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf34450678b5acf0800000000000000
+      internalID: -241584187960442932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb61b626f23bd80800000000000000
+      internalID: -8236187193780552154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f1025f3c67ba020800000000000000
+      internalID: 2354105814234439445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bb2c6e2029f13e0800000000000000
+      internalID: -2080783961662768266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 895
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055778418979843a0800000000000000
+      internalID: -6680923367768885936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_9
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 895
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a8417e3bef00550800000000000000
+      internalID: 6125175541853358632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_10
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855418ac4e9355b0800000000000000
+      internalID: -5380783077703002749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d3248ee4b104d0800000000000000
+      internalID: -3170053726179960589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556988c27b3d27a70800000000000000
+      internalID: 8823347403651847765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4600afd0e69b3c010800000000000000
+      internalID: 1208013007397453924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e522736b7d88870800000000000000
+      internalID: 8685429058993020515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176d1f8055c466450800000000000000
+      internalID: 6081632274916431473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_16
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3a9c6efe408d2c0800000000000000
+      internalID: -4406766806966361130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4552cacf24e102af0800000000000000
+      internalID: -423305091917011628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59292175df901120800000000000000
+      internalID: 2382579941954365791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85dec36721ec8fb0800000000000000
+      internalID: -4644089556431350387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa5cff5e3f91ee80800000000000000
+      internalID: -8151058760316724493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_21
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbef7637182d23d0800000000000000
+      internalID: -3229881277591065637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_22
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be75804360b46c0800000000000000
+      internalID: -4158223010398475469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_23
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d0fa0448ee45b0800000000000000
+      internalID: -5382109125722189090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_24
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a5b190bb1289110800000000000000
+      internalID: 1267800382300183193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_25
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ad8636cfbe0540800000000000000
+      internalID: 4976125496330659760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f74907560058bb0800000000000000
+      internalID: -4934537381034033260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7409028a5461440800000000000000
+      internalID: 4906185432469882814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_28
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb31aa459cc3f380800000000000000
+      internalID: -8938575893826028607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_29
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09005d1fd5344350800000000000000
+      internalID: 5999979835950106892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_30
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bb3a8e5cc78ecb0800000000000000
+      internalID: -4834477010528781458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_31
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e02e951a4d4fdc20800000000000000
+      internalID: 3233388038060908768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_32
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b690404753e329b70800000000000000
+      internalID: 8904247812565502315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_33
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db3ff26dc465ef70800000000000000
+      internalID: 9215883045775555537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeef218ef6324140800000000000000
+      internalID: 4702381427645214447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bd9b290e7391ed0800000000000000
+      internalID: -2442859885197927595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_36
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684fe7a5ef42b6e00800000000000000
+      internalID: 1038964813897593990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f80be02b6f179c0800000000000000
+      internalID: -3931089755106668684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_38
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b74b995f5a593af0800000000000000
+      internalID: -416202124983318607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_39
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006823539b4ffbc10800000000000000
+      internalID: 2071643429912348160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_40
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4341620df61c2d0800000000000000
+      internalID: -3260201715456789307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_41
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89d17f12fc9c2f70800000000000000
+      internalID: 9163871905515690379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_green2_42
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246589bb17db9be70800000000000000
+      internalID: 9131538015646668354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

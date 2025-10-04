@@ -1,0 +1,3992 @@
+fileFormatVersion: 2
+guid: e5e0afae8325f224690b5435eff92246
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9134296821532794785
+    second: line50-aqua-blue_0
+  - first:
+      213: -3242237482979091079
+    second: line50-aqua-blue_1
+  - first:
+      213: 4292081770102743405
+    second: line50-aqua-blue_2
+  - first:
+      213: 8612153963119254805
+    second: line50-aqua-blue_3
+  - first:
+      213: -8965386898077603775
+    second: line50-aqua-blue_4
+  - first:
+      213: -3937810662913473333
+    second: line50-aqua-blue_5
+  - first:
+      213: -1166975253367628229
+    second: line50-aqua-blue_6
+  - first:
+      213: 386943975861615457
+    second: line50-aqua-blue_7
+  - first:
+      213: 5469917032874701485
+    second: line50-aqua-blue_8
+  - first:
+      213: -3857373138417173099
+    second: line50-aqua-blue_9
+  - first:
+      213: -8086208686382881865
+    second: line50-aqua-blue_10
+  - first:
+      213: 2818500472593818700
+    second: line50-aqua-blue_11
+  - first:
+      213: -6115899152227710092
+    second: line50-aqua-blue_12
+  - first:
+      213: -263314984638591171
+    second: line50-aqua-blue_13
+  - first:
+      213: -698832648039402711
+    second: line50-aqua-blue_14
+  - first:
+      213: 6846930962955212594
+    second: line50-aqua-blue_15
+  - first:
+      213: 3299293857349460787
+    second: line50-aqua-blue_16
+  - first:
+      213: 2355978803967692413
+    second: line50-aqua-blue_17
+  - first:
+      213: 8209137599537540797
+    second: line50-aqua-blue_18
+  - first:
+      213: 7111472594415686477
+    second: line50-aqua-blue_19
+  - first:
+      213: -5915287293779251172
+    second: line50-aqua-blue_20
+  - first:
+      213: -3482251436786994362
+    second: line50-aqua-blue_21
+  - first:
+      213: -6942487997076734202
+    second: line50-aqua-blue_22
+  - first:
+      213: 6578728802719969076
+    second: line50-aqua-blue_23
+  - first:
+      213: 5077699703723026851
+    second: line50-aqua-blue_24
+  - first:
+      213: -4536527298183449177
+    second: line50-aqua-blue_25
+  - first:
+      213: 6940489725245027627
+    second: line50-aqua-blue_26
+  - first:
+      213: -6930482314837214972
+    second: line50-aqua-blue_27
+  - first:
+      213: -8251797513932731416
+    second: line50-aqua-blue_28
+  - first:
+      213: 5755588274329695415
+    second: line50-aqua-blue_29
+  - first:
+      213: 5192562712066058183
+    second: line50-aqua-blue_30
+  - first:
+      213: 5418446668165003873
+    second: line50-aqua-blue_31
+  - first:
+      213: -921937698033592606
+    second: line50-aqua-blue_32
+  - first:
+      213: -2451698022680122261
+    second: line50-aqua-blue_33
+  - first:
+      213: -6324647943046843712
+    second: line50-aqua-blue_34
+  - first:
+      213: -7098943837207665607
+    second: line50-aqua-blue_35
+  - first:
+      213: 61619241532907131
+    second: line50-aqua-blue_36
+  - first:
+      213: 3074011803760819945
+    second: line50-aqua-blue_37
+  - first:
+      213: 5552530342160218517
+    second: line50-aqua-blue_38
+  - first:
+      213: -2055642217077580714
+    second: line50-aqua-blue_39
+  - first:
+      213: -4281129764225993736
+    second: line50-aqua-blue_40
+  - first:
+      213: 7319205566412535599
+    second: line50-aqua-blue_41
+  - first:
+      213: 222948777075644774
+    second: line50-aqua-blue_42
+  - first:
+      213: -5240390055463917181
+    second: line50-aqua-blue_43
+  - first:
+      213: -75275310810115618
+    second: line50-aqua-blue_44
+  - first:
+      213: -6278295639797106959
+    second: line50-aqua-blue_45
+  - first:
+      213: 3957775182614512691
+    second: line50-aqua-blue_46
+  - first:
+      213: 3769243477250406800
+    second: line50-aqua-blue_47
+  - first:
+      213: -2996175056998144290
+    second: line50-aqua-blue_48
+  - first:
+      213: 4619808767514352173
+    second: line50-aqua-blue_49
+  - first:
+      213: 4090411437815016683
+    second: line50-aqua-blue_50
+  - first:
+      213: -212321194661347744
+    second: line50-aqua-blue_51
+  - first:
+      213: 8776194287786783004
+    second: line50-aqua-blue_52
+  - first:
+      213: -7809791232838676834
+    second: line50-aqua-blue_53
+  - first:
+      213: 5992290668256199839
+    second: line50-aqua-blue_54
+  - first:
+      213: -2864632897018103731
+    second: line50-aqua-blue_55
+  - first:
+      213: -8394683925540070744
+    second: line50-aqua-blue_56
+  - first:
+      213: 94306283283554822
+    second: line50-aqua-blue_57
+  - first:
+      213: 2417248184609364096
+    second: line50-aqua-blue_58
+  - first:
+      213: -4289355610470099374
+    second: line50-aqua-blue_59
+  - first:
+      213: 3793597365444569885
+    second: line50-aqua-blue_60
+  - first:
+      213: 7099469660417166351
+    second: line50-aqua-blue_61
+  - first:
+      213: 3923676297408933512
+    second: line50-aqua-blue_62
+  - first:
+      213: 3054295553227165800
+    second: line50-aqua-blue_63
+  - first:
+      213: -8526532929386430725
+    second: line50-aqua-blue_64
+  - first:
+      213: 2649715318866534315
+    second: line50-aqua-blue_65
+  - first:
+      213: 780698918710502829
+    second: line50-aqua-blue_66
+  - first:
+      213: 4053714193465538427
+    second: line50-aqua-blue_67
+  - first:
+      213: 2322056861852967106
+    second: line50-aqua-blue_68
+  - first:
+      213: -1246871993765309843
+    second: line50-aqua-blue_69
+  - first:
+      213: 6611635374195384266
+    second: line50-aqua-blue_70
+  - first:
+      213: 829937619349149718
+    second: line50-aqua-blue_71
+  - first:
+      213: -4016666381228452953
+    second: line50-aqua-blue_72
+  - first:
+      213: -2516406156746621820
+    second: line50-aqua-blue_73
+  - first:
+      213: 1007882728541736266
+    second: line50-aqua-blue_74
+  - first:
+      213: 852172971975188811
+    second: line50-aqua-blue_75
+  - first:
+      213: 9135011575500837005
+    second: line50-aqua-blue_76
+  - first:
+      213: 7071346237796455811
+    second: line50-aqua-blue_77
+  - first:
+      213: -2253711015345502354
+    second: line50-aqua-blue_78
+  - first:
+      213: 7452311393464839873
+    second: line50-aqua-blue_79
+  - first:
+      213: 8247137200460416904
+    second: line50-aqua-blue_80
+  - first:
+      213: 2383852869502325327
+    second: line50-aqua-blue_81
+  - first:
+      213: -1487244174239110847
+    second: line50-aqua-blue_82
+  - first:
+      213: -8170290679923408569
+    second: line50-aqua-blue_83
+  - first:
+      213: 861644930579473984
+    second: line50-aqua-blue_84
+  - first:
+      213: 6233708654372311294
+    second: line50-aqua-blue_85
+  - first:
+      213: -4142038371678239096
+    second: line50-aqua-blue_86
+  - first:
+      213: -1649980303882411998
+    second: line50-aqua-blue_87
+  - first:
+      213: -140242686786696744
+    second: line50-aqua-blue_88
+  - first:
+      213: 4093163137680699698
+    second: line50-aqua-blue_89
+  - first:
+      213: 3277519257819371964
+    second: line50-aqua-blue_90
+  - first:
+      213: 4711162563420398040
+    second: line50-aqua-blue_91
+  - first:
+      213: 7733437631951609749
+    second: line50-aqua-blue_92
+  - first:
+      213: 4453371004686861601
+    second: line50-aqua-blue_93
+  - first:
+      213: -4713538761832972642
+    second: line50-aqua-blue_94
+  - first:
+      213: 7128529975913609903
+    second: line50-aqua-blue_95
+  - first:
+      213: -8524316187543183543
+    second: line50-aqua-blue_96
+  - first:
+      213: 7888869666111191947
+    second: line50-aqua-blue_97
+  - first:
+      213: -2095136117520343760
+    second: line50-aqua-blue_98
+  - first:
+      213: 6237811189120153488
+    second: line50-aqua-blue_99
+  - first:
+      213: 135106428383216583
+    second: line50-aqua-blue_100
+  - first:
+      213: 1725744504254133944
+    second: line50-aqua-blue_101
+  - first:
+      213: 548365867903332247
+    second: line50-aqua-blue_102
+  - first:
+      213: -4023538709782376617
+    second: line50-aqua-blue_103
+  - first:
+      213: 1186491090043829436
+    second: line50-aqua-blue_104
+  - first:
+      213: -7136539574309409749
+    second: line50-aqua-blue_105
+  - first:
+      213: 4280951116329413317
+    second: line50-aqua-blue_106
+  - first:
+      213: -1994802790375970687
+    second: line50-aqua-blue_107
+  - first:
+      213: -7295088975901497922
+    second: line50-aqua-blue_108
+  - first:
+      213: -8405654380685231423
+    second: line50-aqua-blue_109
+  - first:
+      213: -3114275546743310734
+    second: line50-aqua-blue_110
+  - first:
+      213: -5776702347587620895
+    second: line50-aqua-blue_111
+  - first:
+      213: 4478580664157416134
+    second: line50-aqua-blue_112
+  - first:
+      213: -2828930727968042167
+    second: line50-aqua-blue_113
+  - first:
+      213: 6960408033583433103
+    second: line50-aqua-blue_114
+  - first:
+      213: -9194948178911412888
+    second: line50-aqua-blue_115
+  - first:
+      213: 1287800889013306974
+    second: line50-aqua-blue_116
+  - first:
+      213: -7292804529096579096
+    second: line50-aqua-blue_117
+  - first:
+      213: 3756097110409975672
+    second: line50-aqua-blue_118
+  - first:
+      213: -2206453007584461335
+    second: line50-aqua-blue_119
+  - first:
+      213: -7351467267824371202
+    second: line50-aqua-blue_120
+  - first:
+      213: -2033104912969404970
+    second: line50-aqua-blue_121
+  - first:
+      213: 9142214248550850826
+    second: line50-aqua-blue_122
+  - first:
+      213: -1107114767410583710
+    second: line50-aqua-blue_123
+  - first:
+      213: -2829613873336047881
+    second: line50-aqua-blue_124
+  - first:
+      213: -2844137014286850294
+    second: line50-aqua-blue_125
+  - first:
+      213: 1325637052693211141
+    second: line50-aqua-blue_126
+  - first:
+      213: 5270809699119671534
+    second: line50-aqua-blue_127
+  - first:
+      213: -2668889857704711470
+    second: line50-aqua-blue_128
+  - first:
+      213: -8347820202975389910
+    second: line50-aqua-blue_129
+  - first:
+      213: 1974281022649641339
+    second: line50-aqua-blue_130
+  - first:
+      213: -5638564458510335718
+    second: line50-aqua-blue_131
+  - first:
+      213: 7154737851207052930
+    second: line50-aqua-blue_132
+  - first:
+      213: -1568034655240175406
+    second: line50-aqua-blue_133
+  - first:
+      213: -799500764987460871
+    second: line50-aqua-blue_134
+  - first:
+      213: -1074676293747155823
+    second: line50-aqua-blue_135
+  - first:
+      213: 4930982138724160543
+    second: line50-aqua-blue_136
+  - first:
+      213: -1642926744947093479
+    second: line50-aqua-blue_137
+  - first:
+      213: -8759025337993127190
+    second: line50-aqua-blue_138
+  - first:
+      213: -4896484809422317155
+    second: line50-aqua-blue_139
+  - first:
+      213: 6731982807515305535
+    second: line50-aqua-blue_140
+  - first:
+      213: 2669291693737793370
+    second: line50-aqua-blue_141
+  - first:
+      213: 869328578098024707
+    second: line50-aqua-blue_142
+  - first:
+      213: 2023863549651659288
+    second: line50-aqua-blue_143
+  - first:
+      213: 2101146681075247271
+    second: line50-aqua-blue_144
+  - first:
+      213: -4718202401784697193
+    second: line50-aqua-blue_145
+  - first:
+      213: -7522293636859838404
+    second: line50-aqua-blue_146
+  - first:
+      213: 5659986506950690329
+    second: line50-aqua-blue_147
+  - first:
+      213: -5396227087522658125
+    second: line50-aqua-blue_148
+  - first:
+      213: -8360287159506704166
+    second: line50-aqua-blue_149
+  - first:
+      213: 5837689486532142637
+    second: line50-aqua-blue_150
+  - first:
+      213: 998515106600521350
+    second: line50-aqua-blue_151
+  - first:
+      213: 8846936469420479299
+    second: line50-aqua-blue_152
+  - first:
+      213: -3656198259192885356
+    second: line50-aqua-blue_153
+  - first:
+      213: -6590984946765530159
+    second: line50-aqua-blue_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: line50-aqua-blue_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 931
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50ee87bf657c3180800000000000000
+      internalID: -9134296821532794785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 931
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d1395ff224103d0800000000000000
+      internalID: -3242237482979091079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 932
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6167e521a9809b30800000000000000
+      internalID: 4292081770102743405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 936
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d12ba7664848770800000000000000
+      internalID: 8612153963119254805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 931
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a42aed1c849380800000000000000
+      internalID: -8965386898077603775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 932
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc40c44c0161a59c0800000000000000
+      internalID: -3937810662913473333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 931
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ed951a0321ecfe0800000000000000
+      internalID: -1166975253367628229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 931
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b7535fe73be5500800000000000000
+      internalID: 386943975861615457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 933
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2fa5f7f8c09eb40800000000000000
+      internalID: 5469917032874701485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 934
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59db28e519bd77ac0800000000000000
+      internalID: -3857373138417173099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 935
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b36874da0408cf80800000000000000
+      internalID: -8086208686382881865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 931
+        width: 61
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44a93c2f335d1720800000000000000
+      internalID: 2818500472593818700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_12
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 931
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bca5ddf16ff1ba0800000000000000
+      internalID: -6115899152227710092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 11
+        width: 353
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f4494aa64885cf0800000000000000
+      internalID: -263314984638591171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 830
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9237a20c86f3d46f0800000000000000
+      internalID: -698832648039402711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 830
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23791982f6f250f50800000000000000
+      internalID: 6846930962955212594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 833
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33361f8684279cd20800000000000000
+      internalID: 3299293857349460787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 831
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e08dc5d3e12b020800000000000000
+      internalID: 2355978803967692413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 830
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeecb42727bce170800000000000000
+      internalID: 8209137599537540797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 831
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43921c75a601b260800000000000000
+      internalID: 7111472594415686477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 830
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10f7edfb8da8eda0800000000000000
+      internalID: -5915287293779251172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 834
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643b7bb94ce8cafc0800000000000000
+      internalID: -3482251436786994362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 831
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ff3d413f357af90800000000000000
+      internalID: -6942487997076734202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 834
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f21cf8df65c4b50800000000000000
+      internalID: 6578728802719969076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_24
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 831
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9648c4afc977640800000000000000
+      internalID: 5077699703723026851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 831
+        width: 61
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5b9e535740b01c0800000000000000
+      internalID: -4536527298183449177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_26
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 834
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b257a7002a2915060800000000000000
+      internalID: 6940489725245027627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 719
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409300ecd0bf1df90800000000000000
+      internalID: -6930482314837214972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 719
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb869781e9bb7d80800000000000000
+      internalID: -8251797513932731416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 731
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b433d48a05ffdf40800000000000000
+      internalID: 5755588274329695415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 722
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7e2a67640bf0840800000000000000
+      internalID: 5192562712066058183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 720
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16abf5a5980323b40800000000000000
+      internalID: 5418446668165003873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_32
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 736
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e69aab5c8e9433f0800000000000000
+      internalID: -921937698033592606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_33
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 735
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6caf9553a1d9fdd0800000000000000
+      internalID: -2451698022680122261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_34
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 731
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2b94984365a38a0800000000000000
+      internalID: -6324647943046843712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_35
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 720
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e9ce113c7b7d90800000000000000
+      internalID: -7098943837207665607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_36
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 727
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ed5eaaf5aead000800000000000000
+      internalID: 61619241532907131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_37
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee758ed27519aa20800000000000000
+      internalID: 3074011803760819945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_38
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 736
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599b9097dec8e0d40800000000000000
+      internalID: 5552530342160218517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 724
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c5bc97b44e873e0800000000000000
+      internalID: -2055642217077580714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 722
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f335fd692f5694c0800000000000000
+      internalID: -4281129764225993736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 720
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27b4101faa039560800000000000000
+      internalID: 7319205566412535599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_42
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 719
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66993b44bb2181300800000000000000
+      internalID: 222948777075644774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_43
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 729
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389659362056647b0800000000000000
+      internalID: -5240390055463917181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 718
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed15ecee08194fef0800000000000000
+      internalID: -75275310810115618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 617
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6720321630fd8a0800000000000000
+      internalID: -6278295639797106959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 616
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33448943f87dce630800000000000000
+      internalID: 3957775182614512691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_47
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 637
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099f775e8fa0f4430800000000000000
+      internalID: 3769243477250406800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_48
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 623
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed66dbaf8a27b66d0800000000000000
+      internalID: -2996175056998144290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 622
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a9de5e89bdc1040800000000000000
+      internalID: 4619808767514352173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 621
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beca820e78f04c830800000000000000
+      internalID: 4090411437815016683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 635
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e7ce59ffead0df0800000000000000
+      internalID: -212321194661347744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_52
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 628
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f75bd43e4bc970800000000000000
+      internalID: 8776194287786783004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_53
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 620
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ec0b4704c0e9390800000000000000
+      internalID: -7809791232838676834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_54
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 620
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f948c404d94e82350800000000000000
+      internalID: 5992290668256199839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 641
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d487651ce87ce38d0800000000000000
+      internalID: -2864632897018103731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_56
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 635
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa90885277108b80800000000000000
+      internalID: -8394683925540070744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_57
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 620
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6022433a01b0f4100800000000000000
+      internalID: 94306283283554822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 616
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885991ba6acb8120800000000000000
+      internalID: 2417248184609364096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256d99a5cc52974c0800000000000000
+      internalID: -4289355610470099374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_60
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 622
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6e2c54b095a430800000000000000
+      internalID: 3793597365444569885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 512
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c04d2aa02668260800000000000000
+      internalID: 7099469660417166351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 510
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eeda0ddc2b37630800000000000000
+      internalID: 3923676297408933512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 530
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86019219f99036a20800000000000000
+      internalID: 3054295553227165800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_64
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 511
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe304ae97baba980800000000000000
+      internalID: -8526532929386430725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 510
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf53f03b0ea5c420800000000000000
+      internalID: 2649715318866534315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_66
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 541
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5654eb78995da00800000000000000
+      internalID: 780698918710502829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_67
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 532
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f87ad49fa14830800000000000000
+      internalID: 4053714193465538427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_68
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 525
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0210fb96a993020800000000000000
+      internalID: 2322056861852967106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_69
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 511
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625c33278832bee0800000000000000
+      internalID: -1246871993765309843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_70
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 510
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf9257c75f31cb50800000000000000
+      internalID: 6611635374195384266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_71
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 544
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6181a0b1ed7848b00800000000000000
+      internalID: 829937619349149718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_72
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 522
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3df9d153fe148c0800000000000000
+      internalID: -4016666381228452953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_73
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 509
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cf284deede31dd0800000000000000
+      internalID: -2516406156746621820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d4bf96008bcfd00800000000000000
+      internalID: 1007882728541736266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 509
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4125c19dc683db00800000000000000
+      internalID: 852172971975188811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_76
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 509
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d801fc8e0a416ce70800000000000000
+      internalID: 9135011575500837005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_77
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 413
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38517ab00f7722260800000000000000
+      internalID: 7071346237796455811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_78
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 412
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6742ffa5c539b0e0800000000000000
+      internalID: -2253711015345502354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 448
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce61137abdeb6760800000000000000
+      internalID: 7452311393464839873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_80
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 415
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8874a5fa697b37270800000000000000
+      internalID: 8247137200460416904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_81
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 428
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f425b7bfd85251120800000000000000
+      internalID: 2383852869502325327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_82
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 441
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1496534ad4f3c5be0800000000000000
+      internalID: -1487244174239110847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_83
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 415
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7410b772aeb4d9e80800000000000000
+      internalID: -8170290679923408569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_84
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 414
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a4b9cf7d25fb00800000000000000
+      internalID: 861644930579473984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_85
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 450
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d3295ef4928650800000000000000
+      internalID: 6233708654372311294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 430
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886c412eb068486c0800000000000000
+      internalID: -4142038371678239096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_87
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 428
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220a2b4d7a71a19e0800000000000000
+      internalID: -1649980303882411998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_88
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d98bb7f402cd0ef0800000000000000
+      internalID: -140242686786696744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_89
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 427
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2317e2def26ddc830800000000000000
+      internalID: 4093163137680699698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_90
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 415
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb953d266661c7d20800000000000000
+      internalID: 3277519257819371964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 409
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1aacff369616140800000000000000
+      internalID: 4711162563420398040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_92
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 413
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f1d118d80b25b60800000000000000
+      internalID: 7733437631951609749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_93
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 417
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1258263755d8dcd30800000000000000
+      internalID: 4453371004686861601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_94
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 412
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e39e13875269eb0800000000000000
+      internalID: -4713538761832972642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_95
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 419
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faafd099e30ade260800000000000000
+      internalID: 7128529975913609903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_96
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 310
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f5068579b83b980800000000000000
+      internalID: -8524316187543183543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_97
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 308
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b79ef0a25ea7d60800000000000000
+      internalID: 7888869666111191947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_98
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 353
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ddb173dc49ce2e0800000000000000
+      internalID: -2095136117520343760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 347
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b6772a38219650800000000000000
+      internalID: 6237811189120153488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_100
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 308
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c347aea49effd100800000000000000
+      internalID: 135106428383216583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_101
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 341
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b67625bb7313f710800000000000000
+      internalID: 1725744504254133944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_102
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 324
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fa35bf9df2c9700800000000000000
+      internalID: 548365867903332247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_103
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 307
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f436f6cd48928c0800000000000000
+      internalID: -4023538709782376617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_104
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 304
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc7a3f2c53477010800000000000000
+      internalID: 1186491090043829436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_105
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 337
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c25c3711be5fc90800000000000000
+      internalID: -7136539574309409749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 332
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca60addb5ef86b30800000000000000
+      internalID: 4280951116329413317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_107
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 305
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188aeaa5e690154e0800000000000000
+      internalID: -1994802790375970687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_108
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 327
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e58a3a33a2ca90800000000000000
+      internalID: -7295088975901497922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_109
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 308
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cafc8630ed195b80800000000000000
+      internalID: -8405654380685231423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_110
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276fdafe3eed7c4d0800000000000000
+      internalID: -3114275546743310734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_111
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 309
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efefd632d705dfa0800000000000000
+      internalID: -5776702347587620895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_112
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 209
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2901b26d172e30800000000000000
+      internalID: 4478580664157416134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_113
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 207
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9431741cd7e9db8d0800000000000000
+      internalID: -2828930727968042167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_114
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 219
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85048d8a36589060800000000000000
+      internalID: 6960408033583433103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_115
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 211
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3cd3295bf46080800000000000000
+      internalID: -9194948178911412888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_116
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 211
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e560213e5103fd110800000000000000
+      internalID: 1287800889013306974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_117
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 235
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7a6d27be0caca90800000000000000
+      internalID: -7292804529096579096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_118
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 215
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8779bd7db66502430800000000000000
+      internalID: 3756097110409975672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_119
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 209
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edf55d0eaa1161e0800000000000000
+      internalID: -2206453007584461335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_120
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 208
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ba6b38775af990800000000000000
+      internalID: -7351467267824371202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_121
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6b5f7ad5f8c3e0800000000000000
+      internalID: -2033104912969404970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_122
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a016369eb6bafde70800000000000000
+      internalID: 9142214248550850826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_123
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 234
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26727ea1cfcb2a0f0800000000000000
+      internalID: -1107114767410583710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_124
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 212
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6a9449c213bb8d0800000000000000
+      internalID: -2829613873336047881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_125
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 206
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0764e254789788d0800000000000000
+      internalID: -2844137014286850294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_126
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 210
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508efda30eb956210800000000000000
+      internalID: 1325637052693211141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_127
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 207
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee826b2de7da52940800000000000000
+      internalID: 5270809699119671534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_128
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 111
+        width: 11
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da2ed690d236fad0800000000000000
+      internalID: -2668889857704711470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_129
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 106
+        width: 11
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2792d801c5962c80800000000000000
+      internalID: -8347820202975389910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_130
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 121
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79a3d1412e066b10800000000000000
+      internalID: 1974281022649641339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_131
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 129
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a114957df7bcfb1b0800000000000000
+      internalID: -5638564458510335718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_132
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 108
+        width: 13
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eec321b2cba4360800000000000000
+      internalID: 7154737851207052930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_133
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 146
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d048e2f9c83d3ae0800000000000000
+      internalID: -1568034655240175406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_134
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 155
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f4494a4a97e4f0800000000000000
+      internalID: -799500764987460871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_135
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 109
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cdaaeca9bf511f0800000000000000
+      internalID: -1074676293747155823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_136
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 106
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f141374312e5e6440800000000000000
+      internalID: 4930982138724160543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_137
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 112
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910907f74d62339e0800000000000000
+      internalID: -1642926744947093479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_138
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 126
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea1646ccd0b17680800000000000000
+      internalID: -8759025337993127190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_139
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 104
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99594e22013c0cb0800000000000000
+      internalID: -4896484809422317155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_140
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 107
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f369cf322becc6d50800000000000000
+      internalID: 6731982807515305535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_141
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57542727aa3b0520800000000000000
+      internalID: 2669291693737793370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_142
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d0a26cb9701c00800000000000000
+      internalID: 869328578098024707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_143
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 28
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a29deec25361c10800000000000000
+      internalID: 2023863549651659288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_144
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 11
+        width: 12
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a82b7a26c5c82d10800000000000000
+      internalID: 2101146681075247271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_145
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 8
+        width: 13
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e6a37e9e3958eb0800000000000000
+      internalID: -4718202401784697193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_146
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 39
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30c9c6cac17b9790800000000000000
+      internalID: -7522293636859838404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_147
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 18
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916cc4c7dbf4c8e40800000000000000
+      internalID: 5659986506950690329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_148
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 13
+        width: 12
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b80fd8ed00cc15b0800000000000000
+      internalID: -5396227087522658125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_149
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 59
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8e7558f1b4afb80800000000000000
+      internalID: -8360287159506704166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_150
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26e7c998a3a30150800000000000000
+      internalID: 5837689486532142637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_151
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 25
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e09c7f2307bdd00800000000000000
+      internalID: 998515106600521350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_152
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 21
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343914a88d1a6ca70800000000000000
+      internalID: 8846936469420479299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_153
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 24
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f086cfd03924dc0800000000000000
+      internalID: -3656198259192885356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line50-aqua-blue_154
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 6
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbf7188c1e1884a0800000000000000
+      internalID: -6590984946765530159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

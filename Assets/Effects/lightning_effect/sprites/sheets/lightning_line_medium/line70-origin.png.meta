@@ -1,0 +1,7867 @@
+fileFormatVersion: 2
+guid: d6b86016408f45546a785ad162ee939c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8953908414459352331
+    second: line70-origin_0
+  - first:
+      213: -6669933479819170487
+    second: line70-origin_1
+  - first:
+      213: -5577187129371681854
+    second: line70-origin_2
+  - first:
+      213: -9143447952768903394
+    second: line70-origin_3
+  - first:
+      213: 3835300006867368465
+    second: line70-origin_4
+  - first:
+      213: -4259426398226018100
+    second: line70-origin_5
+  - first:
+      213: -2342056157396653525
+    second: line70-origin_6
+  - first:
+      213: -7934142609167339049
+    second: line70-origin_7
+  - first:
+      213: -1124037813795927490
+    second: line70-origin_8
+  - first:
+      213: -1889398213683258651
+    second: line70-origin_9
+  - first:
+      213: -4513858787551867069
+    second: line70-origin_10
+  - first:
+      213: -2710226971206833262
+    second: line70-origin_11
+  - first:
+      213: 500265924294502526
+    second: line70-origin_12
+  - first:
+      213: -1396079808902525933
+    second: line70-origin_13
+  - first:
+      213: -8267525207208282426
+    second: line70-origin_14
+  - first:
+      213: -6895034665893356477
+    second: line70-origin_15
+  - first:
+      213: -2472696970098245014
+    second: line70-origin_16
+  - first:
+      213: -5395215321379115225
+    second: line70-origin_17
+  - first:
+      213: 410038341231103625
+    second: line70-origin_18
+  - first:
+      213: 1337166666521181973
+    second: line70-origin_19
+  - first:
+      213: 3537118702755372064
+    second: line70-origin_20
+  - first:
+      213: 4968903372991674849
+    second: line70-origin_21
+  - first:
+      213: 3316836666426804276
+    second: line70-origin_22
+  - first:
+      213: -3651553875587980564
+    second: line70-origin_23
+  - first:
+      213: -6056555541354283536
+    second: line70-origin_24
+  - first:
+      213: 9172266960001031809
+    second: line70-origin_25
+  - first:
+      213: -5900558618558067628
+    second: line70-origin_26
+  - first:
+      213: 6962819718449529582
+    second: line70-origin_27
+  - first:
+      213: -5597932371946506897
+    second: line70-origin_28
+  - first:
+      213: -6180536279055920745
+    second: line70-origin_29
+  - first:
+      213: -5639236599153718765
+    second: line70-origin_30
+  - first:
+      213: -4670476832526860479
+    second: line70-origin_31
+  - first:
+      213: 4988359387700126496
+    second: line70-origin_32
+  - first:
+      213: -267746667659833278
+    second: line70-origin_33
+  - first:
+      213: 1251949886753319687
+    second: line70-origin_34
+  - first:
+      213: -1816851674437823301
+    second: line70-origin_35
+  - first:
+      213: 3438511831887026779
+    second: line70-origin_36
+  - first:
+      213: -8912899071610244049
+    second: line70-origin_37
+  - first:
+      213: -259278652722889607
+    second: line70-origin_38
+  - first:
+      213: 3194596968237221165
+    second: line70-origin_39
+  - first:
+      213: 4874921155782879779
+    second: line70-origin_40
+  - first:
+      213: 6728427340243840683
+    second: line70-origin_41
+  - first:
+      213: 2627859063870053409
+    second: line70-origin_42
+  - first:
+      213: -7995933731947708393
+    second: line70-origin_43
+  - first:
+      213: -5632816727485220039
+    second: line70-origin_44
+  - first:
+      213: -1565999841363596176
+    second: line70-origin_45
+  - first:
+      213: -3910289119240221290
+    second: line70-origin_46
+  - first:
+      213: -3149848007171878785
+    second: line70-origin_47
+  - first:
+      213: 5490507581531703140
+    second: line70-origin_48
+  - first:
+      213: 8190829955724784501
+    second: line70-origin_49
+  - first:
+      213: 2265974425566843773
+    second: line70-origin_50
+  - first:
+      213: -6302474957525018026
+    second: line70-origin_51
+  - first:
+      213: 151185069034878439
+    second: line70-origin_52
+  - first:
+      213: -4840723764065982732
+    second: line70-origin_53
+  - first:
+      213: -6019925358491743122
+    second: line70-origin_54
+  - first:
+      213: 5717672570425836628
+    second: line70-origin_55
+  - first:
+      213: 6627769514994815987
+    second: line70-origin_56
+  - first:
+      213: 7848785302082099794
+    second: line70-origin_57
+  - first:
+      213: -8897568579280520748
+    second: line70-origin_58
+  - first:
+      213: 8641718700092080987
+    second: line70-origin_59
+  - first:
+      213: -4090819023087185273
+    second: line70-origin_60
+  - first:
+      213: 5778014768014446755
+    second: line70-origin_61
+  - first:
+      213: -6316295837943423141
+    second: line70-origin_62
+  - first:
+      213: -8885194497304423609
+    second: line70-origin_63
+  - first:
+      213: -9082746853617884226
+    second: line70-origin_64
+  - first:
+      213: 3608005002521153661
+    second: line70-origin_65
+  - first:
+      213: -1003952519748030841
+    second: line70-origin_66
+  - first:
+      213: 3738843107828351346
+    second: line70-origin_67
+  - first:
+      213: -5124706788346343440
+    second: line70-origin_68
+  - first:
+      213: -3690187870922343685
+    second: line70-origin_69
+  - first:
+      213: 2493621378546808869
+    second: line70-origin_70
+  - first:
+      213: 5472729177773048611
+    second: line70-origin_71
+  - first:
+      213: 391897823781100700
+    second: line70-origin_72
+  - first:
+      213: -8948855714813352189
+    second: line70-origin_73
+  - first:
+      213: -93830919061159914
+    second: line70-origin_74
+  - first:
+      213: -8347769287868227151
+    second: line70-origin_75
+  - first:
+      213: -8375026472573835088
+    second: line70-origin_76
+  - first:
+      213: -9021095879483060586
+    second: line70-origin_77
+  - first:
+      213: 5064026472298026634
+    second: line70-origin_78
+  - first:
+      213: 3614475906749906255
+    second: line70-origin_79
+  - first:
+      213: 2440363574731484030
+    second: line70-origin_80
+  - first:
+      213: 4016208962716728830
+    second: line70-origin_81
+  - first:
+      213: 5061210334219359796
+    second: line70-origin_82
+  - first:
+      213: -4237638058442830983
+    second: line70-origin_83
+  - first:
+      213: 6735322098046330020
+    second: line70-origin_84
+  - first:
+      213: 2945929358284832433
+    second: line70-origin_85
+  - first:
+      213: -8816134721327637879
+    second: line70-origin_86
+  - first:
+      213: -5707887889762538680
+    second: line70-origin_87
+  - first:
+      213: -5161081597178131058
+    second: line70-origin_88
+  - first:
+      213: -5819219798140785017
+    second: line70-origin_89
+  - first:
+      213: -1810641796144847276
+    second: line70-origin_90
+  - first:
+      213: -2903921627184892164
+    second: line70-origin_91
+  - first:
+      213: 9208394684216677868
+    second: line70-origin_92
+  - first:
+      213: -9061764214016676367
+    second: line70-origin_93
+  - first:
+      213: -5630373609967600796
+    second: line70-origin_94
+  - first:
+      213: 5062853980354635143
+    second: line70-origin_95
+  - first:
+      213: 2878255910542633193
+    second: line70-origin_96
+  - first:
+      213: 4060149551392759443
+    second: line70-origin_97
+  - first:
+      213: -988514418964916419
+    second: line70-origin_98
+  - first:
+      213: 562188547433780166
+    second: line70-origin_99
+  - first:
+      213: -2725934971969865148
+    second: line70-origin_100
+  - first:
+      213: -3565001004308129477
+    second: line70-origin_101
+  - first:
+      213: -4379889612260762997
+    second: line70-origin_102
+  - first:
+      213: 8486197853015983667
+    second: line70-origin_103
+  - first:
+      213: -2234134564767249298
+    second: line70-origin_104
+  - first:
+      213: -4620018179174226808
+    second: line70-origin_105
+  - first:
+      213: -5240308690324526324
+    second: line70-origin_106
+  - first:
+      213: -4059366858543343862
+    second: line70-origin_107
+  - first:
+      213: 7963720847227567607
+    second: line70-origin_108
+  - first:
+      213: 5936732101742479648
+    second: line70-origin_109
+  - first:
+      213: -1409235331518801115
+    second: line70-origin_110
+  - first:
+      213: 6956734816788084443
+    second: line70-origin_111
+  - first:
+      213: -2072001241744289100
+    second: line70-origin_112
+  - first:
+      213: 1595953496513751873
+    second: line70-origin_113
+  - first:
+      213: 4485943682304406687
+    second: line70-origin_114
+  - first:
+      213: 2547856129265267892
+    second: line70-origin_115
+  - first:
+      213: 5569276914454490312
+    second: line70-origin_116
+  - first:
+      213: 7311080385741720278
+    second: line70-origin_117
+  - first:
+      213: 2158773482652849900
+    second: line70-origin_118
+  - first:
+      213: 2782687932265753394
+    second: line70-origin_119
+  - first:
+      213: -7643898972007929587
+    second: line70-origin_120
+  - first:
+      213: -7580019186202115520
+    second: line70-origin_121
+  - first:
+      213: -5769964826633596827
+    second: line70-origin_122
+  - first:
+      213: 8223591810386726641
+    second: line70-origin_123
+  - first:
+      213: 5502589530798082043
+    second: line70-origin_124
+  - first:
+      213: 6898534041577766370
+    second: line70-origin_125
+  - first:
+      213: -381018526163272523
+    second: line70-origin_126
+  - first:
+      213: -673644598004154179
+    second: line70-origin_127
+  - first:
+      213: 5873470350141370490
+    second: line70-origin_128
+  - first:
+      213: -1934028937619631273
+    second: line70-origin_129
+  - first:
+      213: -1935546567979517360
+    second: line70-origin_130
+  - first:
+      213: 4686214127293338178
+    second: line70-origin_131
+  - first:
+      213: -3924927761545812780
+    second: line70-origin_132
+  - first:
+      213: 22980799170859620
+    second: line70-origin_133
+  - first:
+      213: 5500468535525469410
+    second: line70-origin_134
+  - first:
+      213: 3751763539276684766
+    second: line70-origin_135
+  - first:
+      213: 1573881349587367880
+    second: line70-origin_136
+  - first:
+      213: -7223281651531693680
+    second: line70-origin_137
+  - first:
+      213: 8891124311204062965
+    second: line70-origin_138
+  - first:
+      213: -816985155488958814
+    second: line70-origin_139
+  - first:
+      213: 1242703146483209116
+    second: line70-origin_140
+  - first:
+      213: 1986615361401526010
+    second: line70-origin_141
+  - first:
+      213: -4420057796613325672
+    second: line70-origin_142
+  - first:
+      213: 6515014710450737531
+    second: line70-origin_143
+  - first:
+      213: -6194473514720789538
+    second: line70-origin_144
+  - first:
+      213: -5668131975401489628
+    second: line70-origin_145
+  - first:
+      213: -9120152237519987330
+    second: line70-origin_146
+  - first:
+      213: -8197354863343937567
+    second: line70-origin_147
+  - first:
+      213: 3538002924272092006
+    second: line70-origin_148
+  - first:
+      213: -7052535574789677281
+    second: line70-origin_149
+  - first:
+      213: 5558884554331781504
+    second: line70-origin_150
+  - first:
+      213: 484856650539925139
+    second: line70-origin_151
+  - first:
+      213: -5779554744090430707
+    second: line70-origin_152
+  - first:
+      213: -6919191090101965140
+    second: line70-origin_153
+  - first:
+      213: 8481306231679632505
+    second: line70-origin_154
+  - first:
+      213: -1887649564273417484
+    second: line70-origin_155
+  - first:
+      213: -6916099286257212012
+    second: line70-origin_156
+  - first:
+      213: -5485737107301512591
+    second: line70-origin_157
+  - first:
+      213: 7076142423251580412
+    second: line70-origin_158
+  - first:
+      213: -4000103918498471098
+    second: line70-origin_159
+  - first:
+      213: 7358859528144065155
+    second: line70-origin_160
+  - first:
+      213: 7295841210961842202
+    second: line70-origin_161
+  - first:
+      213: -2045703974803757316
+    second: line70-origin_162
+  - first:
+      213: 2180836257831958564
+    second: line70-origin_163
+  - first:
+      213: -3950289209090536212
+    second: line70-origin_164
+  - first:
+      213: 1421732106893442693
+    second: line70-origin_165
+  - first:
+      213: 7293016351973140626
+    second: line70-origin_166
+  - first:
+      213: 378708533569314766
+    second: line70-origin_167
+  - first:
+      213: 1049668442537930130
+    second: line70-origin_168
+  - first:
+      213: 9008974400149752232
+    second: line70-origin_169
+  - first:
+      213: -2976435603268427142
+    second: line70-origin_170
+  - first:
+      213: 3997259520670863992
+    second: line70-origin_171
+  - first:
+      213: -6124224442466561390
+    second: line70-origin_172
+  - first:
+      213: 6394029436848654873
+    second: line70-origin_173
+  - first:
+      213: -7957034728082483413
+    second: line70-origin_174
+  - first:
+      213: 1844239548714121096
+    second: line70-origin_175
+  - first:
+      213: -3756969367675112217
+    second: line70-origin_176
+  - first:
+      213: -1640836556249284322
+    second: line70-origin_177
+  - first:
+      213: -6656585233423959990
+    second: line70-origin_178
+  - first:
+      213: 7870255557560608750
+    second: line70-origin_179
+  - first:
+      213: 8521692475419380758
+    second: line70-origin_180
+  - first:
+      213: -7763403853830318114
+    second: line70-origin_181
+  - first:
+      213: 7790691987605026079
+    second: line70-origin_182
+  - first:
+      213: 8469953241230587719
+    second: line70-origin_183
+  - first:
+      213: -5021883056545376979
+    second: line70-origin_184
+  - first:
+      213: 1759694080960269447
+    second: line70-origin_185
+  - first:
+      213: 3691418577539564740
+    second: line70-origin_186
+  - first:
+      213: -646414799046453059
+    second: line70-origin_187
+  - first:
+      213: -1930211360569080230
+    second: line70-origin_188
+  - first:
+      213: 1116505261297025731
+    second: line70-origin_189
+  - first:
+      213: 8296525710044464884
+    second: line70-origin_190
+  - first:
+      213: -3585151303500211862
+    second: line70-origin_191
+  - first:
+      213: 5579791881842283480
+    second: line70-origin_192
+  - first:
+      213: 9189197548244455951
+    second: line70-origin_193
+  - first:
+      213: 1048116242030107715
+    second: line70-origin_194
+  - first:
+      213: 2987618603375052536
+    second: line70-origin_195
+  - first:
+      213: -5277193786574822903
+    second: line70-origin_196
+  - first:
+      213: -2655558163940551827
+    second: line70-origin_197
+  - first:
+      213: -2404718562854986717
+    second: line70-origin_198
+  - first:
+      213: 5547509582702829261
+    second: line70-origin_199
+  - first:
+      213: -3950551275588428671
+    second: line70-origin_200
+  - first:
+      213: 8707729494022497076
+    second: line70-origin_201
+  - first:
+      213: 6506049655428460269
+    second: line70-origin_202
+  - first:
+      213: 9021505026751248110
+    second: line70-origin_203
+  - first:
+      213: -2192836032214166529
+    second: line70-origin_204
+  - first:
+      213: 5821076761372702677
+    second: line70-origin_205
+  - first:
+      213: 8031322959154107797
+    second: line70-origin_206
+  - first:
+      213: 4151354992886503486
+    second: line70-origin_207
+  - first:
+      213: -1774733069734740232
+    second: line70-origin_208
+  - first:
+      213: 3024554321273332961
+    second: line70-origin_209
+  - first:
+      213: -3932476628890906051
+    second: line70-origin_210
+  - first:
+      213: -5335861569301195346
+    second: line70-origin_211
+  - first:
+      213: 6160636349080069098
+    second: line70-origin_212
+  - first:
+      213: 7608571977513877391
+    second: line70-origin_213
+  - first:
+      213: 968785502541171247
+    second: line70-origin_214
+  - first:
+      213: -7612834065815589038
+    second: line70-origin_215
+  - first:
+      213: -6540106905028807722
+    second: line70-origin_216
+  - first:
+      213: 7911067045010647314
+    second: line70-origin_217
+  - first:
+      213: -5567370797478592731
+    second: line70-origin_218
+  - first:
+      213: -4386086857742684817
+    second: line70-origin_219
+  - first:
+      213: 6293806451977986999
+    second: line70-origin_220
+  - first:
+      213: 5523642606832938712
+    second: line70-origin_221
+  - first:
+      213: 4525696902511575473
+    second: line70-origin_222
+  - first:
+      213: -1972211122876042167
+    second: line70-origin_223
+  - first:
+      213: -9053622780463138757
+    second: line70-origin_224
+  - first:
+      213: 8073960788399982714
+    second: line70-origin_225
+  - first:
+      213: 9130288268589482130
+    second: line70-origin_226
+  - first:
+      213: -2182745144905187584
+    second: line70-origin_227
+  - first:
+      213: -6521961018440332467
+    second: line70-origin_228
+  - first:
+      213: 6658361578193479245
+    second: line70-origin_229
+  - first:
+      213: 1680237813816547180
+    second: line70-origin_230
+  - first:
+      213: 5700095258533185776
+    second: line70-origin_231
+  - first:
+      213: 5203704899307182663
+    second: line70-origin_232
+  - first:
+      213: 3642949502862931027
+    second: line70-origin_233
+  - first:
+      213: 170832716237281530
+    second: line70-origin_234
+  - first:
+      213: 884095383393421196
+    second: line70-origin_235
+  - first:
+      213: -6045618834591719806
+    second: line70-origin_236
+  - first:
+      213: -3525423941254074040
+    second: line70-origin_237
+  - first:
+      213: -4276740456071889083
+    second: line70-origin_238
+  - first:
+      213: 3084451356545545309
+    second: line70-origin_239
+  - first:
+      213: 9195379494207312940
+    second: line70-origin_240
+  - first:
+      213: -5413184028304406263
+    second: line70-origin_241
+  - first:
+      213: 299546244619098400
+    second: line70-origin_242
+  - first:
+      213: -8359973897888740953
+    second: line70-origin_243
+  - first:
+      213: -6260940584498885626
+    second: line70-origin_244
+  - first:
+      213: 4948729311883937453
+    second: line70-origin_245
+  - first:
+      213: -6269232361181860380
+    second: line70-origin_246
+  - first:
+      213: -7569811139112508848
+    second: line70-origin_247
+  - first:
+      213: -3161763359879954077
+    second: line70-origin_248
+  - first:
+      213: -4008998654244261894
+    second: line70-origin_249
+  - first:
+      213: 8903834076633163131
+    second: line70-origin_250
+  - first:
+      213: -7027993858760390567
+    second: line70-origin_251
+  - first:
+      213: -8976589319544289057
+    second: line70-origin_252
+  - first:
+      213: -3751009520345467484
+    second: line70-origin_253
+  - first:
+      213: 5664840193169256680
+    second: line70-origin_254
+  - first:
+      213: 9121639585274713494
+    second: line70-origin_255
+  - first:
+      213: -64308301221571112
+    second: line70-origin_256
+  - first:
+      213: 6532990648426422290
+    second: line70-origin_257
+  - first:
+      213: 3928460176181832200
+    second: line70-origin_258
+  - first:
+      213: -5054658623853266849
+    second: line70-origin_259
+  - first:
+      213: -2502827908403838120
+    second: line70-origin_260
+  - first:
+      213: -5569229853278954909
+    second: line70-origin_261
+  - first:
+      213: -5033134339360725111
+    second: line70-origin_262
+  - first:
+      213: -4602697915340879793
+    second: line70-origin_263
+  - first:
+      213: 4973410688947081505
+    second: line70-origin_264
+  - first:
+      213: -2029324274015463358
+    second: line70-origin_265
+  - first:
+      213: -3092061083678929327
+    second: line70-origin_266
+  - first:
+      213: -2552225372767045777
+    second: line70-origin_267
+  - first:
+      213: 8633689189557211086
+    second: line70-origin_268
+  - first:
+      213: -4007011870873271491
+    second: line70-origin_269
+  - first:
+      213: 5552578161890732749
+    second: line70-origin_270
+  - first:
+      213: -3863615971950741784
+    second: line70-origin_271
+  - first:
+      213: 7018838414673490891
+    second: line70-origin_272
+  - first:
+      213: 1796897840075712277
+    second: line70-origin_273
+  - first:
+      213: 1291660962230992586
+    second: line70-origin_274
+  - first:
+      213: -4980960874551150112
+    second: line70-origin_275
+  - first:
+      213: 7701227810399653334
+    second: line70-origin_276
+  - first:
+      213: -2027209531186336097
+    second: line70-origin_277
+  - first:
+      213: -7671662329759214886
+    second: line70-origin_278
+  - first:
+      213: -5324177622535396045
+    second: line70-origin_279
+  - first:
+      213: 1649850784332553452
+    second: line70-origin_280
+  - first:
+      213: -4162370022200453313
+    second: line70-origin_281
+  - first:
+      213: 4640655467414514563
+    second: line70-origin_282
+  - first:
+      213: -7090631997740859509
+    second: line70-origin_283
+  - first:
+      213: -6779969096395629573
+    second: line70-origin_284
+  - first:
+      213: -4926783740352340067
+    second: line70-origin_285
+  - first:
+      213: 760901776692973192
+    second: line70-origin_286
+  - first:
+      213: 3599990509258630721
+    second: line70-origin_287
+  - first:
+      213: 8842801853321210269
+    second: line70-origin_288
+  - first:
+      213: 7450470602690940762
+    second: line70-origin_289
+  - first:
+      213: 7003484576716987997
+    second: line70-origin_290
+  - first:
+      213: 5477249529794854368
+    second: line70-origin_291
+  - first:
+      213: 3096931361634284209
+    second: line70-origin_292
+  - first:
+      213: -2704170968408370664
+    second: line70-origin_293
+  - first:
+      213: 4432495854936523981
+    second: line70-origin_294
+  - first:
+      213: -8821814871824512088
+    second: line70-origin_295
+  - first:
+      213: -4442258027679472385
+    second: line70-origin_296
+  - first:
+      213: 8796822539359484075
+    second: line70-origin_297
+  - first:
+      213: 132197925735755217
+    second: line70-origin_298
+  - first:
+      213: -5598669701001990090
+    second: line70-origin_299
+  - first:
+      213: -4361407701685982893
+    second: line70-origin_300
+  - first:
+      213: 5612650232117799166
+    second: line70-origin_301
+  - first:
+      213: 7535802836905127962
+    second: line70-origin_302
+  - first:
+      213: -1462055459242935768
+    second: line70-origin_303
+  - first:
+      213: -2469985988317789459
+    second: line70-origin_304
+  - first:
+      213: 1055568244283817517
+    second: line70-origin_305
+  - first:
+      213: -8611210772027943367
+    second: line70-origin_306
+  - first:
+      213: 6133055709288506441
+    second: line70-origin_307
+  - first:
+      213: 4392599804042843416
+    second: line70-origin_308
+  - first:
+      213: 3254601954828177865
+    second: line70-origin_309
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: line70-origin_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1097
+        width: 83
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae4c4acb35db380800000000000000
+      internalID: -8953908414459352331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1097
+        width: 87
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94da4e3c6d2af63a0800000000000000
+      internalID: -6669933479819170487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1101
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb9be3ead9d992b0800000000000000
+      internalID: -5577187129371681854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1097
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17dfe0f782fb1180800000000000000
+      internalID: -9143447952768903394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1100
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11af1643909b93530800000000000000
+      internalID: 3835300006867368465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1101
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc011da124a73e4c0800000000000000
+      internalID: -4259426398226018100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1101
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2b5665585f7fd0800000000000000
+      internalID: -2342056157396653525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1104
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d13a47755344e190800000000000000
+      internalID: -7934142609167339049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1095
+        width: 81
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a4692509d9660f0800000000000000
+      internalID: -1124037813795927490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1095
+        width: 87
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ead62ac55287c5e0800000000000000
+      internalID: -1889398213683258651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1095
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f02b1295d8b51c0800000000000000
+      internalID: -4513858787551867069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_11
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1097
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ba888dde6536ad0800000000000000
+      internalID: -2710226971206833262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1099
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786ec6253d41f600800000000000000
+      internalID: 500265924294502526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1104
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c05408fc020ace0800000000000000
+      internalID: -1396079808902525933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1100
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c633c490a9d34d80800000000000000
+      internalID: -8267525207208282426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1101
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c1c69b08aef40a0800000000000000
+      internalID: -6895034665893356477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_16
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1096
+        width: 85
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a620c14e4373fadd0800000000000000
+      internalID: -2472696970098245014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1096
+        width: 88
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe37210485025b0800000000000000
+      internalID: -5395215321379115225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_18
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1097
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ece59e2bfb0b500800000000000000
+      internalID: 410038341231103625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1097
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ffc73aff19e8210800000000000000
+      internalID: 1337166666521181973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_20
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1098
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cdf1e38be561130800000000000000
+      internalID: 3537118702755372064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_21
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1096
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9b8669a4715f440800000000000000
+      internalID: 4968903372991674849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_22
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1099
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4384c50ff55c70e20800000000000000
+      internalID: 3316836666426804276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1099
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a06fc813135dc0800000000000000
+      internalID: -3651553875587980564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_24
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1097
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd772bf2dac2fba0800000000000000
+      internalID: -6056555541354283536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_25
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1098
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ed9ef04307a4f70800000000000000
+      internalID: 9172266960001031809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_26
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1096
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0a7ce2310d1ea0800000000000000
+      internalID: -5900558618558067628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_27
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 979
+        width: 202
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee20541b4a7e0a060800000000000000
+      internalID: 6962819718449529582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 977
+        width: 88
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f775ba262052b0800000000000000
+      internalID: -5597932371946506897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 977
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791157500035a3aa0800000000000000
+      internalID: -6180536279055920745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 981
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a8f07e0386db1b0800000000000000
+      internalID: -5639236599153718765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 981
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f7b89e0122f2fb0800000000000000
+      internalID: -4670476832526860479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 981
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023e9d30f663a3540800000000000000
+      internalID: 4988359387700126496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 985
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240575803d5c84cf0800000000000000
+      internalID: -267746667659833278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 985
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba584f9c1df5110800000000000000
+      internalID: 1251949886753319687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 988
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45f87370f39c6e0800000000000000
+      internalID: -1816851674437823301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 977
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a9a970b4c08bf20800000000000000
+      internalID: 3438511831887026779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_37
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 977
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2433c554850f4480800000000000000
+      internalID: -8912899071610244049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_38
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 982
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c3c96607bd66cf0800000000000000
+      internalID: -259278652722889607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_39
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 978
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25c154540d755c20800000000000000
+      internalID: 3194596968237221165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_40
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 979
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aa97676f237a340800000000000000
+      internalID: 4874921155782879779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 979
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baea248640d206d50800000000000000
+      internalID: 6728427340243840683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_42
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 979
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd3c545e7087420800000000000000
+      internalID: 2627859063870053409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_43
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 983
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71081b392acb80190800000000000000
+      internalID: -7995933731947708393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_44
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 981
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7d51c70734d1b0800000000000000
+      internalID: -5632816727485220039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_45
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 980
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6439f073744ae0800000000000000
+      internalID: -1565999841363596176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_46
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 979
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d8c9e73ccdbb9c0800000000000000
+      internalID: -3910289119240221290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_47
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 986
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f705c041ded7944d0800000000000000
+      internalID: -3149848007171878785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_48
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 986
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46749c13e83323c40800000000000000
+      internalID: 5490507581531703140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_49
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 979
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ba96a27caba170800000000000000
+      internalID: 8190829955724784501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_50
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 983
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7318020cbb527f10800000000000000
+      internalID: 2265974425566843773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_51
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 983
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a1de60b6c1988a0800000000000000
+      internalID: -6302474957525018026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_52
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 987
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ba2fe40e191200800000000000000
+      internalID: 151185069034878439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_53
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 987
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62e03426b42dcb0800000000000000
+      internalID: -4840723764065982732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_54
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 984
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ccbb808cde47ca0800000000000000
+      internalID: -6019925358491743122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_55
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 984
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540a36c8e0495f40800000000000000
+      internalID: 5717672570425836628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 977
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3dd6a22419afb50800000000000000
+      internalID: 6627769514994815987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 977
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a19e8c5ac7cec60800000000000000
+      internalID: 7848785302082099794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 978
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9be4bb48c758480800000000000000
+      internalID: -8897568579280520748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_59
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 981
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53c6d73f5d8de770800000000000000
+      internalID: 8641718700092080987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_60
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 980
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7825a78c5cd7a37c0800000000000000
+      internalID: -4090819023087185273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_61
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 979
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0567a71d1af2050800000000000000
+      internalID: 5778014768014446755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_62
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 844
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f9a1b86620858a0800000000000000
+      internalID: -6316295837943423141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 844
+        width: 82
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7431ae33ea271b480800000000000000
+      internalID: -8885194497304423609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 866
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb32f4debd993f180800000000000000
+      internalID: -9082746853617884226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 847
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d701b1b0f65321230800000000000000
+      internalID: 3608005002521153661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_66
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 845
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e6f01a08e3112f0800000000000000
+      internalID: -1003952519748030841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 866
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271c6015ff903e330800000000000000
+      internalID: 3738843107828351346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_68
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 866
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff459ee35261e8b0800000000000000
+      internalID: -5124706788346343440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_69
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 864
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf73fcea1d9ccc0800000000000000
+      internalID: -3690187870922343685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_70
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 864
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283a989e6f1b9220800000000000000
+      internalID: 2493621378546808869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_71
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 846
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3230411013a03fb40800000000000000
+      internalID: 5472729177773048611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_72
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 846
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c98be8efc407500800000000000000
+      internalID: 391897823781100700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_73
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 875
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3076354f3274fc380800000000000000
+      internalID: -8948855714813352189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_74
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 872
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6104968b645a2bef0800000000000000
+      internalID: -93830919061159914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_75
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 865
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1e2b1af04c62c80800000000000000
+      internalID: -8347769287868227151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_76
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 845
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86eb5cbcde5cb80800000000000000
+      internalID: -8375026472573835088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_77
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 844
+        width: 109
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e0caae711aec280800000000000000
+      internalID: -9021095879483060586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_78
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 726
+        width: 129
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a869f760f39074640800000000000000
+      internalID: 5064026472298026634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 859
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d3907dfa2392230800000000000000
+      internalID: 3614475906749906255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_80
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 853
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b2caaddb9edd120800000000000000
+      internalID: 2440363574731484030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_81
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 855
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd7876d5c07cb730800000000000000
+      internalID: 4016208962716728830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_82
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 855
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4365ea8cbf70d3640800000000000000
+      internalID: 5061210334219359796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_83
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 855
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc6d743a2e035c0800000000000000
+      internalID: -4237638058442830983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_84
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 852
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4e3ed43cba87d50800000000000000
+      internalID: 6735322098046330020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_85
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 851
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be36f5a42b02e820800000000000000
+      internalID: 2945929358284832433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 850
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a574b4e2cc6a580800000000000000
+      internalID: -8816134721327637879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_87
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 843
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b23f8b43289c0b0800000000000000
+      internalID: -5707887889762538680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_88
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 845
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d4467c1a72068b0800000000000000
+      internalID: -5161081597178131058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 725
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee5e5dc6afd3fa0800000000000000
+      internalID: -5819219798140785017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_90
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 724
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456af4d21ee4fd6e0800000000000000
+      internalID: -1810641796144847276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 758
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f11c6aa233b7d0800000000000000
+      internalID: -2903921627184892164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_92
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 753
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce594585d2acacf70800000000000000
+      internalID: 9208394684216677868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_93
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 732
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd603965752e3280800000000000000
+      internalID: -9061764214016676367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_94
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 731
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb5216805ecd1b0800000000000000
+      internalID: -5630373609967600796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 754
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785e5b8feded24640800000000000000
+      internalID: 5062853980354635143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_96
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 728
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ef80408e91f720800000000000000
+      internalID: 2878255910542633193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_97
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 728
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e1ab1618c885830800000000000000
+      internalID: 4060149551392759443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_98
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 761
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d379e329f571842f0800000000000000
+      internalID: -988514418964916419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_99
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 753
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3559a518b4dc700800000000000000
+      internalID: 562188547433780166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_100
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 754
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44afbeae5988b2ad0800000000000000
+      internalID: -2725934971969865148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_101
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 727
+        width: 123
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b399d4a8972968ec0800000000000000
+      internalID: -3565001004308129477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_102
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 746
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a16c17a918733c0800000000000000
+      internalID: -4379889612260762997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_103
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 741
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33643ba4cf705c570800000000000000
+      internalID: 8486197853015983667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_104
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 738
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c40a64372cef0e0800000000000000
+      internalID: -2234134564767249298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_105
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 749
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8842976a1f562efb0800000000000000
+      internalID: -4620018179174226808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_106
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 747
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b60dfa20fa647b0800000000000000
+      internalID: -5240308690324526324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_107
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 738
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07d78f795b3aa7c0800000000000000
+      internalID: -4059366858543343862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_108
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 745
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd3f5dbae1d48e60800000000000000
+      internalID: 7963720847227567607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_109
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 739
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029c4037462836250800000000000000
+      internalID: 5936732101742479648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_110
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 746
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b54e3bee3617ce0800000000000000
+      internalID: -1409235331518801115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_111
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 736
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6fe3f15794b8060800000000000000
+      internalID: 6956734816788084443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_112
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 740
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2d9ab39d5ce33e0800000000000000
+      internalID: -2072001241744289100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 734
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14baeb5df37f52610800000000000000
+      internalID: 1595953496513751873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_114
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 723
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f947922f206414e30800000000000000
+      internalID: 4485943682304406687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_115
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 733
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b478a386adcb5320800000000000000
+      internalID: 2547856129265267892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_116
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 729
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cce7dda8db0a4d40800000000000000
+      internalID: 5569276914454490312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 734
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da067400ec267560800000000000000
+      internalID: 7311080385741720278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_118
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 734
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce65e087b0185fd10800000000000000
+      internalID: 2158773482652849900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_119
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 731
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b677b5ee71e9620800000000000000
+      internalID: 2782687932265753394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_120
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 727
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d096e72526a6be590800000000000000
+      internalID: -7643898972007929587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 599
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04207c7f5bc5ec690800000000000000
+      internalID: -7580019186202115520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_122
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 596
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560910e8f87fcefa0800000000000000
+      internalID: -5769964826633596827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 641
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe89eb5e21102270800000000000000
+      internalID: 8223591810386726641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_124
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 597
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7c00836002d5c40800000000000000
+      internalID: 5502589530798082043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_125
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 596
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edbe2b29248cbf50800000000000000
+      internalID: 6898534041577766370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_126
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 642
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcf13f4ba956baf0800000000000000
+      internalID: -381018526163272523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_127
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 639
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db00a17aecbb6a6f0800000000000000
+      internalID: -673644598004154179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_128
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 626
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7037fa1a22c28150800000000000000
+      internalID: 5873470350141370490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_129
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 598
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531bdb9de2f825e0800000000000000
+      internalID: -1934028937619631273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_130
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 596
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aba51c6ae8325e0800000000000000
+      internalID: -1935546567979517360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_131
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 636
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2429cbe8be6c80140800000000000000
+      internalID: 4686214127293338178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_132
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 630
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d42efbfefad789c0800000000000000
+      internalID: -3924927761545812780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_133
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 601
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462db334ae4a15000800000000000000
+      internalID: 22980799170859620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_134
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 603
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec65368df6955c40800000000000000
+      internalID: 5500468535525469410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_135
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 5
+        width: 132
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd59dfaf01f01430800000000000000
+      internalID: 3751763539276684766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_136
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 625
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c774c8afbc87d510800000000000000
+      internalID: 1573881349587367880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_137
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 630
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0914bd7cb9fb1cb90800000000000000
+      internalID: -7223281651531693680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_138
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 613
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6682f247e936b70800000000000000
+      internalID: 8891124311204062965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_139
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 608
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a63054645c79a4f0800000000000000
+      internalID: -816985155488958814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_140
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 621
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9354677de7fe3110800000000000000
+      internalID: 1242703146483209116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_141
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af61ca94520e19b10800000000000000
+      internalID: 1986615361401526010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_142
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 603
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cba2a3adcc8a2c0800000000000000
+      internalID: -4420057796613325672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_143
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 596
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b715cd27c5bf96a50800000000000000
+      internalID: 6515014710450737531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_144
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 603
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb7088782fc80aa0800000000000000
+      internalID: -6194473514720789538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_145
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 594
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b392adfffb651b0800000000000000
+      internalID: -5668131975401489628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_146
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 602
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d13215cd5be6180800000000000000
+      internalID: -9120152237519987330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_147
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 595
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e75098ee252d3e80800000000000000
+      internalID: -8197354863343937567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_148
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 594
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663088b1ae2891130800000000000000
+      internalID: 3538002924272092006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 477
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f1bdab24c502e90800000000000000
+      internalID: -7052535574789677281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 475
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f958cc00252d40800000000000000
+      internalID: 5558884554331781504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 526
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39efa660e8e8ab600800000000000000
+      internalID: 484856650539925139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_152
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 484
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03f096e495eacfa0800000000000000
+      internalID: -5779554744090430707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_153
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 483
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeac6dec581aff90800000000000000
+      internalID: -6919191090101965140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_154
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 519
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9744292f417a3b570800000000000000
+      internalID: 8481306231679632505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_155
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 489
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2ef05f8b8bdc5e0800000000000000
+      internalID: -1887649564273417484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_156
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 488
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4956e4b97541500a0800000000000000
+      internalID: -6916099286257212012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_157
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 536
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a4d146a2fbed3b0800000000000000
+      internalID: -5485737107301512591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_158
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 528
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf57bfdfa02833260800000000000000
+      internalID: 7076142423251580412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_159
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 504
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6432049fda6cc78c0800000000000000
+      internalID: -4000103918498471098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_160
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 491
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382960f70cbef1660800000000000000
+      internalID: 7358859528144065155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_161
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 517
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1059052de8004560800000000000000
+      internalID: 7295841210961842202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_162
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 500
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a732d2133c93e0800000000000000
+      internalID: -2045703974803757316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_163
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 503
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428bd5d9503e34e10800000000000000
+      internalID: 2180836257831958564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_164
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 517
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec8914d4e0cd29c0800000000000000
+      internalID: -3950289209090536212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_165
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 505
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eb62d81d10bb310800000000000000
+      internalID: 1421732106893442693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_166
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 491
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29869786bbff53560800000000000000
+      internalID: 7293016351973140626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_167
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 492
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfdec0a761714500800000000000000
+      internalID: 378708533569314766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_168
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 488
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d296913eb219e00800000000000000
+      internalID: 1049668442537930130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_169
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 492
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9838f3c7e460d70800000000000000
+      internalID: 9008974400149752232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_170
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 486
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a722c52b69391b6d0800000000000000
+      internalID: -2976435603268427142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_171
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 496
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87292ac0b5e197730800000000000000
+      internalID: 3997259520670863992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_172
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 493
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292140e2152620ba0800000000000000
+      internalID: -6124224442466561390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_173
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 487
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a41c255e72cb850800000000000000
+      internalID: 6394029436848654873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_174
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 493
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27523fa21fe29190800000000000000
+      internalID: -7957034728082483413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_175
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 488
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f4dd291e089910800000000000000
+      internalID: 1844239548714121096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e473bfe3409cdbc0800000000000000
+      internalID: -3756969367675112217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_177
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 482
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11494a78d39a39e0800000000000000
+      internalID: -1640836556249284322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_178
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 480
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4877a09ffe0f93a0800000000000000
+      internalID: -6656585233423959990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_179
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 486
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7a1ff2bb3c83d60800000000000000
+      internalID: 7870255557560608750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_180
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 484
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ccd721822234670800000000000000
+      internalID: 8521692475419380758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_181
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 472
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79b84c359d24490800000000000000
+      internalID: -7763403853830318114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_182
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 359
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15fdabf5191e1c60800000000000000
+      internalID: 7790691987605026079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_183
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 356
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b7bfd8915b8570800000000000000
+      internalID: 8469953241230587719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_184
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d255f0797ffae4ab0800000000000000
+      internalID: -5021883056545376979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_185
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 356
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c8ef08170bb6810800000000000000
+      internalID: 1759694080960269447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_186
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 353
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4068763ad8a3330800000000000000
+      internalID: 3691418577539564740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_187
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 405
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d7454a297707f0800000000000000
+      internalID: -646414799046453059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_188
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 356
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a564bd78ef28635e0800000000000000
+      internalID: -1930211360569080230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_189
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 353
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2c671ae9f9e7f00800000000000000
+      internalID: 1116505261297025731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_190
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 409
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f688192d2e232370800000000000000
+      internalID: 8296525710044464884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_191
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 408
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6957d862ebfe3ec0800000000000000
+      internalID: -3585151303500211862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_192
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 407
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d351dd47276f6d40800000000000000
+      internalID: 5579791881842283480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_193
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 413
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025002db76968f70800000000000000
+      internalID: 9189197548244455951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_194
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 402
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c95814b28ab8e00800000000000000
+      internalID: 1048116242030107715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_195
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 388
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6c48a6a47267920800000000000000
+      internalID: 2987618603375052536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_196
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 381
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9022f4cf534a3c6b0800000000000000
+      internalID: -5277193786574822903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_197
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 402
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d635fed6bef852bd0800000000000000
+      internalID: -2655558163940551827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_198
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 394
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9d343539b0aed0800000000000000
+      internalID: -2404718562854986717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_199
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 401
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dced311d296bcfc40800000000000000
+      internalID: 5547509582702829261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_200
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 263
+        width: 36
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cd597bb82dc29c0800000000000000
+      internalID: -3950551275588428671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_201
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 354
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433276bd6d118d870800000000000000
+      internalID: 8707729494022497076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_202
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 376
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeaddae0b12a4a50800000000000000
+      internalID: 6506049655428460269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_203
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 385
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6b8ea1603d23d70800000000000000
+      internalID: 9021505026751248110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_204
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 364
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff392313f3b7191e0800000000000000
+      internalID: -2192836032214166529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_205
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 369
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b6eb197e98c050800000000000000
+      internalID: 5821076761372702677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_206
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 375
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d1d8fdadf47f60800000000000000
+      internalID: 8031322959154107797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_207
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 369
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385b870f539c9930800000000000000
+      internalID: 4151354992886503486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_208
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe725f0da1ee57e0800000000000000
+      internalID: -1774733069734740232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_209
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 361
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4ae53612069f920800000000000000
+      internalID: 3024554321273332961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_210
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 352
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d329e6757590d69c0800000000000000
+      internalID: -3932476628890906051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_211
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5d42f5c2633f5b0800000000000000
+      internalID: -5335861569301195346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_212
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 350
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3e6497e1afe7550800000000000000
+      internalID: 6160636349080069098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_213
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 349
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fb4bfc6e3179960800000000000000
+      internalID: 7608571977513877391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_214
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 241
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ac38e1841d17d00800000000000000
+      internalID: 968785502541171247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_215
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 239
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fa11d60c7c95690800000000000000
+      internalID: -7612834065815589038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_216
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 301
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3bdacbb6fdc35a0800000000000000
+      internalID: -6540106905028807722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_217
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 245
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219a8241091c9cd60800000000000000
+      internalID: 7911067045010647314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_218
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 242
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fb763c1c9bcb2b0800000000000000
+      internalID: -5567370797478592731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_219
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 287
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dec3acd3d7123c0800000000000000
+      internalID: -4386086857742684817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_220
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 242
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3a53f3f97185750800000000000000
+      internalID: 6293806451977986999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_221
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 238
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6d767fabe7ac40800000000000000
+      internalID: 5523642606832938712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_222
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 309
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1c94bca518ece30800000000000000
+      internalID: 4525696902511575473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_223
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 295
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94436e6de6c41a4e0800000000000000
+      internalID: -1972211122876042167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_224
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 309
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b383c10ac021b5280800000000000000
+      internalID: -9053622780463138757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_225
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 286
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7883033f887c0070800000000000000
+      internalID: 8073960788399982714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_226
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 281
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29041325ecc45be70800000000000000
+      internalID: 9130288268589482130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_227
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 294
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fb7bafad455b1e0800000000000000
+      internalID: -2182745144905187584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_228
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 277
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b4be032075d75a0800000000000000
+      internalID: -6521961018440332467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_229
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 268
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46e45ee390476c50800000000000000
+      internalID: 6658361578193479245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_230
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 279
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67d6bea367615710800000000000000
+      internalID: 1680237813816547180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_231
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 262
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f842ceef6eca1f40800000000000000
+      internalID: 5700095258533185776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_232
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 264
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a1a271906473840800000000000000
+      internalID: 5203704899307182663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_233
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 253
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b4dc854b5e8230800000000000000
+      internalID: 3642949502862931027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_234
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 263
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af89657437bee5200800000000000000
+      internalID: 170832716237281530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_235
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 268
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c874aba2110f44c00800000000000000
+      internalID: 884095383393421196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_236
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 250
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28edfb473b5a91ca0800000000000000
+      internalID: -6045618834591719806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_237
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 253
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841b4ea9a9d231fc0800000000000000
+      internalID: -3525423941254074040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_238
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 250
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ffa4fd637f5a4c0800000000000000
+      internalID: -4276740456071889083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_239
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 256
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d547ed9aa2c2eca20800000000000000
+      internalID: 3084451356545545309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_240
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 249
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2453274eec8c9f70800000000000000
+      internalID: 9195379494207312940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_241
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90909197ec180e4b0800000000000000
+      internalID: -5413184028304406263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_242
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 234
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d250f8b3382400800000000000000
+      internalID: 299546244619098400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_243
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 238
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9cdcc68086bfb80800000000000000
+      internalID: -8359973897888740953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_244
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 242
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c0e15d5bbac19a0800000000000000
+      internalID: -6260940584498885626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_245
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 240
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c764f61b6da440800000000000000
+      internalID: 4948729311883937453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_246
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 236
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed2f5122663ff8a0800000000000000
+      internalID: -6269232361181860380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_247
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 244
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052676420e0a2f690800000000000000
+      internalID: -7569811139112508848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_248
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 235
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3618286d9f82f14d0800000000000000
+      internalID: -3161763359879954077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_249
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff60cce6fc2d58c0800000000000000
+      internalID: -4008998654244261894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_250
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 121
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ecbc0be5c09b70800000000000000
+      internalID: 8903834076633163131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_251
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 118
+        width: 20
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958c5f442dc877e90800000000000000
+      internalID: -7027993858760390567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_252
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 185
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd84ff9e29fbc6380800000000000000
+      internalID: -8976589319544289057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_253
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 195
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a533b607bcb1fbc0800000000000000
+      internalID: -3751009520345467484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_254
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 120
+        width: 17
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0753f542e8d9e40800000000000000
+      internalID: 5664840193169256680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_255
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 116
+        width: 17
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695d071dfd2969e70800000000000000
+      internalID: 9121639585274713494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_256
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 158
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d55495d0f78b1ff0800000000000000
+      internalID: -64308301221571112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_257
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 121
+        width: 16
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210e768a168d9aa50800000000000000
+      internalID: 6532990648426422290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_258
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 119
+        width: 16
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a269367b1b48630800000000000000
+      internalID: 3928460176181832200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_259
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 182
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f587c5823ce3ad9b0800000000000000
+      internalID: -5054658623853266849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_260
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 172
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c7a1274b244dd0800000000000000
+      internalID: -2502827908403838120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_261
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 60
+        width: 16
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a9eca94fe16b2b0800000000000000
+      internalID: -5569229853278954909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_262
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 155
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987659b2cf6b62ab0800000000000000
+      internalID: -5033134339360725111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_263
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 150
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f480da3d1aeef10c0800000000000000
+      internalID: -4602697915340879793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_264
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12152dcdbaa150540800000000000000
+      internalID: 4973410688947081505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_265
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 159
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2481b39135466d3e0800000000000000
+      internalID: -2029324274015463358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_266
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 129
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e028ba3dac615d0800000000000000
+      internalID: -3092061083678929327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_267
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 145
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f673b75bb8ca49cd0800000000000000
+      internalID: -2552225372767045777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_268
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 142
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf00bc139601d770800000000000000
+      internalID: 8633689189557211086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_269
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 133
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3343d9feeb3468c0800000000000000
+      internalID: -4007011870873271491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_270
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaa61f5b68be0d40800000000000000
+      internalID: 5552578161890732749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_271
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 138
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6b95b6ebda16ac0800000000000000
+      internalID: -3863615971950741784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_272
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ba7ac95ce76160800000000000000
+      internalID: 7018838414673490891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_273
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 140
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517216fa01ddfe810800000000000000
+      internalID: 1796897840075712277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_274
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 144
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace74083dc6ece110800000000000000
+      internalID: 1291660962230992586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_275
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e97240997210eab0800000000000000
+      internalID: -4980960874551150112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_276
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 119
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd0b3504e140ea60800000000000000
+      internalID: 7701227810399653334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_277
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 117
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e2a580ca7edd3e0800000000000000
+      internalID: -2027209531186336097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_278
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2d4fdd1c7c88590800000000000000
+      internalID: -7671662329759214886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_279
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 128
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335a1b739a8bc16b0800000000000000
+      internalID: -5324177622535396045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_280
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 116
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec9a8c0c8275e610800000000000000
+      internalID: 1649850784332553452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_281
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 114
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d10b948a4c36c0800000000000000
+      internalID: -4162370022200453313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_282
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 115
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b67347f8be66040800000000000000
+      internalID: 4640655467414514563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_283
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 13
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f33ad04c3099d90800000000000000
+      internalID: -7090631997740859509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_284
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 14
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb56355706b8e1a0800000000000000
+      internalID: -6779969096395629573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_285
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 79
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fd0279a4c80abb0800000000000000
+      internalID: -4926783740352340067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_286
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 16
+        width: 19
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e8fbc62244f8a00800000000000000
+      internalID: 760901776692973192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_287
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 10
+        width: 18
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146632b6b4cb5f130800000000000000
+      internalID: 3599990509258630721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_288
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9960663f61f7ba70800000000000000
+      internalID: 8842801853321210269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_289
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f42e2f983656760800000000000000
+      internalID: 7450470602690940762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_290
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 12
+        width: 13
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e9421dd10613160800000000000000
+      internalID: 7003484576716987997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_291
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 9
+        width: 13
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf8997d69130c40800000000000000
+      internalID: 5477249529794854368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_292
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 77
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27af74aa28afa20800000000000000
+      internalID: 3096931361634284209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_293
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 67
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8125810e4dad87ad0800000000000000
+      internalID: -2704170968408370664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_294
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 46
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc402e5ee73638d30800000000000000
+      internalID: 4432495854936523981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_295
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 65
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab44a23d1e929580800000000000000
+      internalID: -8821814871824512088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_296
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 63
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4a9832cdde952c0800000000000000
+      internalID: -4442258027679472385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_297
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 63
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8fba2fd77941a70800000000000000
+      internalID: 8796822539359484075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_298
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 50
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dde5832059a5d100800000000000000
+      internalID: 132197925735755217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_299
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 53
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630b809e1978d42b0800000000000000
+      internalID: -5598669701001990090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_300
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 47
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359aa549dca2973c0800000000000000
+      internalID: -4361407701685982893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_301
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 6
+        width: 9
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef825e526a324ed40800000000000000
+      internalID: 5612650232117799166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_302
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 5
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a107c17f0cc849860800000000000000
+      internalID: 7535802836905127962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_303
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 34
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a77ed5e4cb5bbe0800000000000000
+      internalID: -1462055459242935768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_304
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 34
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2402684d8d8bdd0800000000000000
+      internalID: -2469985988317789459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_305
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 35
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e38bcb9b126ae00800000000000000
+      internalID: 1055568244283817517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_306
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936d14f4d65de7880800000000000000
+      internalID: -8611210772027943367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_307
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 8
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a2db5cadfc1550800000000000000
+      internalID: 6133055709288506441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_308
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 9
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8159c60bf36a5fc30800000000000000
+      internalID: 4392599804042843416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-origin_309
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 8
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c153dafb3baa2d20800000000000000
+      internalID: 3254601954828177865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

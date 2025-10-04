@@ -1,0 +1,7867 @@
+fileFormatVersion: 2
+guid: e81de5db67778514b84a691e058dd23c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3966664664594135202
+    second: line70-gold_0
+  - first:
+      213: 3858972540304842737
+    second: line70-gold_1
+  - first:
+      213: -1023352382318540175
+    second: line70-gold_2
+  - first:
+      213: 4226263595513181047
+    second: line70-gold_3
+  - first:
+      213: -863105675454079210
+    second: line70-gold_4
+  - first:
+      213: 5280011662298989439
+    second: line70-gold_5
+  - first:
+      213: -1055301728214277019
+    second: line70-gold_6
+  - first:
+      213: 2035537727820173864
+    second: line70-gold_7
+  - first:
+      213: -10307780886011419
+    second: line70-gold_8
+  - first:
+      213: -7871367098591718572
+    second: line70-gold_9
+  - first:
+      213: 6130201661632874441
+    second: line70-gold_10
+  - first:
+      213: -5806523210612413159
+    second: line70-gold_11
+  - first:
+      213: 8283319721663625777
+    second: line70-gold_12
+  - first:
+      213: -7769143230439088433
+    second: line70-gold_13
+  - first:
+      213: 205505143840261759
+    second: line70-gold_14
+  - first:
+      213: 8611793182822386231
+    second: line70-gold_15
+  - first:
+      213: -3099113436789115828
+    second: line70-gold_16
+  - first:
+      213: 8571353479460701754
+    second: line70-gold_17
+  - first:
+      213: -2297816800567623935
+    second: line70-gold_18
+  - first:
+      213: 1151493691437541082
+    second: line70-gold_19
+  - first:
+      213: 7043956742503438143
+    second: line70-gold_20
+  - first:
+      213: -1083253745253556742
+    second: line70-gold_21
+  - first:
+      213: 1397882757207009056
+    second: line70-gold_22
+  - first:
+      213: -6371722825015548030
+    second: line70-gold_23
+  - first:
+      213: 3776032071356950604
+    second: line70-gold_24
+  - first:
+      213: 1940746960468099492
+    second: line70-gold_25
+  - first:
+      213: -830348796313618113
+    second: line70-gold_26
+  - first:
+      213: 990522227176758851
+    second: line70-gold_27
+  - first:
+      213: -4173598505706687756
+    second: line70-gold_28
+  - first:
+      213: 8052858816957249241
+    second: line70-gold_29
+  - first:
+      213: 7616137375643314710
+    second: line70-gold_30
+  - first:
+      213: -2624890265199106016
+    second: line70-gold_31
+  - first:
+      213: 3272376195247636921
+    second: line70-gold_32
+  - first:
+      213: 6321832844466198580
+    second: line70-gold_33
+  - first:
+      213: -6517763956262040812
+    second: line70-gold_34
+  - first:
+      213: 3626917890402447992
+    second: line70-gold_35
+  - first:
+      213: -7955037190891097823
+    second: line70-gold_36
+  - first:
+      213: 3219509210823895657
+    second: line70-gold_37
+  - first:
+      213: -450406412557558455
+    second: line70-gold_38
+  - first:
+      213: -7468145336749721489
+    second: line70-gold_39
+  - first:
+      213: 4123142679457152027
+    second: line70-gold_40
+  - first:
+      213: -2133872585398121182
+    second: line70-gold_41
+  - first:
+      213: 2531150388566994971
+    second: line70-gold_42
+  - first:
+      213: 8881864207105336337
+    second: line70-gold_43
+  - first:
+      213: 7776491143024124464
+    second: line70-gold_44
+  - first:
+      213: 7396350628921602450
+    second: line70-gold_45
+  - first:
+      213: -19618042484444901
+    second: line70-gold_46
+  - first:
+      213: -4004698186647342992
+    second: line70-gold_47
+  - first:
+      213: 7006798988557594990
+    second: line70-gold_48
+  - first:
+      213: 244276042219080132
+    second: line70-gold_49
+  - first:
+      213: -7394050837748025131
+    second: line70-gold_50
+  - first:
+      213: -6937077119006600725
+    second: line70-gold_51
+  - first:
+      213: 2648072522908590556
+    second: line70-gold_52
+  - first:
+      213: -3786618573248689992
+    second: line70-gold_53
+  - first:
+      213: 8078095659939634809
+    second: line70-gold_54
+  - first:
+      213: -7414153115218301999
+    second: line70-gold_55
+  - first:
+      213: -656286128246443509
+    second: line70-gold_56
+  - first:
+      213: -6996849139631794584
+    second: line70-gold_57
+  - first:
+      213: 3976019539672786302
+    second: line70-gold_58
+  - first:
+      213: 2025159525199464162
+    second: line70-gold_59
+  - first:
+      213: 7462283251177085806
+    second: line70-gold_60
+  - first:
+      213: -3925199855005191400
+    second: line70-gold_61
+  - first:
+      213: -9165172492272773182
+    second: line70-gold_62
+  - first:
+      213: -7679311759394727592
+    second: line70-gold_63
+  - first:
+      213: 3998054095661905241
+    second: line70-gold_64
+  - first:
+      213: 304207646509992584
+    second: line70-gold_65
+  - first:
+      213: 8327602780849592321
+    second: line70-gold_66
+  - first:
+      213: 4378400744509777708
+    second: line70-gold_67
+  - first:
+      213: -3901635046942358008
+    second: line70-gold_68
+  - first:
+      213: -6886223289933345717
+    second: line70-gold_69
+  - first:
+      213: -2949435242260979701
+    second: line70-gold_70
+  - first:
+      213: 3553981179311148685
+    second: line70-gold_71
+  - first:
+      213: 7941025667221418634
+    second: line70-gold_72
+  - first:
+      213: 3324775420106158534
+    second: line70-gold_73
+  - first:
+      213: 5566123967474037667
+    second: line70-gold_74
+  - first:
+      213: 7935325081340823402
+    second: line70-gold_75
+  - first:
+      213: -2442643123020213781
+    second: line70-gold_76
+  - first:
+      213: 7814323631937905493
+    second: line70-gold_77
+  - first:
+      213: -3287226666748268072
+    second: line70-gold_78
+  - first:
+      213: -4594681049948262251
+    second: line70-gold_79
+  - first:
+      213: -5024786668923330185
+    second: line70-gold_80
+  - first:
+      213: -4905393414858958944
+    second: line70-gold_81
+  - first:
+      213: 2930831972749776011
+    second: line70-gold_82
+  - first:
+      213: 9170858477100122665
+    second: line70-gold_83
+  - first:
+      213: 9032212790530793697
+    second: line70-gold_84
+  - first:
+      213: 4020419188791929594
+    second: line70-gold_85
+  - first:
+      213: -7704913232754145488
+    second: line70-gold_86
+  - first:
+      213: 3081518784179433773
+    second: line70-gold_87
+  - first:
+      213: 5200905605516869581
+    second: line70-gold_88
+  - first:
+      213: 8181934840805363074
+    second: line70-gold_89
+  - first:
+      213: 911920877354380226
+    second: line70-gold_90
+  - first:
+      213: -8698779729984986003
+    second: line70-gold_91
+  - first:
+      213: 912139137298319691
+    second: line70-gold_92
+  - first:
+      213: 7314337057017342639
+    second: line70-gold_93
+  - first:
+      213: -2462522765929391349
+    second: line70-gold_94
+  - first:
+      213: 7105091277332901112
+    second: line70-gold_95
+  - first:
+      213: -7460389658736925973
+    second: line70-gold_96
+  - first:
+      213: 8651230008999695569
+    second: line70-gold_97
+  - first:
+      213: -1811343533979373014
+    second: line70-gold_98
+  - first:
+      213: -4654619945828243671
+    second: line70-gold_99
+  - first:
+      213: 3669464437713499536
+    second: line70-gold_100
+  - first:
+      213: -6265885088934779721
+    second: line70-gold_101
+  - first:
+      213: 1279011120459339267
+    second: line70-gold_102
+  - first:
+      213: -2959367519107089455
+    second: line70-gold_103
+  - first:
+      213: 7857476387652545465
+    second: line70-gold_104
+  - first:
+      213: 4679104340974359719
+    second: line70-gold_105
+  - first:
+      213: 3289321247077144330
+    second: line70-gold_106
+  - first:
+      213: 2630050890369282717
+    second: line70-gold_107
+  - first:
+      213: -5139442941700859565
+    second: line70-gold_108
+  - first:
+      213: -9096336057287553506
+    second: line70-gold_109
+  - first:
+      213: 7540614558090302435
+    second: line70-gold_110
+  - first:
+      213: 839500004433080523
+    second: line70-gold_111
+  - first:
+      213: -5307895401896864167
+    second: line70-gold_112
+  - first:
+      213: 4223464021542196421
+    second: line70-gold_113
+  - first:
+      213: 1191013141630843833
+    second: line70-gold_114
+  - first:
+      213: -4860758366910822838
+    second: line70-gold_115
+  - first:
+      213: 8181762887509438438
+    second: line70-gold_116
+  - first:
+      213: 1007697255573300164
+    second: line70-gold_117
+  - first:
+      213: 1999880040628186298
+    second: line70-gold_118
+  - first:
+      213: -6187393932395434671
+    second: line70-gold_119
+  - first:
+      213: 2797059898156664162
+    second: line70-gold_120
+  - first:
+      213: -4261626686466978565
+    second: line70-gold_121
+  - first:
+      213: -6228825063567407566
+    second: line70-gold_122
+  - first:
+      213: -6535892887470091487
+    second: line70-gold_123
+  - first:
+      213: -7186202296858317375
+    second: line70-gold_124
+  - first:
+      213: -4796206040077346051
+    second: line70-gold_125
+  - first:
+      213: -3989139696887349485
+    second: line70-gold_126
+  - first:
+      213: 6084630000125832439
+    second: line70-gold_127
+  - first:
+      213: -2805619669299702499
+    second: line70-gold_128
+  - first:
+      213: 2812946779258856990
+    second: line70-gold_129
+  - first:
+      213: -8030490170677709104
+    second: line70-gold_130
+  - first:
+      213: 1533580005737039036
+    second: line70-gold_131
+  - first:
+      213: 1459200248730421116
+    second: line70-gold_132
+  - first:
+      213: 8773398226979958049
+    second: line70-gold_133
+  - first:
+      213: 7567306829131089316
+    second: line70-gold_134
+  - first:
+      213: 9038702101258333035
+    second: line70-gold_135
+  - first:
+      213: -3514026447704825959
+    second: line70-gold_136
+  - first:
+      213: -2354127737639325565
+    second: line70-gold_137
+  - first:
+      213: -6200682931375189833
+    second: line70-gold_138
+  - first:
+      213: 4759065183222620808
+    second: line70-gold_139
+  - first:
+      213: -3428201797113929595
+    second: line70-gold_140
+  - first:
+      213: 1630579330640108473
+    second: line70-gold_141
+  - first:
+      213: 3136141197993546495
+    second: line70-gold_142
+  - first:
+      213: 389608013652178887
+    second: line70-gold_143
+  - first:
+      213: -1658661626166906147
+    second: line70-gold_144
+  - first:
+      213: -6501281135065953449
+    second: line70-gold_145
+  - first:
+      213: -3201241161924175684
+    second: line70-gold_146
+  - first:
+      213: 2741246023740156538
+    second: line70-gold_147
+  - first:
+      213: -6517613727911031491
+    second: line70-gold_148
+  - first:
+      213: -5129022964993563739
+    second: line70-gold_149
+  - first:
+      213: -5802103852817373455
+    second: line70-gold_150
+  - first:
+      213: -7108412725734088505
+    second: line70-gold_151
+  - first:
+      213: -5610418225600052112
+    second: line70-gold_152
+  - first:
+      213: 6308072723985987370
+    second: line70-gold_153
+  - first:
+      213: 7732478149368151532
+    second: line70-gold_154
+  - first:
+      213: 6963439036393249024
+    second: line70-gold_155
+  - first:
+      213: 7345651213488404545
+    second: line70-gold_156
+  - first:
+      213: 6207710672270038474
+    second: line70-gold_157
+  - first:
+      213: 1053464491591821395
+    second: line70-gold_158
+  - first:
+      213: 8670905297761691156
+    second: line70-gold_159
+  - first:
+      213: -3858061244478297042
+    second: line70-gold_160
+  - first:
+      213: -4209112681590913027
+    second: line70-gold_161
+  - first:
+      213: -5367594314540414176
+    second: line70-gold_162
+  - first:
+      213: -501966128403111573
+    second: line70-gold_163
+  - first:
+      213: -3012228721113166679
+    second: line70-gold_164
+  - first:
+      213: -8193275448420784707
+    second: line70-gold_165
+  - first:
+      213: 4783113568935665829
+    second: line70-gold_166
+  - first:
+      213: -3534654690764425245
+    second: line70-gold_167
+  - first:
+      213: -2291920337170843513
+    second: line70-gold_168
+  - first:
+      213: 5272968526890696018
+    second: line70-gold_169
+  - first:
+      213: 1303168195351040469
+    second: line70-gold_170
+  - first:
+      213: -1790649167737225977
+    second: line70-gold_171
+  - first:
+      213: 6044434161416184088
+    second: line70-gold_172
+  - first:
+      213: -1650408086887854280
+    second: line70-gold_173
+  - first:
+      213: -5756977990209547458
+    second: line70-gold_174
+  - first:
+      213: 6419272773161067531
+    second: line70-gold_175
+  - first:
+      213: -2819165254187095561
+    second: line70-gold_176
+  - first:
+      213: 3673887232222310755
+    second: line70-gold_177
+  - first:
+      213: 4140784120491771476
+    second: line70-gold_178
+  - first:
+      213: -5597008318490388517
+    second: line70-gold_179
+  - first:
+      213: 1220797892884774703
+    second: line70-gold_180
+  - first:
+      213: 5651686936501175801
+    second: line70-gold_181
+  - first:
+      213: 6628069790339257367
+    second: line70-gold_182
+  - first:
+      213: 6243266543514689529
+    second: line70-gold_183
+  - first:
+      213: -1520814972931748443
+    second: line70-gold_184
+  - first:
+      213: 7635778475283677067
+    second: line70-gold_185
+  - first:
+      213: -2788655458653250191
+    second: line70-gold_186
+  - first:
+      213: -2132488147903441555
+    second: line70-gold_187
+  - first:
+      213: -4547003332903888080
+    second: line70-gold_188
+  - first:
+      213: 1207004397867909158
+    second: line70-gold_189
+  - first:
+      213: -3268009022579089257
+    second: line70-gold_190
+  - first:
+      213: 5969581838234740606
+    second: line70-gold_191
+  - first:
+      213: -4403752667718339526
+    second: line70-gold_192
+  - first:
+      213: 6431135657741577245
+    second: line70-gold_193
+  - first:
+      213: -5596952858432638602
+    second: line70-gold_194
+  - first:
+      213: 8638675399968444351
+    second: line70-gold_195
+  - first:
+      213: 5677127743303600695
+    second: line70-gold_196
+  - first:
+      213: 8295623872556105813
+    second: line70-gold_197
+  - first:
+      213: 5034017338840470014
+    second: line70-gold_198
+  - first:
+      213: 4955130221582235540
+    second: line70-gold_199
+  - first:
+      213: 3521328211165557231
+    second: line70-gold_200
+  - first:
+      213: 5443268113473010229
+    second: line70-gold_201
+  - first:
+      213: 411497579166144794
+    second: line70-gold_202
+  - first:
+      213: 2271477848601238761
+    second: line70-gold_203
+  - first:
+      213: 7971600054819929535
+    second: line70-gold_204
+  - first:
+      213: -8669767196388121199
+    second: line70-gold_205
+  - first:
+      213: -671244164167243911
+    second: line70-gold_206
+  - first:
+      213: -8057360355890711652
+    second: line70-gold_207
+  - first:
+      213: 5677763602205066856
+    second: line70-gold_208
+  - first:
+      213: 675247629461676518
+    second: line70-gold_209
+  - first:
+      213: -2878555589344722360
+    second: line70-gold_210
+  - first:
+      213: 8509276389229958765
+    second: line70-gold_211
+  - first:
+      213: -967714492729500078
+    second: line70-gold_212
+  - first:
+      213: 6418531072926211311
+    second: line70-gold_213
+  - first:
+      213: -4075549868816245431
+    second: line70-gold_214
+  - first:
+      213: -647384867856265270
+    second: line70-gold_215
+  - first:
+      213: 8164330898850678364
+    second: line70-gold_216
+  - first:
+      213: -711996574862714252
+    second: line70-gold_217
+  - first:
+      213: -6093308842855435800
+    second: line70-gold_218
+  - first:
+      213: 1656666410531893555
+    second: line70-gold_219
+  - first:
+      213: -5625865741953254167
+    second: line70-gold_220
+  - first:
+      213: -471718465945900412
+    second: line70-gold_221
+  - first:
+      213: -3387719795141794715
+    second: line70-gold_222
+  - first:
+      213: 5919937929561267296
+    second: line70-gold_223
+  - first:
+      213: -2149053256487268246
+    second: line70-gold_224
+  - first:
+      213: 7917065125915160194
+    second: line70-gold_225
+  - first:
+      213: -7920130233843576879
+    second: line70-gold_226
+  - first:
+      213: -2468358546769281611
+    second: line70-gold_227
+  - first:
+      213: -2182761551737006068
+    second: line70-gold_228
+  - first:
+      213: -5393506269885862986
+    second: line70-gold_229
+  - first:
+      213: -8049240235113359376
+    second: line70-gold_230
+  - first:
+      213: 5974067363306411203
+    second: line70-gold_231
+  - first:
+      213: 277017955127379443
+    second: line70-gold_232
+  - first:
+      213: -5643617090682642610
+    second: line70-gold_233
+  - first:
+      213: -8500355213969039731
+    second: line70-gold_234
+  - first:
+      213: 7899329512851834430
+    second: line70-gold_235
+  - first:
+      213: 4661800582579271238
+    second: line70-gold_236
+  - first:
+      213: 2675828605198602599
+    second: line70-gold_237
+  - first:
+      213: -5167494638354653266
+    second: line70-gold_238
+  - first:
+      213: -1458968417873207480
+    second: line70-gold_239
+  - first:
+      213: -7085251134788953799
+    second: line70-gold_240
+  - first:
+      213: -7524140113519181478
+    second: line70-gold_241
+  - first:
+      213: 4378286826324821746
+    second: line70-gold_242
+  - first:
+      213: -253932095247640091
+    second: line70-gold_243
+  - first:
+      213: 3614793264496919268
+    second: line70-gold_244
+  - first:
+      213: -7896638378888519880
+    second: line70-gold_245
+  - first:
+      213: 7195203037430868687
+    second: line70-gold_246
+  - first:
+      213: 5531823902590174784
+    second: line70-gold_247
+  - first:
+      213: 3465843947466839691
+    second: line70-gold_248
+  - first:
+      213: 6978739606918931039
+    second: line70-gold_249
+  - first:
+      213: 7851242883452172967
+    second: line70-gold_250
+  - first:
+      213: -3603451727333692421
+    second: line70-gold_251
+  - first:
+      213: -293586714500925416
+    second: line70-gold_252
+  - first:
+      213: -4977328530103640209
+    second: line70-gold_253
+  - first:
+      213: 2368181769361718778
+    second: line70-gold_254
+  - first:
+      213: 2370619878719399633
+    second: line70-gold_255
+  - first:
+      213: -5908118976995713235
+    second: line70-gold_256
+  - first:
+      213: 8167161651639299552
+    second: line70-gold_257
+  - first:
+      213: -6103552476198258630
+    second: line70-gold_258
+  - first:
+      213: 1138095457638562988
+    second: line70-gold_259
+  - first:
+      213: 2494743777244871079
+    second: line70-gold_260
+  - first:
+      213: 4521935968272093296
+    second: line70-gold_261
+  - first:
+      213: -8042118739873745878
+    second: line70-gold_262
+  - first:
+      213: -3197508202096409260
+    second: line70-gold_263
+  - first:
+      213: -6575961550030743726
+    second: line70-gold_264
+  - first:
+      213: -240928286848237832
+    second: line70-gold_265
+  - first:
+      213: 259559226864803038
+    second: line70-gold_266
+  - first:
+      213: 946270238735049062
+    second: line70-gold_267
+  - first:
+      213: -9189245231802825442
+    second: line70-gold_268
+  - first:
+      213: 5167513884585893529
+    second: line70-gold_269
+  - first:
+      213: 6407944974550039816
+    second: line70-gold_270
+  - first:
+      213: 8011424511670119534
+    second: line70-gold_271
+  - first:
+      213: -3837450489451327952
+    second: line70-gold_272
+  - first:
+      213: -5319620078836522306
+    second: line70-gold_273
+  - first:
+      213: -5874437333451145286
+    second: line70-gold_274
+  - first:
+      213: 2018873559532193218
+    second: line70-gold_275
+  - first:
+      213: 487494059900861339
+    second: line70-gold_276
+  - first:
+      213: 8862148642493206077
+    second: line70-gold_277
+  - first:
+      213: -8596761449167836289
+    second: line70-gold_278
+  - first:
+      213: 398281858017920883
+    second: line70-gold_279
+  - first:
+      213: -352918431149620924
+    second: line70-gold_280
+  - first:
+      213: 8729092411470239245
+    second: line70-gold_281
+  - first:
+      213: 5465285098852689643
+    second: line70-gold_282
+  - first:
+      213: -5226468917510508371
+    second: line70-gold_283
+  - first:
+      213: -4404892821034696089
+    second: line70-gold_284
+  - first:
+      213: -2337927633604223193
+    second: line70-gold_285
+  - first:
+      213: 5744216382031313823
+    second: line70-gold_286
+  - first:
+      213: 8339423593463373520
+    second: line70-gold_287
+  - first:
+      213: 6917802553531006264
+    second: line70-gold_288
+  - first:
+      213: -1883823223773782711
+    second: line70-gold_289
+  - first:
+      213: 4246676037615692041
+    second: line70-gold_290
+  - first:
+      213: 7924611123599967036
+    second: line70-gold_291
+  - first:
+      213: 1328538793434752345
+    second: line70-gold_292
+  - first:
+      213: -896461234281287380
+    second: line70-gold_293
+  - first:
+      213: -4368019845772842791
+    second: line70-gold_294
+  - first:
+      213: 5998026864155708132
+    second: line70-gold_295
+  - first:
+      213: 6524185444951160075
+    second: line70-gold_296
+  - first:
+      213: -8625886179641737218
+    second: line70-gold_297
+  - first:
+      213: -3188979268454172010
+    second: line70-gold_298
+  - first:
+      213: -228115229018367328
+    second: line70-gold_299
+  - first:
+      213: -4119798912145072207
+    second: line70-gold_300
+  - first:
+      213: -7050052909532078559
+    second: line70-gold_301
+  - first:
+      213: -7914670567107913938
+    second: line70-gold_302
+  - first:
+      213: -4019024640643738721
+    second: line70-gold_303
+  - first:
+      213: 3346713656636948826
+    second: line70-gold_304
+  - first:
+      213: 4759361249213632487
+    second: line70-gold_305
+  - first:
+      213: -5312433048708724364
+    second: line70-gold_306
+  - first:
+      213: 5679063592165775867
+    second: line70-gold_307
+  - first:
+      213: 1063509268138363696
+    second: line70-gold_308
+  - first:
+      213: -390429655793378673
+    second: line70-gold_309
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: line70-gold_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1097
+        width: 83
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a83a340f7c6c0730800000000000000
+      internalID: 3966664664594135202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1097
+        width: 87
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff5bd66413dd8530800000000000000
+      internalID: 3858972540304842737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1101
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a8ad32e625cc1f0800000000000000
+      internalID: -1023352382318540175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1097
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7737ab13954b6aa30800000000000000
+      internalID: 4226263595513181047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1100
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f9fea06f1a504f0800000000000000
+      internalID: -863105675454079210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1101
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f734045d1ae564940800000000000000
+      internalID: 5280011662298989439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1101
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564aeee5ba0da51f0800000000000000
+      internalID: -1055301728214277019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1104
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82290a957ceaf3c10800000000000000
+      internalID: 2035537727820173864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1095
+        width: 81
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1edddb0216bdff0800000000000000
+      internalID: -10307780886011419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1095
+        width: 87
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4535ebff35943c290800000000000000
+      internalID: -7871367098591718572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1095
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7032b9ee9d21550800000000000000
+      internalID: 6130201661632874441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_11
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1097
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91de26b77e51b6fa0800000000000000
+      internalID: -5806523210612413159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1099
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a7fb2666344f270800000000000000
+      internalID: 8283319721663625777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1104
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce1c8405657e2490800000000000000
+      internalID: -7769143230439088433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1100
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f764d1ae6d91ad200800000000000000
+      internalID: 205505143840261759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1101
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a4245c54c338770800000000000000
+      internalID: 8611793182822386231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_16
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1096
+        width: 85
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c447b81cfbcbdf4d0800000000000000
+      internalID: -3099113436789115828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1096
+        width: 88
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36409b939093f670800000000000000
+      internalID: 8571353479460701754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_18
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1097
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ffd335bc38c10e0800000000000000
+      internalID: -2297816800567623935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1097
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ec37596deaff00800000000000000
+      internalID: 1151493691437541082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_20
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1098
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37922a365921c160800000000000000
+      internalID: 7043956742503438143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_21
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1096
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afddc80457287f0f0800000000000000
+      internalID: -1083253745253556742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_22
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1099
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027a7fc16f6466310800000000000000
+      internalID: 1397882757207009056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1099
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28723b779d71397a0800000000000000
+      internalID: -6371722825015548030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_24
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1097
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48a6b1a929276430800000000000000
+      internalID: 3776032071356950604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_25
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1098
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1ce99f31beeea10800000000000000
+      internalID: 1940746960468099492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_26
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1096
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39bd0c4b220a74f0800000000000000
+      internalID: -830348796313618113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_27
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 979
+        width: 202
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34edff4b7ba0fbd00800000000000000
+      internalID: 990522227176758851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 977
+        width: 88
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2704095466416c0800000000000000
+      internalID: -4173598505706687756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 977
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6fb1b9d6081cf60800000000000000
+      internalID: 8052858816957249241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 981
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aabc35794f1b960800000000000000
+      internalID: 7616137375643314710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 981
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0282d680634829bd0800000000000000
+      internalID: -2624890265199106016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 981
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10e21dfc0d96d20800000000000000
+      internalID: 3272376195247636921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 985
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381ecf3a79abb750800000000000000
+      internalID: 6321832844466198580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 985
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b0821e6304c85a0800000000000000
+      internalID: -6517763956262040812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 988
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87272f6ea96655230800000000000000
+      internalID: 3626917890402447992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 977
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1213aed82d70a9190800000000000000
+      internalID: -7955037190891097823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_37
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 977
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aa14ec19efdac20800000000000000
+      internalID: 3219509210823895657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_38
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 982
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dd2fe01c5dfb9f0800000000000000
+      internalID: -450406412557558455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_39
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 978
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68fa085261db5890800000000000000
+      internalID: -7468145336749721489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_40
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 979
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cbb4feb68583930800000000000000
+      internalID: 4123142679457152027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 979
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d86677036f262e0800000000000000
+      internalID: -2133872585398121182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_42
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 979
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10b0a72ed3702320800000000000000
+      internalID: 2531150388566994971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_43
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 983
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11425cf2078b24b70800000000000000
+      internalID: 8881864207105336337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_44
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 981
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032ace23e75abeb60800000000000000
+      internalID: 7776491143024124464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_45
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 980
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291fb1f95bd15a660800000000000000
+      internalID: 7396350628921602450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_46
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 979
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11b68a8e7d4abff0800000000000000
+      internalID: -19618042484444901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_47
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 986
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070fb3097347c68c0800000000000000
+      internalID: -4004698186647342992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_48
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 986
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61ba857e862d3160800000000000000
+      internalID: 7006798988557594990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_49
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 979
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c94b9324c7d36300800000000000000
+      internalID: 244276042219080132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_50
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 983
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d879dc30fd036990800000000000000
+      internalID: -7394050837748025131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_51
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 983
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be11f1e4d1d8abf90800000000000000
+      internalID: -6937077119006600725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_52
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 987
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd16073fde7dfb420800000000000000
+      internalID: 2648072522908590556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_53
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 987
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b88d91587a337bc0800000000000000
+      internalID: -3786618573248689992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_54
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 984
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e935004392b1070800000000000000
+      internalID: 8078095659939634809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_55
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 984
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbae090603ab1990800000000000000
+      internalID: -7414153115218301999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 977
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02bad65e3764e6f0800000000000000
+      internalID: -656286128246443509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 977
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866df3547c236ee90800000000000000
+      internalID: -6996849139631794584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 978
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75653a94b8ad2730800000000000000
+      internalID: 3976019539672786302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_59
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 981
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e64301cbdfca1c10800000000000000
+      internalID: 2025159525199464162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_60
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 980
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bd1cf741b5f8760800000000000000
+      internalID: 7462283251177085806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_61
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 979
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813300a4783e689c0800000000000000
+      internalID: -3925199855005191400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_62
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 844
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c756ec6d24cec080800000000000000
+      internalID: -9165172492272773182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 844
+        width: 82
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591ccd34aa9d6590800000000000000
+      internalID: -7679311759394727592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 866
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95539b47401fb7730800000000000000
+      internalID: 3998054095661905241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 847
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a8f242e33c83400800000000000000
+      internalID: 304207646509992584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_66
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 845
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108581f8b96919370800000000000000
+      internalID: 8327602780849592321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 866
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27afc4874433cc30800000000000000
+      internalID: 4378400744509777708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_68
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 866
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80649c7b89b9ad9c0800000000000000
+      internalID: -3901635046942358008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_69
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 864
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c408f07683f60a0800000000000000
+      internalID: -6886223289933345717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_70
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 864
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00240126408117d0800000000000000
+      internalID: -2949435242260979701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_71
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 846
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec3438d07425130800000000000000
+      internalID: 3553981179311148685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_72
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 846
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82fdfe55c0343e60800000000000000
+      internalID: 7941025667221418634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_73
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 875
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1b06111a9f32e20800000000000000
+      internalID: 3324775420106158534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_74
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 872
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3f3110248de3d40800000000000000
+      internalID: 5566123967474037667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_75
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 865
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67419a4e10ff1e60800000000000000
+      internalID: 7935325081340823402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_76
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 845
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be15453750df91ed0800000000000000
+      internalID: -2442643123020213781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_77
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 844
+        width: 109
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5536991f0fd027c60800000000000000
+      internalID: 7814323631937905493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_78
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 726
+        width: 129
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1374853cc6162d0800000000000000
+      internalID: -3287226666748268072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 859
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5907d91cde96c30c0800000000000000
+      internalID: -4594681049948262251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_80
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 853
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771e4b6a52f544ab0800000000000000
+      internalID: -5024786668923330185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_81
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 855
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79ac7ddaa8cebb0800000000000000
+      internalID: -4905393414858958944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_82
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 855
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b849b18a6286ca820800000000000000
+      internalID: 2930831972749776011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_83
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 855
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922cee4123f654f70800000000000000
+      internalID: 9170858477100122665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_84
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 852
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0e353adadd85d70800000000000000
+      internalID: 9032212790530793697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_85
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 851
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6b1c73f56bc730800000000000000
+      internalID: 4020419188791929594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 850
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0378b78bc36a21590800000000000000
+      internalID: -7704913232754145488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_87
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 843
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2175b3f101c3ca20800000000000000
+      internalID: 3081518784179433773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_88
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 845
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfbb27b7145d2840800000000000000
+      internalID: 5200905605516869581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 725
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d889153621c8170800000000000000
+      internalID: 8181934840805363074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_90
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 724
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb68f5d43bc7ac00800000000000000
+      internalID: 911920877354380226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 758
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6460e67ce9b74780800000000000000
+      internalID: -8698779729984986003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_92
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 753
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49c56076b198ac00800000000000000
+      internalID: 912139137298319691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_93
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 732
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaaef2ecceb18560800000000000000
+      internalID: 7314337057017342639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_94
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 731
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b5775679c53ddd0800000000000000
+      internalID: -2462522765929391349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 754
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc67225fda5a9260800000000000000
+      internalID: 7105091277332901112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_96
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 728
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2ecf8d12f577890800000000000000
+      internalID: -7460389658736925973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_97
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 728
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d450a46bd75f0870800000000000000
+      internalID: 8651230008999695569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_98
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 761
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2275fa17a0dcd6e0800000000000000
+      internalID: -1811343533979373014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_99
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 753
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927a57c02d7776fb0800000000000000
+      internalID: -4654619945828243671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_100
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 754
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09577d5e67e8ce230800000000000000
+      internalID: 3669464437713499536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_101
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 727
+        width: 123
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b420aea5ba1b09a0800000000000000
+      internalID: -6265885088934779721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_102
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 746
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d0ca66d5ffb110800000000000000
+      internalID: 1279011120459339267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_103
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 741
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbfac7bbe63ee6d0800000000000000
+      internalID: -2959367519107089455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_104
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 738
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbac05d42d5b0d60800000000000000
+      internalID: 7857476387652545465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_105
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 749
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4d3ce6b948fe040800000000000000
+      internalID: 4679104340974359719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_106
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 747
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a079d242f3406ad20800000000000000
+      internalID: 3289321247077144330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_107
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 738
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9239a5a951df7420800000000000000
+      internalID: 2630050890369282717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_108
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 745
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359188cdfd70da8b0800000000000000
+      internalID: -5139442941700859565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_109
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 739
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e4cc3ec8253c180800000000000000
+      internalID: -9096336057287553506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_110
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 746
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e39c1b1df4a5a860800000000000000
+      internalID: 7540614558090302435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_111
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 736
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc03c216ec086ab00800000000000000
+      internalID: 839500004433080523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_112
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 740
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956120121419656b0800000000000000
+      internalID: -5307895401896864167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 734
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c45aa59622cc9a30800000000000000
+      internalID: 4223464021542196421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_114
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 723
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb7abd5424578010800000000000000
+      internalID: 1191013141630843833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_115
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 733
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c549c40e1b8cb0800000000000000
+      internalID: -4860758366910822838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_116
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 729
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef69725ff57b8170800000000000000
+      internalID: 8181762887509438438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 734
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3259f905f0cfd00800000000000000
+      internalID: 1007697255573300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_118
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 734
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc69071d4001cb10800000000000000
+      internalID: 1999880040628186298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_119
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 731
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15da92e2006f12aa0800000000000000
+      internalID: -6187393932395434671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_120
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 727
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2654e1d682721d620800000000000000
+      internalID: 2797059898156664162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 599
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc8fc39b19abd4c0800000000000000
+      internalID: -4261626686466978565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_122
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 596
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236c30e3b94ce89a0800000000000000
+      internalID: -6228825063567407566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 641
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123d7582c08db45a0800000000000000
+      internalID: -6535892887470091487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_124
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 597
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cde9abc51b754c90800000000000000
+      internalID: -7186202296858317375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_125
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 596
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5b979404707db0800000000000000
+      internalID: -4796206040077346051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_126
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 642
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fbe9fb49ab3a8c0800000000000000
+      internalID: -3989139696887349485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_127
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 639
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc6f235fb2f07450800000000000000
+      internalID: 6084630000125832439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_128
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 626
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15da8c86cf6019d0800000000000000
+      internalID: -2805619669299702499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_129
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 598
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16adcd2138990720800000000000000
+      internalID: 2812946779258856990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_130
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 596
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63d74bcb7fd8090800000000000000
+      internalID: -8030490170677709104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_131
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 636
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb40994d3ee584510800000000000000
+      internalID: 1533580005737039036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_132
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 630
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c770db125ee104410800000000000000
+      internalID: 1459200248730421116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_133
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 601
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dae28343f51c970800000000000000
+      internalID: 8773398226979958049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_134
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 603
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a50fb0c779740960800000000000000
+      internalID: 7567306829131089316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_135
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 5
+        width: 132
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b64180cabef6d70800000000000000
+      internalID: 9038702101258333035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_136
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 625
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fd93d509bab3fc0800000000000000
+      internalID: -3514026447704825959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_137
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 630
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3803d1a9b45745fd0800000000000000
+      internalID: -2354127737639325565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_138
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 613
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0dd8ef9bfb2f9a0800000000000000
+      internalID: -6200682931375189833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_139
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 608
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e9ecc1989b0240800000000000000
+      internalID: 4759065183222620808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_140
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 621
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5802ba001a49c60d0800000000000000
+      internalID: -3428201797113929595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_141
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbd5e4134bf0a610800000000000000
+      internalID: 1630579330640108473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_142
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 603
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff29fd7bdcfc58b20800000000000000
+      internalID: 3136141197993546495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_143
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 596
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c732679c6a286500800000000000000
+      internalID: 389608013652178887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_144
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 603
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ffb9f9004bf8e0800000000000000
+      internalID: -1658661626166906147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_145
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 594
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b027fb04fc6c5a0800000000000000
+      internalID: -6501281135065953449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_146
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 602
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb89627cf18e293d0800000000000000
+      internalID: -3201241161924175684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_147
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 595
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aebfe1cbcda0620800000000000000
+      internalID: 2741246023740156538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_148
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 594
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d47a4a8d8cc85a0800000000000000
+      internalID: -6517613727911031491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 477
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3ecbeb9cc02d8b0800000000000000
+      internalID: -5129022964993563739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 475
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f625e66949ca7fa0800000000000000
+      internalID: -5802103852817373455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 526
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0e0c5b948d95d90800000000000000
+      internalID: -7108412725734088505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_152
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 484
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0744bbd595ac322b0800000000000000
+      internalID: -5610418225600052112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_153
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 483
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f38a88b6ca8750800000000000000
+      internalID: 6308072723985987370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_154
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 519
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedfe8e88e74f4b60800000000000000
+      internalID: 7732478149368151532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_155
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 489
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009de43e8ea13a060800000000000000
+      internalID: 6963439036393249024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_156
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 488
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148b4e71cdef0f560800000000000000
+      internalID: 7345651213488404545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_157
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 536
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac59e0177f7362650800000000000000
+      internalID: 6207710672270038474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_158
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 528
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35861d4af58ae9e00800000000000000
+      internalID: 1053464491591821395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_159
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 504
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416632a8d6e355870800000000000000
+      internalID: 8670905297761691156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_160
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 491
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c6b213db9657ac0800000000000000
+      internalID: -3858061244478297042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_161
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 517
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df78e22215a3695c0800000000000000
+      internalID: -4209112681590913027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_162
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 500
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b896fd8697285b0800000000000000
+      internalID: -5367594314540414176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_163
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 503
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61214b3778a809f0800000000000000
+      internalID: -501966128403111573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_164
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 517
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac02d700f96236d0800000000000000
+      internalID: -3012228721113166679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_165
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 505
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db523f5b363ab4e80800000000000000
+      internalID: -8193275448420784707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_166
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 491
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0e2cce278016240800000000000000
+      internalID: 4783113568935665829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_167
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 492
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e77151494262fec0800000000000000
+      internalID: -3534654690764425245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_168
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 488
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7883071b8967130e0800000000000000
+      internalID: -2291920337170843513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_169
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 492
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d722510f85d2940800000000000000
+      internalID: 5272968526890696018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_170
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 486
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d15c76b198c51210800000000000000
+      internalID: 1303168195351040469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_171
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 496
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d7ca7b1165627e0800000000000000
+      internalID: -1790649167737225977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_172
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 493
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811a27358d422e350800000000000000
+      internalID: 6044434161416184088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_173
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 487
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f0e96d6929819e0800000000000000
+      internalID: -1650408086887854280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_174
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 493
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3351d9050b1b10b0800000000000000
+      internalID: -5756977990209547458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_175
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 488
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b042a909396d51950800000000000000
+      internalID: 6419272773161067531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9ed0d432050e8d0800000000000000
+      internalID: -2819165254187095561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_177
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 482
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361347df8f44cf230800000000000000
+      internalID: 3673887232222310755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_178
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 480
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4568d710835077930800000000000000
+      internalID: 4140784120491771476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_179
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 486
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7597ba69e6352b0800000000000000
+      internalID: -5597008318490388517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_180
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 484
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f31fb273521f010800000000000000
+      internalID: 1220797892884774703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_181
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 472
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f54ed72353de6e40800000000000000
+      internalID: 5651686936501175801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_182
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 359
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7145ba77b52abfb50800000000000000
+      internalID: 6628069790339257367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_183
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 356
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff1644d7d984a650800000000000000
+      internalID: 6243266543514689529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_184
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adce49f6daf4eae0800000000000000
+      internalID: -1520814972931748443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_185
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 356
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f7bd2311cb7f960800000000000000
+      internalID: 7635778475283677067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_186
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 353
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dd402a2a4bc49d0800000000000000
+      internalID: -2788655458653250191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_187
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 405
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d651c70f351e762e0800000000000000
+      internalID: -2132488147903441555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_188
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 356
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1fbd4f8cc5e0c0800000000000000
+      internalID: -4547003332903888080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_189
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 353
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6204049da1420c010800000000000000
+      internalID: 1207004397867909158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_190
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 409
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e66ecb13b5a2d0800000000000000
+      internalID: -3268009022579089257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_191
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 408
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ea9dbd0738d250800000000000000
+      internalID: 5969581838234740606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_192
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 407
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3438f1e74ab2e2c0800000000000000
+      internalID: -4403752667718339526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_193
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 413
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ce80e9ecbff3950800000000000000
+      internalID: 6431135657741577245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_194
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 402
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f3887701a352b0800000000000000
+      internalID: -5596952858432638602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_195
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 388
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf4601b18db2e770800000000000000
+      internalID: 8638675399968444351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_196
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 381
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a40249a9539ce40800000000000000
+      internalID: 5677127743303600695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_197
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 402
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55005f1c5f9ff1370800000000000000
+      internalID: 8295623872556105813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_198
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 394
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15eba291c6cd540800000000000000
+      internalID: 5034017338840470014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_199
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 401
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4973631eea824c440800000000000000
+      internalID: 4955130221582235540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_200
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 263
+        width: 36
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b51ce9554ed030800000000000000
+      internalID: 3521328211165557231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_201
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 354
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af4c0728f5a8b40800000000000000
+      internalID: 5443268113473010229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_202
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 376
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1991283edee5b500800000000000000
+      internalID: 411497579166144794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_203
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 385
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec9b098119e58f10800000000000000
+      internalID: 2271477848601238761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_204
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 364
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdb607b300d0ae60800000000000000
+      internalID: 7971600054819929535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_205
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 369
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a3f55baccea780800000000000000
+      internalID: -8669767196388121199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_206
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 375
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977e1453df24fa6f0800000000000000
+      internalID: -671244164167243911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_207
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 369
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b1df22718e2090800000000000000
+      internalID: -8057360355890711652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_208
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86643140ae77bce40800000000000000
+      internalID: 5677763602205066856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_209
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 361
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1ec713426fe5900800000000000000
+      internalID: 675247629461676518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_210
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 352
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84284e651f05d08d0800000000000000
+      internalID: -2878555589344722360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_211
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669babbac5071670800000000000000
+      internalID: 8509276389229958765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_212
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 350
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e5cd8cbccf192f0800000000000000
+      internalID: -967714492729500078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_213
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 349
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecd2950104331950800000000000000
+      internalID: 6418531072926211311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_214
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 241
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d51dcccfcb077c0800000000000000
+      internalID: -4075549868816245431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_215
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 239
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfc67684e60407f0800000000000000
+      internalID: -647384867856265270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_216
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 301
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c568dbe22b78d4170800000000000000
+      internalID: 8164330898850678364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_217
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 245
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a530233ea7e16f0800000000000000
+      internalID: -711996574862714252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_218
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 242
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1fad224e7307ba0800000000000000
+      internalID: -6093308842855435800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_219
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 287
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331331fa259adf610800000000000000
+      internalID: 1656666410531893555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_220
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 242
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec36d03ae8ece1b0800000000000000
+      internalID: -5625865741953254167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_221
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 238
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a6d43fd8e1479f0800000000000000
+      internalID: -471718465945900412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_222
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 309
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564a3049bc66cf0d0800000000000000
+      internalID: -3387719795141794715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_223
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 295
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5cd78e28d72250800000000000000
+      internalID: 5919937929561267296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_224
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 309
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a601eab03770d22e0800000000000000
+      internalID: -2149053256487268246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_225
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 286
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e6ecd19c01fdd60800000000000000
+      internalID: 7917065125915160194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_226
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 281
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df0ce4d38b061290800000000000000
+      internalID: -7920130233843576879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_227
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 294
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7489caf0aebdd0800000000000000
+      internalID: -2468358546769281611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_228
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 277
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08d557fee545b1e0800000000000000
+      internalID: -2182761551737006068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_229
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 268
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb6c91af9a6625b0800000000000000
+      internalID: -5393506269885862986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_230
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 279
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7594227aa5b4090800000000000000
+      internalID: -8049240235113359376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_231
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 262
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4122e6d9628e250800000000000000
+      internalID: 5974067363306411203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_232
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 264
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5c5cbcc5a28d300800000000000000
+      internalID: 277017955127379443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_233
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 253
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f998d3828dda1b0800000000000000
+      internalID: -5643617090682642610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_234
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 263
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e5cbe38fba80a80800000000000000
+      internalID: -8500355213969039731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_235
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 268
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e360b49e65e00ad60800000000000000
+      internalID: 7899329512851834430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_236
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 250
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646b85a3eea02b040800000000000000
+      internalID: 4661800582579271238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_237
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 253
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76111b470f3722520800000000000000
+      internalID: 2675828605198602599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_238
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 250
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf9226410f5948b0800000000000000
+      internalID: -5167494638354653266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_239
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 256
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f572234f3b0cbe0800000000000000
+      internalID: -1458968417873207480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_240
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 249
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9399876d1a12cad90800000000000000
+      internalID: -7085251134788953799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_241
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a510c6d6e62e49790800000000000000
+      internalID: -7524140113519181478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_242
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 234
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f60ddfdbacc2cc30800000000000000
+      internalID: 4378286826324821746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_243
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 238
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e991b1da1ad97cf0800000000000000
+      internalID: -253932095247640091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_244
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 242
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e240d272535a2230800000000000000
+      internalID: 3614793264496919268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_245
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 240
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f12aa8b31896290800000000000000
+      internalID: -7896638378888519880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_246
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 236
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae0ec6a0f7ad360800000000000000
+      internalID: 7195203037430868687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_247
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 244
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04607e1d78cf4cc40800000000000000
+      internalID: 5531823902590174784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_248
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 235
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86d2b715b6291030800000000000000
+      internalID: 3465843947466839691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_249
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f522a5292b679d060800000000000000
+      internalID: 6978739606918931039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_250
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 121
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aafa790ec735fc60800000000000000
+      internalID: 7851242883452172967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_251
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 118
+        width: 20
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbe103feb7fdfdc0800000000000000
+      internalID: -3603451727333692421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_252
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 185
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818f56b4078fcebf0800000000000000
+      internalID: -293586714500925416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_253
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 195
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f51c8a21afceab0800000000000000
+      internalID: -4977328530103640209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_254
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 120
+        width: 17
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd7c56a5c87dd020800000000000000
+      internalID: 2368181769361718778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_255
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 116
+        width: 17
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ac88383226e020800000000000000
+      internalID: 2370619878719399633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_256
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 158
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f1d6dc715220ea0800000000000000
+      internalID: -5908118976995713235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_257
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 121
+        width: 16
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed272d2046975170800000000000000
+      internalID: 8167161651639299552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_258
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 119
+        width: 16
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a383f346c53db4ba0800000000000000
+      internalID: -6103552476198258630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_259
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 182
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac3801f9c35bcf00800000000000000
+      internalID: 1138095457638562988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_260
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 172
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9fb486f3c1f9220800000000000000
+      internalID: 2494743777244871079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_261
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 60
+        width: 16
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709bed0ec421ce30800000000000000
+      internalID: 4521935968272093296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_262
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 155
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2430547d97a46090800000000000000
+      internalID: -8042118739873745878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_263
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 150
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45545a73b3b20a3d0800000000000000
+      internalID: -3197508202096409260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_264
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2575ac9afcd7db4a0800000000000000
+      internalID: -6575961550030743726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_265
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 159
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe3116effc08acf0800000000000000
+      internalID: -240928286848237832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_266
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 129
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc937bddb32a9300800000000000000
+      internalID: 259559226864803038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_267
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 145
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661a351c4c3d12d00800000000000000
+      internalID: 946270238735049062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_268
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 142
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c07cf52e397080800000000000000
+      internalID: -9189245231802825442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_269
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 133
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e14a6df72b6b740800000000000000
+      internalID: 5167513884585893529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_270
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dfd4ce0089de850800000000000000
+      internalID: 6407944974550039816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_271
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 138
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c64f2a52c4e2f60800000000000000
+      internalID: 8011424511670119534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_272
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eca1d8c13aebac0800000000000000
+      internalID: -3837450489451327952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_273
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 140
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2e9ec09b9ec26b0800000000000000
+      internalID: -5319620078836522306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_274
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 144
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff95c8e5ec97ea0800000000000000
+      internalID: -5874437333451145286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_275
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c548525eca740c10800000000000000
+      internalID: 2018873559532193218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_276
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 119
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bf08eb34de3c600800000000000000
+      internalID: 487494059900861339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_277
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 117
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e84869c3dacfa70800000000000000
+      internalID: 8862148642493206077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_278
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2493720b22b880800000000000000
+      internalID: -8596761449167836289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_279
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 128
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37704ab5d3bf68500800000000000000
+      internalID: 398281858017920883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_280
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 116
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44183a48e8e2a1bf0800000000000000
+      internalID: -352918431149620924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_281
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 114
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06dd3dac47f32970800000000000000
+      internalID: 8729092411470239245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_282
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 115
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a95157d798db40800000000000000
+      internalID: 5465285098852689643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_283
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 13
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07a26e53ad777b0800000000000000
+      internalID: -5226468917510508371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_284
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 14
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7620f80415daed2c0800000000000000
+      internalID: -4404892821034696089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_285
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 79
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f537044330e8fd0800000000000000
+      internalID: -2337927633604223193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_286
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 16
+        width: 19
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb4f38d5e87bf40800000000000000
+      internalID: 5744216382031313823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_287
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 10
+        width: 18
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de55e7f2959bb370800000000000000
+      internalID: 8339423593463373520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_288
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d718535c8f00060800000000000000
+      internalID: 6917802553531006264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_289
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d155742c05bd5e0800000000000000
+      internalID: -1883823223773782711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_290
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 12
+        width: 13
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9092f3a3b593fea30800000000000000
+      internalID: 4246676037615692041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_291
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 9
+        width: 13
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33094d94dfd9fd60800000000000000
+      internalID: 7924611123599967036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_292
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 77
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95521056efaef6210800000000000000
+      internalID: 1328538793434752345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_293
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 67
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2171cfc1412f83f0800000000000000
+      internalID: -896461234281287380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_294
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 46
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d86ad0d71da163c0800000000000000
+      internalID: -4368019845772842791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_295
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 65
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea404f67a54d3350800000000000000
+      internalID: 5998026864155708132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_296
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 63
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05761778109a8a50800000000000000
+      internalID: 6524185444951160075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_297
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 63
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb085b832ba4880800000000000000
+      internalID: -8625886179641737218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_298
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 50
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a34b350487eb3d0800000000000000
+      internalID: -3188979268454172010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_299
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 53
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aad086686295dcf0800000000000000
+      internalID: -228115229018367328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_300
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 47
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5d8f87b883d6c0800000000000000
+      internalID: -4119798912145072207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_301
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 6
+        width: 9
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e91a74b3e292e90800000000000000
+      internalID: -7050052909532078559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_302
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 5
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e271b4d8d01792290800000000000000
+      internalID: -7914670567107913938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_303
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 34
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9353ee026e8938c0800000000000000
+      internalID: -4019024640643738721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_304
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 34
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a514bccc65ae17e20800000000000000
+      internalID: 3346713656636948826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_305
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 35
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef432907d5ac0240800000000000000
+      internalID: 4759361249213632487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_306
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479cba6e9427646b0800000000000000
+      internalID: -5312433048708724364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_307
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 8
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf915e38f3610de40800000000000000
+      internalID: 5679063592165775867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_308
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 9
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b09be6b0852ce00800000000000000
+      internalID: 1063509268138363696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line70-gold_309
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 8
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a58a0fb4ae49af0800000000000000
+      internalID: -390429655793378673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

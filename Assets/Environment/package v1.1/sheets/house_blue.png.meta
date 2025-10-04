@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: b6559f225d6b4ab41bdb9ffc4380b98b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8114901391020720689
+    second: house_blue_0
+  - first:
+      213: 6476446944294510613
+    second: house_blue_1
+  - first:
+      213: -6496768659473510836
+    second: house_blue_2
+  - first:
+      213: 2299375065355677316
+    second: house_blue_3
+  - first:
+      213: -3515672885270303900
+    second: house_blue_4
+  - first:
+      213: -2337994689442859575
+    second: house_blue_5
+  - first:
+      213: 8390672073739374712
+    second: house_blue_6
+  - first:
+      213: -8149788359893317800
+    second: house_blue_7
+  - first:
+      213: -318983028331350382
+    second: house_blue_8
+  - first:
+      213: 7294585456892758013
+    second: house_blue_9
+  - first:
+      213: 1380958472402977971
+    second: house_blue_10
+  - first:
+      213: 4350824408787143734
+    second: house_blue_11
+  - first:
+      213: -7357699942032059534
+    second: house_blue_12
+  - first:
+      213: 2062280419765119760
+    second: house_blue_13
+  - first:
+      213: -6112961368389490619
+    second: house_blue_14
+  - first:
+      213: 6130502360654679449
+    second: house_blue_15
+  - first:
+      213: 4408872671155629864
+    second: house_blue_16
+  - first:
+      213: 6345787909848808135
+    second: house_blue_17
+  - first:
+      213: -5996675760862266977
+    second: house_blue_18
+  - first:
+      213: 5137258899639223998
+    second: house_blue_19
+  - first:
+      213: 270558120212137952
+    second: house_blue_20
+  - first:
+      213: -4577526562209301337
+    second: house_blue_21
+  - first:
+      213: -7796722267402650599
+    second: house_blue_22
+  - first:
+      213: -8752492586512287353
+    second: house_blue_23
+  - first:
+      213: -5987553849005802792
+    second: house_blue_24
+  - first:
+      213: 1578541359473915336
+    second: house_blue_25
+  - first:
+      213: 8467466165399861727
+    second: house_blue_26
+  - first:
+      213: 6183416907203832123
+    second: house_blue_27
+  - first:
+      213: 9033657620394695207
+    second: house_blue_28
+  - first:
+      213: -4939003737502327622
+    second: house_blue_29
+  - first:
+      213: -4405214948786474012
+    second: house_blue_30
+  - first:
+      213: 4345940307430229242
+    second: house_blue_31
+  - first:
+      213: -5976540385991089167
+    second: house_blue_32
+  - first:
+      213: -8021712642869795541
+    second: house_blue_33
+  - first:
+      213: -8482448145816364002
+    second: house_blue_34
+  - first:
+      213: 3076701018551235985
+    second: house_blue_35
+  - first:
+      213: -7110336407211819267
+    second: house_blue_36
+  - first:
+      213: 2996436636737671622
+    second: house_blue_37
+  - first:
+      213: -5951866892976899593
+    second: house_blue_38
+  - first:
+      213: -7404859312443868896
+    second: house_blue_39
+  - first:
+      213: 6662794089820472008
+    second: house_blue_40
+  - first:
+      213: -6800587293659039374
+    second: house_blue_41
+  - first:
+      213: 3400726682172678800
+    second: house_blue_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_blue_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1119
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1320d1f02dbed9070800000000000000
+      internalID: 8114901391020720689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1119
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510a651ae26f0e950800000000000000
+      internalID: 6476446944294510613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1119
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ec0385357d6d5a0800000000000000
+      internalID: -6496768659473510836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1119
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e6ae7707509ef10800000000000000
+      internalID: 2299375065355677316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1119
+        width: 121
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46badfe3322d53fc0800000000000000
+      internalID: -3515672885270303900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1119
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c532099736cd8fd0800000000000000
+      internalID: -2337994689442859575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 895
+        width: 135
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870960e9bc7a17470800000000000000
+      internalID: 8390672073739374712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 895
+        width: 135
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85702f58aa226ee80800000000000000
+      internalID: -8149788359893317800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 895
+        width: 135
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2967ee230aeb29bf0800000000000000
+      internalID: -318983028331350382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_9
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 895
+        width: 135
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7c2dd13d29b3560800000000000000
+      internalID: 7294585456892758013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_10
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 895
+        width: 135
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4452df9662a2310800000000000000
+      internalID: 1380958472402977971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 671
+        width: 147
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c4bd58fbb316c30800000000000000
+      internalID: 4350824408787143734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 671
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273544fa2e234e990800000000000000
+      internalID: -7357699942032059534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 671
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01be7578d11be9c10800000000000000
+      internalID: 2062280419765119760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 671
+        width: 147
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5486577f5066a2ba0800000000000000
+      internalID: -6112961368389490619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 671
+        width: 148
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d048d8a6be31550800000000000000
+      internalID: 6130502360654679449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_16
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 671
+        width: 147
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fa820d5567f2d30800000000000000
+      internalID: 4408872671155629864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 671
+        width: 147
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cab18a8b74c01850800000000000000
+      internalID: 6345787909848808135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 162
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99fb90da2787cca0800000000000000
+      internalID: -5996675760862266977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 447
+        width: 158
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6c53830c53b4740800000000000000
+      internalID: 5137258899639223998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 447
+        width: 158
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e787564d2731c300800000000000000
+      internalID: 270558120212137952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_21
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 447
+        width: 162
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac799d28db5970c0800000000000000
+      internalID: -4577526562209301337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_22
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 447
+        width: 162
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3617186a7cc390800000000000000
+      internalID: -7796722267402650599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_23
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 447
+        width: 162
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789f1b18d56e88680800000000000000
+      internalID: -8752492586512287353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_24
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 447
+        width: 158
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da7c7c6f7fe7eca0800000000000000
+      internalID: -5987553849005802792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_25
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 447
+        width: 158
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c574b2c00b18e510800000000000000
+      internalID: 1578541359473915336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 190
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd93c486d9b728570800000000000000
+      internalID: 8467466165399861727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 223
+        width: 190
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39670c7ae8efc550800000000000000
+      internalID: 6183416907203832123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_28
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 223
+        width: 185
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a502e4ebffd5d70800000000000000
+      internalID: 9033657620394695207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_29
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 223
+        width: 185
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcd8d9c442257bb0800000000000000
+      internalID: -4939003737502327622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_30
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 223
+        width: 190
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3775a08588dd2c0800000000000000
+      internalID: -4405214948786474012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_31
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 223
+        width: 185
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af44e6f0fa1ef4c30800000000000000
+      internalID: 4345940307430229242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_32
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 223
+        width: 185
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3a93b1f201f0da0800000000000000
+      internalID: -5976540385991089167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_33
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 223
+        width: 190
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b256c772ad62da090800000000000000
+      internalID: -8021712642869795541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 198
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cd1f27a5a484a80800000000000000
+      internalID: -8482448145816364002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 198
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19534da7643a2ba20800000000000000
+      internalID: 3076701018551235985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_36
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 198
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfebc96b5b2035d90800000000000000
+      internalID: -7110336407211819267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 210
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c117bcce3b759920800000000000000
+      internalID: 2996436636737671622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_38
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 210
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f934bd5898b66da0800000000000000
+      internalID: -5951866892976899593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_39
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 0
+        width: 198
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0293a0e10b7ac3990800000000000000
+      internalID: -7404859312443868896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_40
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 210
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c242577ceff67c50800000000000000
+      internalID: 6662794089820472008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_41
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 0
+        width: 198
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279fa6133e57f91a0800000000000000
+      internalID: -6800587293659039374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_blue_42
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 198
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092681d46eec13f20800000000000000
+      internalID: 3400726682172678800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7667 @@
+fileFormatVersion: 2
+guid: 829230c73d1bf444ab3cb52bea0f7eee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6463544689048467071
+    second: all-aqua-blue_0
+  - first:
+      213: 7141972865586731312
+    second: all-aqua-blue_1
+  - first:
+      213: -5643272928124273858
+    second: all-aqua-blue_2
+  - first:
+      213: 160066492560584298
+    second: all-aqua-blue_3
+  - first:
+      213: -8712273829436867765
+    second: all-aqua-blue_4
+  - first:
+      213: 3808832284294704269
+    second: all-aqua-blue_5
+  - first:
+      213: 603420621253787732
+    second: all-aqua-blue_6
+  - first:
+      213: -2235409149480714180
+    second: all-aqua-blue_7
+  - first:
+      213: 7018053091562887396
+    second: all-aqua-blue_8
+  - first:
+      213: -5626476894729083477
+    second: all-aqua-blue_9
+  - first:
+      213: 5194902221893401703
+    second: all-aqua-blue_10
+  - first:
+      213: 5478441241645141441
+    second: all-aqua-blue_11
+  - first:
+      213: -2567886941399374344
+    second: all-aqua-blue_12
+  - first:
+      213: 5088727317794884011
+    second: all-aqua-blue_13
+  - first:
+      213: 4452661820315650055
+    second: all-aqua-blue_14
+  - first:
+      213: -3421326566621484576
+    second: all-aqua-blue_15
+  - first:
+      213: 3218280071406803632
+    second: all-aqua-blue_16
+  - first:
+      213: 600278274631719402
+    second: all-aqua-blue_17
+  - first:
+      213: -4515593691231292533
+    second: all-aqua-blue_18
+  - first:
+      213: 6046534408391201301
+    second: all-aqua-blue_19
+  - first:
+      213: -834009347914805193
+    second: all-aqua-blue_20
+  - first:
+      213: 845984639166533249
+    second: all-aqua-blue_21
+  - first:
+      213: -1585183321126093566
+    second: all-aqua-blue_22
+  - first:
+      213: -4498483613756257809
+    second: all-aqua-blue_23
+  - first:
+      213: -6079074714277450973
+    second: all-aqua-blue_24
+  - first:
+      213: 9209752094134986809
+    second: all-aqua-blue_25
+  - first:
+      213: -3983591620839984569
+    second: all-aqua-blue_26
+  - first:
+      213: 1335002577710628945
+    second: all-aqua-blue_27
+  - first:
+      213: -4680423545202052555
+    second: all-aqua-blue_28
+  - first:
+      213: 366696529126497495
+    second: all-aqua-blue_29
+  - first:
+      213: -4134309845390136578
+    second: all-aqua-blue_30
+  - first:
+      213: 5831264044220659516
+    second: all-aqua-blue_31
+  - first:
+      213: -5396412045638876824
+    second: all-aqua-blue_32
+  - first:
+      213: -6452208846579033975
+    second: all-aqua-blue_33
+  - first:
+      213: -6980150026505290841
+    second: all-aqua-blue_34
+  - first:
+      213: 3731660164113283179
+    second: all-aqua-blue_35
+  - first:
+      213: -2047968968983977453
+    second: all-aqua-blue_36
+  - first:
+      213: 3360781584812391015
+    second: all-aqua-blue_37
+  - first:
+      213: 233992588692300769
+    second: all-aqua-blue_38
+  - first:
+      213: -201864281727902575
+    second: all-aqua-blue_39
+  - first:
+      213: -5239877420151995085
+    second: all-aqua-blue_40
+  - first:
+      213: 4303292890201030097
+    second: all-aqua-blue_41
+  - first:
+      213: 8523945336367674523
+    second: all-aqua-blue_42
+  - first:
+      213: -7152415956521887949
+    second: all-aqua-blue_43
+  - first:
+      213: 8809146569714537907
+    second: all-aqua-blue_44
+  - first:
+      213: 6297766180813897385
+    second: all-aqua-blue_45
+  - first:
+      213: 5186973814954493578
+    second: all-aqua-blue_46
+  - first:
+      213: -8925554058488170930
+    second: all-aqua-blue_47
+  - first:
+      213: 5081441458544188599
+    second: all-aqua-blue_48
+  - first:
+      213: -3860718414299982045
+    second: all-aqua-blue_49
+  - first:
+      213: 3360323771509827150
+    second: all-aqua-blue_50
+  - first:
+      213: -7500881125323466945
+    second: all-aqua-blue_51
+  - first:
+      213: 850859615366879323
+    second: all-aqua-blue_52
+  - first:
+      213: 7949205298572413056
+    second: all-aqua-blue_53
+  - first:
+      213: -3914142918357939765
+    second: all-aqua-blue_54
+  - first:
+      213: -7719975500629787768
+    second: all-aqua-blue_55
+  - first:
+      213: 198085329248844863
+    second: all-aqua-blue_56
+  - first:
+      213: 839125841009186545
+    second: all-aqua-blue_57
+  - first:
+      213: -3447592982050835686
+    second: all-aqua-blue_58
+  - first:
+      213: -1848465756047101195
+    second: all-aqua-blue_59
+  - first:
+      213: 8635057111500916586
+    second: all-aqua-blue_60
+  - first:
+      213: -225102388513416524
+    second: all-aqua-blue_61
+  - first:
+      213: 6314689288223332567
+    second: all-aqua-blue_62
+  - first:
+      213: 7278607218999143291
+    second: all-aqua-blue_63
+  - first:
+      213: 1665513013850256374
+    second: all-aqua-blue_64
+  - first:
+      213: -4917184130036981590
+    second: all-aqua-blue_65
+  - first:
+      213: 7615670065285706017
+    second: all-aqua-blue_66
+  - first:
+      213: 2122468177191344316
+    second: all-aqua-blue_67
+  - first:
+      213: 6895998059179067980
+    second: all-aqua-blue_68
+  - first:
+      213: 3711946290238919576
+    second: all-aqua-blue_69
+  - first:
+      213: -2089039152922755249
+    second: all-aqua-blue_70
+  - first:
+      213: 5383183190338303960
+    second: all-aqua-blue_71
+  - first:
+      213: -2506113601435851472
+    second: all-aqua-blue_72
+  - first:
+      213: -4836279919453585269
+    second: all-aqua-blue_73
+  - first:
+      213: -8027793627077644693
+    second: all-aqua-blue_74
+  - first:
+      213: 6207600952551069340
+    second: all-aqua-blue_75
+  - first:
+      213: 3073169983248933581
+    second: all-aqua-blue_76
+  - first:
+      213: -4997634703966850839
+    second: all-aqua-blue_77
+  - first:
+      213: 6966970538938161943
+    second: all-aqua-blue_78
+  - first:
+      213: 1169091637407385706
+    second: all-aqua-blue_79
+  - first:
+      213: -5030481458041321096
+    second: all-aqua-blue_80
+  - first:
+      213: -4506693923976380932
+    second: all-aqua-blue_81
+  - first:
+      213: -4476994619887584634
+    second: all-aqua-blue_82
+  - first:
+      213: -7819682517345633952
+    second: all-aqua-blue_83
+  - first:
+      213: 3820589906023571813
+    second: all-aqua-blue_84
+  - first:
+      213: -1306510817127315665
+    second: all-aqua-blue_85
+  - first:
+      213: 1332699266340115349
+    second: all-aqua-blue_86
+  - first:
+      213: 1074914829799134931
+    second: all-aqua-blue_87
+  - first:
+      213: 2303685147225001714
+    second: all-aqua-blue_88
+  - first:
+      213: 3246689783473036904
+    second: all-aqua-blue_89
+  - first:
+      213: 7823504697822246536
+    second: all-aqua-blue_90
+  - first:
+      213: 1465109023752666643
+    second: all-aqua-blue_91
+  - first:
+      213: -6554868051154027302
+    second: all-aqua-blue_92
+  - first:
+      213: 2026510267603680682
+    second: all-aqua-blue_93
+  - first:
+      213: 2969447400734777737
+    second: all-aqua-blue_94
+  - first:
+      213: -5380957538122150681
+    second: all-aqua-blue_95
+  - first:
+      213: 1948937425674673340
+    second: all-aqua-blue_96
+  - first:
+      213: -6147151177152300838
+    second: all-aqua-blue_97
+  - first:
+      213: 107785070057376845
+    second: all-aqua-blue_98
+  - first:
+      213: 5310305244381740329
+    second: all-aqua-blue_99
+  - first:
+      213: -3125929485336403638
+    second: all-aqua-blue_100
+  - first:
+      213: -5648585525179001339
+    second: all-aqua-blue_101
+  - first:
+      213: -285571436930576127
+    second: all-aqua-blue_102
+  - first:
+      213: -6323196028499769638
+    second: all-aqua-blue_103
+  - first:
+      213: 7628293297592426090
+    second: all-aqua-blue_104
+  - first:
+      213: 7743778435606601047
+    second: all-aqua-blue_105
+  - first:
+      213: 8334223998535569415
+    second: all-aqua-blue_106
+  - first:
+      213: -8924523266184681352
+    second: all-aqua-blue_107
+  - first:
+      213: -1257841853349172190
+    second: all-aqua-blue_108
+  - first:
+      213: -821087476533053636
+    second: all-aqua-blue_109
+  - first:
+      213: -277050033024221642
+    second: all-aqua-blue_110
+  - first:
+      213: -6031436730786277123
+    second: all-aqua-blue_111
+  - first:
+      213: 7270265618005567495
+    second: all-aqua-blue_112
+  - first:
+      213: -3807221183408390616
+    second: all-aqua-blue_113
+  - first:
+      213: 8740376944285110348
+    second: all-aqua-blue_114
+  - first:
+      213: -1528731181397738499
+    second: all-aqua-blue_115
+  - first:
+      213: -4394333555959108998
+    second: all-aqua-blue_116
+  - first:
+      213: 4609251108265434548
+    second: all-aqua-blue_117
+  - first:
+      213: -1072957128981837255
+    second: all-aqua-blue_118
+  - first:
+      213: -1821363868603204084
+    second: all-aqua-blue_119
+  - first:
+      213: -6050884046354587884
+    second: all-aqua-blue_120
+  - first:
+      213: 550481890973371006
+    second: all-aqua-blue_121
+  - first:
+      213: 4534361463239336857
+    second: all-aqua-blue_122
+  - first:
+      213: 1907054812766454563
+    second: all-aqua-blue_123
+  - first:
+      213: -1450079987793052235
+    second: all-aqua-blue_124
+  - first:
+      213: 767641837292577370
+    second: all-aqua-blue_125
+  - first:
+      213: 2406744823366960821
+    second: all-aqua-blue_126
+  - first:
+      213: -1915933276484557558
+    second: all-aqua-blue_127
+  - first:
+      213: 5175958362317901057
+    second: all-aqua-blue_128
+  - first:
+      213: 8367663887910489427
+    second: all-aqua-blue_129
+  - first:
+      213: 6989514950735842765
+    second: all-aqua-blue_130
+  - first:
+      213: 5162348761483594420
+    second: all-aqua-blue_131
+  - first:
+      213: 4348351786786739034
+    second: all-aqua-blue_132
+  - first:
+      213: -5742433756237484656
+    second: all-aqua-blue_133
+  - first:
+      213: 4216603840208794057
+    second: all-aqua-blue_134
+  - first:
+      213: -2182513248358150528
+    second: all-aqua-blue_135
+  - first:
+      213: 274432240492403543
+    second: all-aqua-blue_136
+  - first:
+      213: -8455023772700984893
+    second: all-aqua-blue_137
+  - first:
+      213: -2771354156172688277
+    second: all-aqua-blue_138
+  - first:
+      213: -5666300168055927647
+    second: all-aqua-blue_139
+  - first:
+      213: 1881543163509142252
+    second: all-aqua-blue_140
+  - first:
+      213: -899694000271784613
+    second: all-aqua-blue_141
+  - first:
+      213: 3140823234751177955
+    second: all-aqua-blue_142
+  - first:
+      213: 6654067309304236823
+    second: all-aqua-blue_143
+  - first:
+      213: 4893221668503937027
+    second: all-aqua-blue_144
+  - first:
+      213: -4739822033690640803
+    second: all-aqua-blue_145
+  - first:
+      213: 7886755557634354386
+    second: all-aqua-blue_146
+  - first:
+      213: -8769215939928168787
+    second: all-aqua-blue_147
+  - first:
+      213: -1255129236294061888
+    second: all-aqua-blue_148
+  - first:
+      213: 4788361131792419191
+    second: all-aqua-blue_149
+  - first:
+      213: -792049118362480639
+    second: all-aqua-blue_150
+  - first:
+      213: 9149909657625206600
+    second: all-aqua-blue_151
+  - first:
+      213: -6904312360557856015
+    second: all-aqua-blue_152
+  - first:
+      213: 7507815099079938613
+    second: all-aqua-blue_153
+  - first:
+      213: 2161686507288662569
+    second: all-aqua-blue_154
+  - first:
+      213: -3255545898898872060
+    second: all-aqua-blue_155
+  - first:
+      213: 3756502025843909528
+    second: all-aqua-blue_156
+  - first:
+      213: 3928263446893911367
+    second: all-aqua-blue_157
+  - first:
+      213: -7711390043958386249
+    second: all-aqua-blue_158
+  - first:
+      213: -8029271574208504694
+    second: all-aqua-blue_159
+  - first:
+      213: 8295112416435421585
+    second: all-aqua-blue_160
+  - first:
+      213: -5746203511837197330
+    second: all-aqua-blue_161
+  - first:
+      213: 3458371642247603724
+    second: all-aqua-blue_162
+  - first:
+      213: 5350059051826609841
+    second: all-aqua-blue_163
+  - first:
+      213: 4016105905110100377
+    second: all-aqua-blue_164
+  - first:
+      213: 6357715737096291826
+    second: all-aqua-blue_165
+  - first:
+      213: 4297834543830539361
+    second: all-aqua-blue_166
+  - first:
+      213: 8856120783187191038
+    second: all-aqua-blue_167
+  - first:
+      213: -364049189552347348
+    second: all-aqua-blue_168
+  - first:
+      213: 2592600219279635338
+    second: all-aqua-blue_169
+  - first:
+      213: -2328279992490259452
+    second: all-aqua-blue_170
+  - first:
+      213: 2604642297533822868
+    second: all-aqua-blue_171
+  - first:
+      213: 72186439529404825
+    second: all-aqua-blue_172
+  - first:
+      213: -4124936739947633192
+    second: all-aqua-blue_173
+  - first:
+      213: 7056982857942270026
+    second: all-aqua-blue_174
+  - first:
+      213: -2736874018847066162
+    second: all-aqua-blue_175
+  - first:
+      213: -8665829510131061694
+    second: all-aqua-blue_176
+  - first:
+      213: -6464792019716693950
+    second: all-aqua-blue_177
+  - first:
+      213: 2034614357807970776
+    second: all-aqua-blue_178
+  - first:
+      213: 6138380335917076108
+    second: all-aqua-blue_179
+  - first:
+      213: 8834675962892975280
+    second: all-aqua-blue_180
+  - first:
+      213: -1158068165654498638
+    second: all-aqua-blue_181
+  - first:
+      213: 7164220130199664901
+    second: all-aqua-blue_182
+  - first:
+      213: -8084117366450029275
+    second: all-aqua-blue_183
+  - first:
+      213: -3213816514802021668
+    second: all-aqua-blue_184
+  - first:
+      213: -1321582567751349297
+    second: all-aqua-blue_185
+  - first:
+      213: 8758389100496649915
+    second: all-aqua-blue_186
+  - first:
+      213: 2062717215684772475
+    second: all-aqua-blue_187
+  - first:
+      213: 3008230722308168898
+    second: all-aqua-blue_188
+  - first:
+      213: -5302955859676678845
+    second: all-aqua-blue_189
+  - first:
+      213: -6198512950209814254
+    second: all-aqua-blue_190
+  - first:
+      213: 2930581917974664392
+    second: all-aqua-blue_191
+  - first:
+      213: -6058843497849851540
+    second: all-aqua-blue_192
+  - first:
+      213: 1975148755859604467
+    second: all-aqua-blue_193
+  - first:
+      213: 5408062422762686526
+    second: all-aqua-blue_194
+  - first:
+      213: 2726613732581203471
+    second: all-aqua-blue_195
+  - first:
+      213: -8782878788029975051
+    second: all-aqua-blue_196
+  - first:
+      213: 3686551339172434163
+    second: all-aqua-blue_197
+  - first:
+      213: 3753792734599622605
+    second: all-aqua-blue_198
+  - first:
+      213: 308147662368557161
+    second: all-aqua-blue_199
+  - first:
+      213: -5165471372915606530
+    second: all-aqua-blue_200
+  - first:
+      213: 5842814501825386065
+    second: all-aqua-blue_201
+  - first:
+      213: -3933922306516301738
+    second: all-aqua-blue_202
+  - first:
+      213: 3347280017687000540
+    second: all-aqua-blue_203
+  - first:
+      213: 8035292736607051335
+    second: all-aqua-blue_204
+  - first:
+      213: 1077531201409705255
+    second: all-aqua-blue_205
+  - first:
+      213: 5648424100939855088
+    second: all-aqua-blue_206
+  - first:
+      213: -2403187487086856052
+    second: all-aqua-blue_207
+  - first:
+      213: 2197877292841173707
+    second: all-aqua-blue_208
+  - first:
+      213: -333238391956618375
+    second: all-aqua-blue_209
+  - first:
+      213: -8616640248728156585
+    second: all-aqua-blue_210
+  - first:
+      213: -6261461399799098320
+    second: all-aqua-blue_211
+  - first:
+      213: 5832535324537606583
+    second: all-aqua-blue_212
+  - first:
+      213: 9099881337626882119
+    second: all-aqua-blue_213
+  - first:
+      213: -5654866530472193632
+    second: all-aqua-blue_214
+  - first:
+      213: -5427570994571691406
+    second: all-aqua-blue_215
+  - first:
+      213: 8719685756300487322
+    second: all-aqua-blue_216
+  - first:
+      213: 4436959962385685916
+    second: all-aqua-blue_217
+  - first:
+      213: 7185076227582059477
+    second: all-aqua-blue_218
+  - first:
+      213: 6689977047037802250
+    second: all-aqua-blue_219
+  - first:
+      213: 7926130132319292449
+    second: all-aqua-blue_220
+  - first:
+      213: 9165522706314168403
+    second: all-aqua-blue_221
+  - first:
+      213: 4839378231234664981
+    second: all-aqua-blue_222
+  - first:
+      213: -6425950940843382482
+    second: all-aqua-blue_223
+  - first:
+      213: -8178287134361885034
+    second: all-aqua-blue_224
+  - first:
+      213: -6075171089697732382
+    second: all-aqua-blue_225
+  - first:
+      213: -3540488168196534786
+    second: all-aqua-blue_226
+  - first:
+      213: 8709517277113666072
+    second: all-aqua-blue_227
+  - first:
+      213: 4515931376390381299
+    second: all-aqua-blue_228
+  - first:
+      213: -5625250866046526976
+    second: all-aqua-blue_229
+  - first:
+      213: 1464019810120392661
+    second: all-aqua-blue_230
+  - first:
+      213: -5771019718181947509
+    second: all-aqua-blue_231
+  - first:
+      213: 5096596795148271234
+    second: all-aqua-blue_232
+  - first:
+      213: -8500008098810440402
+    second: all-aqua-blue_233
+  - first:
+      213: 5029761373667596283
+    second: all-aqua-blue_234
+  - first:
+      213: 3159227506017207064
+    second: all-aqua-blue_235
+  - first:
+      213: 7676146925846277716
+    second: all-aqua-blue_236
+  - first:
+      213: -6118496737376042222
+    second: all-aqua-blue_237
+  - first:
+      213: 8206261774843172757
+    second: all-aqua-blue_238
+  - first:
+      213: 2500734688571998337
+    second: all-aqua-blue_239
+  - first:
+      213: -2923181628326613575
+    second: all-aqua-blue_240
+  - first:
+      213: 8152049769098660108
+    second: all-aqua-blue_241
+  - first:
+      213: -2571372299725972494
+    second: all-aqua-blue_242
+  - first:
+      213: 4313217713047262621
+    second: all-aqua-blue_243
+  - first:
+      213: -4234323510140807801
+    second: all-aqua-blue_244
+  - first:
+      213: -6326439015757189191
+    second: all-aqua-blue_245
+  - first:
+      213: 3908468657791045594
+    second: all-aqua-blue_246
+  - first:
+      213: 6867375849874702620
+    second: all-aqua-blue_247
+  - first:
+      213: 4124853379503762136
+    second: all-aqua-blue_248
+  - first:
+      213: 7006114069784863848
+    second: all-aqua-blue_249
+  - first:
+      213: -5380694238715682986
+    second: all-aqua-blue_250
+  - first:
+      213: -8547666916477344812
+    second: all-aqua-blue_251
+  - first:
+      213: -4389164252056752449
+    second: all-aqua-blue_252
+  - first:
+      213: -5047587006859603683
+    second: all-aqua-blue_253
+  - first:
+      213: 8011559360971204734
+    second: all-aqua-blue_254
+  - first:
+      213: -1012362499509528695
+    second: all-aqua-blue_255
+  - first:
+      213: 4719799447560529921
+    second: all-aqua-blue_256
+  - first:
+      213: 8161246924215573450
+    second: all-aqua-blue_257
+  - first:
+      213: 3743521612781109122
+    second: all-aqua-blue_258
+  - first:
+      213: 580968098416762099
+    second: all-aqua-blue_259
+  - first:
+      213: 1352696595943620470
+    second: all-aqua-blue_260
+  - first:
+      213: 7128365032812444254
+    second: all-aqua-blue_261
+  - first:
+      213: 6990099811143562984
+    second: all-aqua-blue_262
+  - first:
+      213: -5918673246006060690
+    second: all-aqua-blue_263
+  - first:
+      213: 7801577872113438394
+    second: all-aqua-blue_264
+  - first:
+      213: 4824703639914383158
+    second: all-aqua-blue_265
+  - first:
+      213: 7353099856940226623
+    second: all-aqua-blue_266
+  - first:
+      213: -4986286134300805366
+    second: all-aqua-blue_267
+  - first:
+      213: -462019010770140555
+    second: all-aqua-blue_268
+  - first:
+      213: -7935020030530243510
+    second: all-aqua-blue_269
+  - first:
+      213: 4804624468129340958
+    second: all-aqua-blue_270
+  - first:
+      213: -8741312731877559031
+    second: all-aqua-blue_271
+  - first:
+      213: -5939358123092690231
+    second: all-aqua-blue_272
+  - first:
+      213: -7330007097307005629
+    second: all-aqua-blue_273
+  - first:
+      213: -8557175733976486689
+    second: all-aqua-blue_274
+  - first:
+      213: -4334652461164531929
+    second: all-aqua-blue_275
+  - first:
+      213: 9010040246179918706
+    second: all-aqua-blue_276
+  - first:
+      213: 259119751954027909
+    second: all-aqua-blue_277
+  - first:
+      213: -5770480655104230006
+    second: all-aqua-blue_278
+  - first:
+      213: 1180157452907242220
+    second: all-aqua-blue_279
+  - first:
+      213: -4437676382039819765
+    second: all-aqua-blue_280
+  - first:
+      213: -8737363941360259614
+    second: all-aqua-blue_281
+  - first:
+      213: 1715957875264296987
+    second: all-aqua-blue_282
+  - first:
+      213: -6959877541324209673
+    second: all-aqua-blue_283
+  - first:
+      213: -8632779162330589250
+    second: all-aqua-blue_284
+  - first:
+      213: 2188607625603109263
+    second: all-aqua-blue_285
+  - first:
+      213: 6555375424162581043
+    second: all-aqua-blue_286
+  - first:
+      213: 2980050438546948801
+    second: all-aqua-blue_287
+  - first:
+      213: -6829263493535856322
+    second: all-aqua-blue_288
+  - first:
+      213: 7461207460557212392
+    second: all-aqua-blue_289
+  - first:
+      213: 6887420664370372295
+    second: all-aqua-blue_290
+  - first:
+      213: 9160290323063470249
+    second: all-aqua-blue_291
+  - first:
+      213: -3980275773549040856
+    second: all-aqua-blue_292
+  - first:
+      213: -7663774943785613775
+    second: all-aqua-blue_293
+  - first:
+      213: -4457891738419839489
+    second: all-aqua-blue_294
+  - first:
+      213: 1351738009322549056
+    second: all-aqua-blue_295
+  - first:
+      213: 917983601759157519
+    second: all-aqua-blue_296
+  - first:
+      213: -6396047993203127997
+    second: all-aqua-blue_297
+  - first:
+      213: 171887086824475785
+    second: all-aqua-blue_298
+  - first:
+      213: -7448950796294262935
+    second: all-aqua-blue_299
+  - first:
+      213: -1787760422089446612
+    second: all-aqua-blue_300
+  - first:
+      213: 3853736532703616174
+    second: all-aqua-blue_301
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: all-aqua-blue_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 822
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1894763c950ec46a0800000000000000
+      internalID: -6463544689048467071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 731
+        width: 85
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03996c04b726d1360800000000000000
+      internalID: 7141972865586731312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 731
+        width: 71
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bf294db211fa1b0800000000000000
+      internalID: -5643272928124273858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_3
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 731
+        width: 96
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e248d70aba83200800000000000000
+      internalID: 160066492560584298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_4
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 731
+        width: 79
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bbb7a9c19c71780800000000000000
+      internalID: -8712273829436867765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 734
+        width: 57
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cec6258c0bbd430800000000000000
+      internalID: 3808832284294704269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 736
+        width: 57
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4504af3abd7cf5800800000000000000
+      internalID: 603420621253787732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_7
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 731
+        width: 42
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c304b85e83b3af0e0800000000000000
+      internalID: -2235409149480714180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 731
+        width: 84
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e810718a12256160800000000000000
+      internalID: 7018053091562887396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_9
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 731
+        width: 50
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5eab8131dbae1b0800000000000000
+      internalID: -5626476894729083477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_10
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 864
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cf7da0c00081840800000000000000
+      internalID: 5194902221893401703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_11
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 873
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdcb138845570c40800000000000000
+      internalID: 5478441241645141441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_12
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 854
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5a68a9e680d5cd0800000000000000
+      internalID: -2567886941399374344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_13
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 839
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba98df7c88ace9640800000000000000
+      internalID: 5088727317794884011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_14
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 834
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708cbd895580bcd30800000000000000
+      internalID: 4452661820315650055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_15
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 820
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e96be75d910580d0800000000000000
+      internalID: -3421326566621484576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 785
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0badbeb7ca0a9ac20800000000000000
+      internalID: 3218280071406803632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_17
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 800
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9decd09ed945800800000000000000
+      internalID: 600278274631719402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_18
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 806
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f92466736551c0800000000000000
+      internalID: -4515593691231292533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_19
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 797
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512955e220b99e350800000000000000
+      internalID: 6046534408391201301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_20
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 799
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730de26bae00d64f0800000000000000
+      internalID: -834009347914805193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_21
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 790
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e45fe0c8a8dbb00800000000000000
+      internalID: 845984639166533249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_22
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 793
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20db7680b2c400ae0800000000000000
+      internalID: -1585183321126093566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 795
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9842ebcfc2291c0800000000000000
+      internalID: -4498483613756257809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_24
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 796
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bee6471c9c2aba0800000000000000
+      internalID: -6079074714277450973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_25
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 795
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9386358fbbc9fcf70800000000000000
+      internalID: 9209752094134986809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_26
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 799
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7423c9dd68077b8c0800000000000000
+      internalID: -3983591620839984569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_27
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 771
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1504ca275c1e68210800000000000000
+      internalID: 1335002577710628945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_28
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 775
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5327bd5659bcb0fb0800000000000000
+      internalID: -4680423545202052555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_29
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 785
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc14f6ec84c61500800000000000000
+      internalID: 366696529126497495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_30
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 747
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaee12a91bff96c0800000000000000
+      internalID: -4134309845390136578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_31
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 784
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b74bb0cfcce050800000000000000
+      internalID: 5831264044220659516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 758
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614e0ef5d71c15b0800000000000000
+      internalID: -5396412045638876824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_33
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 763
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98816034d362576a0800000000000000
+      internalID: -6452208846579033975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_34
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 770
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abf7378886812f90800000000000000
+      internalID: -6980150026505290841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_35
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 775
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68b278e52589c330800000000000000
+      internalID: 3731660164113283179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_36
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 753
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312efa4c2172493e0800000000000000
+      internalID: -2047968968983977453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_37
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 769
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aba629b05e3ae20800000000000000
+      internalID: 3360781584812391015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_38
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 754
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e32419050f4f3300800000000000000
+      internalID: 233992588692300769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 756
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cd4ca5185d23df0800000000000000
+      internalID: -201864281727902575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_40
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 751
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33500499f373847b0800000000000000
+      internalID: -5239877420151995085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_41
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 754
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd75e4751e58bb30800000000000000
+      internalID: 4303292890201030097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_42
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 747
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94fa032f132b4670800000000000000
+      internalID: 8523945336367674523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_43
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 752
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3375da925938dbc90800000000000000
+      internalID: -7152415956521887949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_44
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 755
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b59f2ed120604a70800000000000000
+      internalID: 8809146569714537907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_45
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 757
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae71e579f8266750800000000000000
+      internalID: 6297766180813897385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_46
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a868d93f335dbf740800000000000000
+      internalID: 5186973814954493578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_47
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 761
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4634489fdf022480800000000000000
+      internalID: -8925554058488170930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_48
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 757
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc187b7518e48640800000000000000
+      internalID: 5081441458544188599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 743
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32717d1ae09fb6ac0800000000000000
+      internalID: -3860718414299982045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_50
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 752
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e42b9aa442ae20800000000000000
+      internalID: 3360323771509827150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_51
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 731
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3799ae9b5487e790800000000000000
+      internalID: -7500881125323466945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_52
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 732
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b581ba7ef4cdecb00800000000000000
+      internalID: 850859615366879323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_53
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 734
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088cf043a10415e60800000000000000
+      internalID: 7949205298572413056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_54
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 735
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc90a27f0cb2ea9c0800000000000000
+      internalID: -3914142918357939765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_55
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 733
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b3e323f232dd490800000000000000
+      internalID: -7719975500629787768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_56
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 735
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cf715be8dbfb200800000000000000
+      internalID: 198085329248844863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_57
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 734
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6143ba18c25ab00800000000000000
+      internalID: 839125841009186545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_58
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 736
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13fabee270b720d0800000000000000
+      internalID: -3447592982050835686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_59
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 734
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b65f303ee856e0800000000000000
+      internalID: -1848465756047101195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_60
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 737
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67093241b2e5d770800000000000000
+      internalID: 8635057111500916586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_61
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 734
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bad09ef19640ecf0800000000000000
+      internalID: -225102388513416524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_62
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 732
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d81483737842a750800000000000000
+      internalID: 6314689288223332567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_63
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 737
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ba904b3bec20560800000000000000
+      internalID: 7278607218999143291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_64
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 734
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3b55703471d1710800000000000000
+      internalID: 1665513013850256374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_65
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 734
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa025f90617a2cbb0800000000000000
+      internalID: -4917184130036981590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_66
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 738
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1213ee7239b40b960800000000000000
+      internalID: 7615670065285706017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 632
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb89f84df85847d10800000000000000
+      internalID: 2122468177191344316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_68
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 623
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ac621c2b183bf50800000000000000
+      internalID: 6895998059179067980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_69
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 668
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8931507fb7b738330800000000000000
+      internalID: 3711946290238919576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_70
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 659
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ff72865fd3203e0800000000000000
+      internalID: -2089039152922755249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_71
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 618
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7f7fc1798e4ba40800000000000000
+      internalID: 5383183190338303960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_72
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 629
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03524ab15fe783dd0800000000000000
+      internalID: -2506113601435851472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_73
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 627
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b804d96790512ecb0800000000000000
+      internalID: -4836279919453585269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_74
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 676
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e64efaa3c879090800000000000000
+      internalID: -8027793627077644693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_75
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 673
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96de245d24d52650800000000000000
+      internalID: 6207600952551069340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_76
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 524
+        width: 82
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc222f141d716aa20800000000000000
+      internalID: 3073169983248933581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_77
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 658
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e034e027b5d4aab0800000000000000
+      internalID: -4997634703966850839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_78
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 637
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5506eac6afa060800000000000000
+      internalID: 6966970538938161943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 665
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a680c8d66a2793010800000000000000
+      internalID: 1169091637407385706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_80
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 621
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879024c34c3203ab0800000000000000
+      internalID: -5030481458041321096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_81
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 668
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdf9fde0c10571c0800000000000000
+      internalID: -4506693923976380932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_82
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 658
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68af3440d158ed1c0800000000000000
+      internalID: -4476994619887584634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_83
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 645
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f7415e28ea7390800000000000000
+      internalID: -7819682517345633952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_84
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 635
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5616af4f646750530800000000000000
+      internalID: 3820589906023571813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 641
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27cbe185575edde0800000000000000
+      internalID: -1306510817127315665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_86
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 638
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59350aafbe2be7210800000000000000
+      internalID: 1332699266340115349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_87
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 629
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61af1b75ddaee00800000000000000
+      internalID: 1074914829799134931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_88
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 638
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe80ba9f6558ff10800000000000000
+      internalID: 2303685147225001714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_89
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 640
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86edcc7082f8e0d20800000000000000
+      internalID: 3246689783473036904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_90
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 623
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8867b4c621ca29c60800000000000000
+      internalID: 7823504697822246536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_91
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 633
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e3ff505ec155410800000000000000
+      internalID: 1465109023752666643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_92
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 629
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc38659c3e6805a0800000000000000
+      internalID: -6554868051154027302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_93
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 627
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadf23af95c9f1c10800000000000000
+      internalID: 2026510267603680682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_94
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 622
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e00c9da8953920800000000000000
+      internalID: 2969447400734777737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_95
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 626
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecc4cce0aff255b0800000000000000
+      internalID: -5380957538122150681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_96
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 582
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc9dc243440c0b10800000000000000
+      internalID: 1948937425674673340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_97
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 587
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad87639c29ee0baa0800000000000000
+      internalID: -6147151177152300838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_98
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 559
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c4cdc33fdee7100800000000000000
+      internalID: 107785070057376845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_99
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 586
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d744c0c7ef1b940800000000000000
+      internalID: 5310305244381740329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_100
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 560
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41aa99e1b77e94d0800000000000000
+      internalID: -3125929485336403638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_101
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 592
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506da4074613c91b0800000000000000
+      internalID: -5648585525179001339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_102
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 531
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10151c78a42790cf0800000000000000
+      internalID: -285571436930576127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_103
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 525
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad64c1cb6be7f38a0800000000000000
+      internalID: -6323196028499769638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_104
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 558
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e5d7576542dd960800000000000000
+      internalID: 7628293297592426090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_105
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 558
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d59a9757d677b60800000000000000
+      internalID: 7743778435606601047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_106
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 575
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7009f3fe19c19a370800000000000000
+      internalID: 8334223998535569415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_107
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 551
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8786a51af59b52480800000000000000
+      internalID: -8924523266184681352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_108
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 581
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ce08baf7f3b8ee0800000000000000
+      internalID: -1257841853349172190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_109
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 563
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b9b75a49ea94f0800000000000000
+      internalID: -821087476533053636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_110
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 535
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eb49c7678b72cf0800000000000000
+      internalID: -277050033024221642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_111
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 558
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89d30df380c4ca0800000000000000
+      internalID: -6031436730786277123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_112
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 564
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70825ff5f0c25e460800000000000000
+      internalID: 7270265618005567495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_113
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 557
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eb99551880a2bc0800000000000000
+      internalID: -3807221183408390616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_114
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 572
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40d027b58e0c4970800000000000000
+      internalID: 8740376944285110348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_115
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 567
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb79bf071bd8cae0800000000000000
+      internalID: -1528731181397738499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_116
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 564
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a6a7cb9e03403c0800000000000000
+      internalID: -4394333555959108998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_117
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 570
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd9cbc467957ff30800000000000000
+      internalID: 4609251108265434548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_118
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 546
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a80db0d271c11f0800000000000000
+      internalID: -1072957128981837255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_119
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 532
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ebc25263739b6e0800000000000000
+      internalID: -1821363868603204084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_120
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 529
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fd4ffc401f60ca0800000000000000
+      internalID: -6050884046354587884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_121
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 543
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac0cefc54b3a700800000000000000
+      internalID: 550481890973371006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_122
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 548
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993e99b0ab94dee30800000000000000
+      internalID: 4534361463239336857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_123
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 526
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c42a8f38377a10800000000000000
+      internalID: 1907054812766454563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_124
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 528
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd31b71fe740ebe0800000000000000
+      internalID: -1450079987793052235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_125
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 550
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a526d821f2637aa00800000000000000
+      internalID: 767641837292577370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_126
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 523
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b64cc55aa9766120800000000000000
+      internalID: 2406744823366960821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_127
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a9c906dc3965e0800000000000000
+      internalID: -1915933276484557558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_128
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 546
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dcb2605b2b4d740800000000000000
+      internalID: 5175958362317901057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_129
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 539
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc4c6e8f9ef1470800000000000000
+      internalID: 8367663887910489427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 525
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd44eec0debff060800000000000000
+      internalID: 6989514950735842765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_131
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba48e6e8d854a740800000000000000
+      internalID: 5162348761483594420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_132
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 539
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53dbd959e2785c30800000000000000
+      internalID: 4348351786786739034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_133
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 535
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09da0456ce6ce40b0800000000000000
+      internalID: -5742433756237484656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_134
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 527
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c171362ad2648a30800000000000000
+      internalID: 4216603840208794057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_135
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 522
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e470a93c726b1e0800000000000000
+      internalID: -2182513248358150528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_136
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 522
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bd6713baafec300800000000000000
+      internalID: 274432240492403543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_137
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 520
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9bca4eca8b9aa80800000000000000
+      internalID: -8455023772700984893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_138
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 529
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b644686041c2a89d0800000000000000
+      internalID: -2771354156172688277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_139
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 525
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac4a4cb4024d51b0800000000000000
+      internalID: -5666300168055927647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_140
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 436
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2f682d9859c1a10800000000000000
+      internalID: 1881543163509142252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_141
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 373
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b550043d215a383f0800000000000000
+      internalID: -899694000271784613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_142
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 373
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e423a95712769b20800000000000000
+      internalID: 3140823234751177955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_143
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 293
+        width: 120
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b4e9a86fef75c50800000000000000
+      internalID: 6654067309304236823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_144
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 373
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300eb6e9e2738e340800000000000000
+      internalID: 4893221668503937027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_145
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 375
+        width: 41
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ebc4719f4c83eb0800000000000000
+      internalID: -4739822033690640803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_146
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 375
+        width: 54
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc2223d462637d60800000000000000
+      internalID: 7886755557634354386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_147
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 373
+        width: 30
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da663ed509c7d4680800000000000000
+      internalID: -8769215939928168787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_148
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 373
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c03c7b0c92e49ee0800000000000000
+      internalID: -1255129236294061888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_149
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 373
+        width: 35
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77946cc541da37240800000000000000
+      internalID: 4788361131792419191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_150
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 466
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100d757f5831205f0800000000000000
+      internalID: -792049118362480639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_151
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 472
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f9aa5fa520bfe70800000000000000
+      internalID: 9149909657625206600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_152
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 390
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa3c9a1d74fe20a0800000000000000
+      internalID: -6904312360557856015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_153
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 387
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53259f3fd0e113860800000000000000
+      internalID: 7507815099079938613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_154
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 381
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92212bedc6adffd10800000000000000
+      internalID: 2161686507288662569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_155
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 388
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409272ae04af1d2d0800000000000000
+      internalID: -3255545898898872060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_156
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 392
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893267090b6c12430800000000000000
+      internalID: 3756502025843909528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_157
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 404
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d5348cacef38630800000000000000
+      internalID: 3928263446893911367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_158
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 384
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b160699c93abf490800000000000000
+      internalID: -7711390043958386249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_159
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 396
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c192e4b0c429090800000000000000
+      internalID: -8029271574208504694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_160
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 411
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191c0991bc82e1370800000000000000
+      internalID: 8295112416435421585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_161
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 388
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb77d5c9526140b0800000000000000
+      internalID: -5746203511837197330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_162
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06e3757faa9eff20800000000000000
+      internalID: 3458371642247603724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_163
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 414
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1befc7f9c5a3f3a40800000000000000
+      internalID: 5350059051826609841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_164
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 401
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999af6eda031cb730800000000000000
+      internalID: 4016105905110100377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_165
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 416
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5098c37c42b3850800000000000000
+      internalID: 6357715737096291826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_166
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 373
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c1c682fb9f4ab30800000000000000
+      internalID: 4297834543830539361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_167
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 415
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4a3d93ee247ea70800000000000000
+      internalID: 8856120783187191038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_168
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 403
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a6ffd033a2faf0800000000000000
+      internalID: -364049189552347348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_169
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 419
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8333cac924caf320800000000000000
+      internalID: 2592600219279635338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_170
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 375
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c08fdbea940bfd0800000000000000
+      internalID: -2328279992490259452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_171
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 406
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f57f9e5c852420800000000000000
+      internalID: 2604642297533822868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_172
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 377
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99910cd2f25700100800000000000000
+      internalID: 72186439529404825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_173
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 411
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5a67ec3e741c6c0800000000000000
+      internalID: -4124936739947633192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_174
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 445
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a408ba115807fe160800000000000000
+      internalID: 7056982857942270026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_175
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 384
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7ff97949ba40ad0800000000000000
+      internalID: -2736874018847066162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_176
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 435
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6a8c59f9ccb780800000000000000
+      internalID: -8665829510131061694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_177
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 389
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240a106f8e17846a0800000000000000
+      internalID: -6464792019716693950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_178
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 419
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9bd048af66c3c10800000000000000
+      internalID: 2034614357807970776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_179
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 375
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e849a9468ef2550800000000000000
+      internalID: 6138380335917076108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_180
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 376
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcfae9eaf21b9a70800000000000000
+      internalID: 8834675962892975280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_181
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 374
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2b9789327bdefe0800000000000000
+      internalID: -1158068165654498638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_182
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 375
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f041304c6c6360800000000000000
+      internalID: 7164220130199664901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_183
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 374
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dfd2236127fcf80800000000000000
+      internalID: -8084117366450029275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_184
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 376
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda01f548ea3663d0800000000000000
+      internalID: -3213816514802021668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_185
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 377
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb05db18abc8ade0800000000000000
+      internalID: -1321582567751349297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_186
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 373
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe71c3ab7c0c8970800000000000000
+      internalID: 8758389100496649915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_187
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 301
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7249f0016e30ac10800000000000000
+      internalID: 2062717215684772475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_188
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 298
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc589557e16fb920800000000000000
+      internalID: 3008230722308168898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_189
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 294
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345356cedbd1866b0800000000000000
+      internalID: -5302955859676678845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_190
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 299
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211e51b10557af9a0800000000000000
+      internalID: -6198512950209814254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_191
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 334
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4101e3ab48ba820800000000000000
+      internalID: 2930581917974664392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_192
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 317
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6179f890f9aaeba0800000000000000
+      internalID: -6058843497849851540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_193
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 329
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f301932453296b10800000000000000
+      internalID: 1975148755859604467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_194
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 312
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3888efce1c4d0b40800000000000000
+      internalID: 5408062422762686526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_195
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 322
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e543a5eb0e6d520800000000000000
+      internalID: 2726613732581203471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_196
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 316
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5f826a642fc1680800000000000000
+      internalID: -8782878788029975051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_197
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f01d9929e2492330800000000000000
+      internalID: 3686551339172434163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_198
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 312
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfa04a8a96281430800000000000000
+      internalID: 3753792734599622605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_199
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 318
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96848d19aa2c64400800000000000000
+      internalID: 308147662368557161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_200
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 321
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb7ae7772f8058b0800000000000000
+      internalID: -5165471372915606530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_201
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1569dc535d8d51150800000000000000
+      internalID: 5842814501825386065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_202
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 292
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6584c1a4186e769c0800000000000000
+      internalID: -3933922306516301738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_203
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 304
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd53ff1017de37e20800000000000000
+      internalID: 3347280017687000540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_204
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 310
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e5dbfcb28138f60800000000000000
+      internalID: 8035292736607051335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_205
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 306
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725ec6e2be824fe00800000000000000
+      internalID: 1077531201409705255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_206
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 309
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4764d0bcb336e40800000000000000
+      internalID: 5648424100939855088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_207
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 296
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88368f86b926aed0800000000000000
+      internalID: -2403187487086856052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_208
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 311
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc202b3c0cd608e10800000000000000
+      internalID: 2197877292841173707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_209
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 295
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97347e5b279106bf0800000000000000
+      internalID: -333238391956618375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_210
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 295
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7568931c85b8b6880800000000000000
+      internalID: -8616640248728156585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_211
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 302
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03497221802da19a0800000000000000
+      internalID: -6261461399799098320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_212
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 292
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b15bfeb9f351f050800000000000000
+      internalID: 5832535324537606583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_213
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 294
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740f4730dd5494e70800000000000000
+      internalID: 9099881337626882119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_214
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 295
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a195fee9d0e581b0800000000000000
+      internalID: -5654866530472193632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_215
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 292
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a375bdfe46da4b0800000000000000
+      internalID: -5427570994571691406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_216
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ae2591ffb820970800000000000000
+      internalID: 8719685756300487322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_217
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 239
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d11a8e39f339d30800000000000000
+      internalID: 4436959962385685916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_218
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 233
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3e125c2c486b360800000000000000
+      internalID: 7185076227582059477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_219
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 262
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a077434eda297dc50800000000000000
+      internalID: 6689977047037802250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_220
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 240
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c49646c554ffd60800000000000000
+      internalID: 7926130132319292449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_221
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 264
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35802a2275a723f70800000000000000
+      internalID: 9165522706314168403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_222
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 229
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a10867cdce82340800000000000000
+      internalID: 4839378231234664981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_223
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 235
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2961fa5aaf62d6a0800000000000000
+      internalID: -6425950940843382482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_224
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 235
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69666358e23e08e80800000000000000
+      internalID: -8178287134361885034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_225
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 270
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e808d0e418a0bba0800000000000000
+      internalID: -6075171089697732382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_226
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 239
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0c23f4c8addec0800000000000000
+      internalID: -3540488168196534786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_227
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 247
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81acc7b81db6ed870800000000000000
+      internalID: 8709517277113666072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_228
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 253
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe1acf09afcbae30800000000000000
+      internalID: 4515931376390381299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_229
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 231
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a96d424281fe1b0800000000000000
+      internalID: -5625250866046526976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_230
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 242
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df5c56b24e315410800000000000000
+      internalID: 1464019810120392661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_231
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 234
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b877df9742839efa0800000000000000
+      internalID: -5771019718181947509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_232
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 238
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ef43248cfbab640800000000000000
+      internalID: 5096596795148271234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_233
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 242
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d57a4ba7e90a80800000000000000
+      internalID: -8500008098810440402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_234
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 232
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7107e025d4dc540800000000000000
+      internalID: 5029761373667596283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_235
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8138cccada4d7db20800000000000000
+      internalID: 3159227506017207064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_236
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 113
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e26c685f6278a60800000000000000
+      internalID: 7676146925846277716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_237
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 113
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213805172abb61ba0800000000000000
+      internalID: -6118496737376042222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_238
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597d4670b9f72e170800000000000000
+      internalID: 8206261774843172757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_239
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 113
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180c4d523f464b220800000000000000
+      internalID: 2500734688571998337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_240
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 114
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bde4a5fbc5ce67d0800000000000000
+      internalID: -2923181628326613575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_241
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 114
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094e66d216e12170800000000000000
+      internalID: 8152049769098660108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_242
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 113
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbdd816486a05cd0800000000000000
+      internalID: -2571372299725972494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_243
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 113
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95da1958a0abdb30800000000000000
+      internalID: 4313217713047262621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_244
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 113
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d8f1b339ac35c0800000000000000
+      internalID: -4234323510140807801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_245
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 178
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfee9ceb39f338a0800000000000000
+      internalID: -6326439015757189191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_246
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 174
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf026b498bad3630800000000000000
+      internalID: 3908468657791045594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_247
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 113
+        width: 18
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11c0e653f1dd4f50800000000000000
+      internalID: 6867375849874702620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_248
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 165
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da24e35b4c6e3930800000000000000
+      internalID: 4124853379503762136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_249
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 156
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864a46160a7ba3160800000000000000
+      internalID: 7006114069784863848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_250
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 145
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f5c58191fe355b0800000000000000
+      internalID: -5380694238715682986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_251
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 140
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d362091a36906980800000000000000
+      internalID: -8547666916477344812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_252
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 133
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe60571e5e8613c0800000000000000
+      internalID: -4389164252056752449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_253
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 135
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11914b4c5e53f9b0800000000000000
+      internalID: -5047587006859603683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_254
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 145
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78e4afaac6ce2f60800000000000000
+      internalID: 8011559360971204734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_255
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 147
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987dec0abad53f1f0800000000000000
+      internalID: -1012362499509528695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_256
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 134
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1082eea4798108140800000000000000
+      internalID: 4719799447560529921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_257
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 137
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb5e1266d2924170800000000000000
+      internalID: 8161246924215573450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_258
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 113
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fb0d2a219a3f330800000000000000
+      internalID: 3743521612781109122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_259
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 123
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc17fb4863001800800000000000000
+      internalID: 580968098416762099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_260
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 127
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f791a136eb5c210800000000000000
+      internalID: 1352696595943620470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_261
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5af91aca3a0de260800000000000000
+      internalID: 7128365032812444254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_262
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6bcbb3eb2d10160800000000000000
+      internalID: 6990099811143562984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_263
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 123
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69533e8a06acdda0800000000000000
+      internalID: -5918673246006060690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_264
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 114
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe8eda7db5c44c60800000000000000
+      internalID: 7801577872113438394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_265
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63781abe56ac4f240800000000000000
+      internalID: 4824703639914383158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_266
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38d5ea8c557b0660800000000000000
+      internalID: 7353099856940226623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_267
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a077b88ed272dcab0800000000000000
+      internalID: -4986286134300805366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_268
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572819758249699f0800000000000000
+      internalID: -462019010770140555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_269
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44b2a2e25521e190800000000000000
+      internalID: -7935020030530243510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_270
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 113
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1edffd6f747da240800000000000000
+      internalID: 4804624468129340958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_271
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 113
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905b6d1426e90b680800000000000000
+      internalID: -8741312731877559031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_272
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 59
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caba3f4149239da0800000000000000
+      internalID: -5939358123092690231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_273
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 55
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d7ceb8165964a90800000000000000
+      internalID: -7330007097307005629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_274
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc2dbff10ece3980800000000000000
+      internalID: -8557175733976486689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_275
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 55
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe3837d8838d3c0800000000000000
+      internalID: -4334652461164531929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_276
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273f68dddd71a0d70800000000000000
+      internalID: 9010040246179918706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_277
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 54
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d181aa04989300800000000000000
+      internalID: 259119751954027909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_278
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 55
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dbf31ea622befa0800000000000000
+      internalID: -5770480655104230006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_279
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 57
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e09f53f2c06010800000000000000
+      internalID: 1180157452907242220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_280
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 5
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a3064a7d43a62c0800000000000000
+      internalID: -4437676382039819765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_281
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 6
+        width: 35
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed2ae1b9c5aeb680800000000000000
+      internalID: -8737363941360259614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_282
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1899a4989e40d710800000000000000
+      internalID: 1715957875264296987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_283
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1c62d404c896f90800000000000000
+      internalID: -6959877541324209673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_284
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb714ec1715323880800000000000000
+      internalID: -8632779162330589250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_285
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81d8cc2a0f7f5e10800000000000000
+      internalID: 2188607625603109263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_286
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 21
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a4986673f59fa50800000000000000
+      internalID: 6555375424162581043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_287
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 12
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2865ab5144b5920800000000000000
+      internalID: 2980050438546948801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_288
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39804e19059931a0800000000000000
+      internalID: -6829263493535856322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_289
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 27
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac10a77a88b8760800000000000000
+      internalID: 7461207460557212392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_290
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce1b766a98059f50800000000000000
+      internalID: 6887420664370372295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_291
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a875a9f383ef1f70800000000000000
+      internalID: 9160290323063470249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_292
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b2489b54833c8c0800000000000000
+      internalID: -3980275773549040856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_293
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1368e150b4dc4a590800000000000000
+      internalID: -7663774943785613775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_294
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 23
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd365435136222c0800000000000000
+      internalID: -4457891738419839489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_295
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f6013ce8652c210800000000000000
+      internalID: 1351738009322549056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_296
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dfc7cd8355dbc00800000000000000
+      internalID: 917983601759157519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_297
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34907c6ec3cac37a0800000000000000
+      internalID: -6396047993203127997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_298
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c46af056aa26200800000000000000
+      internalID: 171887086824475785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_299
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f648d87b200a890800000000000000
+      internalID: -7448950796294262935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_300
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b2bd93e599037e0800000000000000
+      internalID: -1787760422089446612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-aqua-blue_301
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 10
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac9eb165f83b7530800000000000000
+      internalID: 3853736532703616174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
