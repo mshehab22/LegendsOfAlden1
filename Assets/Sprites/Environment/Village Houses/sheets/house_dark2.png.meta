@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 62279c8fb9a0e4e4b842141268781a5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1403458610020117804
+    second: house_dark2_0
+  - first:
+      213: 2731243077798780120
+    second: house_dark2_1
+  - first:
+      213: 8580114729419651755
+    second: house_dark2_2
+  - first:
+      213: 5337274129424780082
+    second: house_dark2_3
+  - first:
+      213: -6064932879418803874
+    second: house_dark2_4
+  - first:
+      213: 8349608520486557185
+    second: house_dark2_5
+  - first:
+      213: -2860561447604543888
+    second: house_dark2_6
+  - first:
+      213: -5423724427189042568
+    second: house_dark2_7
+  - first:
+      213: 466902591641465421
+    second: house_dark2_8
+  - first:
+      213: -1508567408223112435
+    second: house_dark2_9
+  - first:
+      213: 8821042501814139502
+    second: house_dark2_10
+  - first:
+      213: -3385759541216432934
+    second: house_dark2_11
+  - first:
+      213: 393331530837515870
+    second: house_dark2_12
+  - first:
+      213: -2154048046322553376
+    second: house_dark2_13
+  - first:
+      213: -4189879846549446593
+    second: house_dark2_14
+  - first:
+      213: 4879979201910326007
+    second: house_dark2_15
+  - first:
+      213: 7433644599055642573
+    second: house_dark2_16
+  - first:
+      213: -8480190298110776708
+    second: house_dark2_17
+  - first:
+      213: 6901770836476058453
+    second: house_dark2_18
+  - first:
+      213: -8363740202672919248
+    second: house_dark2_19
+  - first:
+      213: 262792982791333157
+    second: house_dark2_20
+  - first:
+      213: -6394422709482249372
+    second: house_dark2_21
+  - first:
+      213: 256617098213865840
+    second: house_dark2_22
+  - first:
+      213: -3597559491098169334
+    second: house_dark2_23
+  - first:
+      213: 7615500767658899940
+    second: house_dark2_24
+  - first:
+      213: 222123018789179423
+    second: house_dark2_25
+  - first:
+      213: -7707039759298516098
+    second: house_dark2_26
+  - first:
+      213: -9064570474859389508
+    second: house_dark2_27
+  - first:
+      213: -3143334598639605308
+    second: house_dark2_28
+  - first:
+      213: -8149783844366641638
+    second: house_dark2_29
+  - first:
+      213: 2822339335787507012
+    second: house_dark2_30
+  - first:
+      213: -5001390451300388941
+    second: house_dark2_31
+  - first:
+      213: -4304333700219854523
+    second: house_dark2_32
+  - first:
+      213: -2873364864789908992
+    second: house_dark2_33
+  - first:
+      213: 8152938495840151315
+    second: house_dark2_34
+  - first:
+      213: -468480523612922888
+    second: house_dark2_35
+  - first:
+      213: -7443854055366206964
+    second: house_dark2_36
+  - first:
+      213: 4047017574219389274
+    second: house_dark2_37
+  - first:
+      213: 2876690014369030234
+    second: house_dark2_38
+  - first:
+      213: 7362258071980680629
+    second: house_dark2_39
+  - first:
+      213: -49241771709384202
+    second: house_dark2_40
+  - first:
+      213: -3871223406229268263
+    second: house_dark2_41
+  - first:
+      213: 4267553265560624674
+    second: house_dark2_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_dark2_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d66338b261a7310800000000000000
+      internalID: 1403458610020117804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1119
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcd077cb1357e520800000000000000
+      internalID: 2731243077798780120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab72313e0b21770800000000000000
+      internalID: 8580114729419651755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b0f39ea8ec11a40800000000000000
+      internalID: 5337274129424780082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1119
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59b7a7fda705dba0800000000000000
+      internalID: -6064932879418803874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1061d2516b4cfd370800000000000000
+      internalID: 8349608520486557185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e9a51f48e3d48d0800000000000000
+      internalID: -2860561447604543888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872c9cd9e5f0bb4b0800000000000000
+      internalID: -5423724427189042568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 895
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42bf7fee65ca7600800000000000000
+      internalID: 466902591641465421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_9
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 895
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0331295fed701be0800000000000000
+      internalID: -1508567408223112435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_10
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a31456b63aa6a70800000000000000
+      internalID: 8821042501814139502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca7e2c2ad5301d0800000000000000
+      internalID: -3385759541216432934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed78e71f4657500800000000000000
+      internalID: 393331530837515870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ede1d9e6b84b12e0800000000000000
+      internalID: -2154048046322553376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f302ade7a7e8ad5c0800000000000000
+      internalID: -4189879846549446593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c8299a3b29b340800000000000000
+      internalID: 4879979201910326007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_16
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf6631b06c992760800000000000000
+      internalID: 7433644599055642573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa4659adf405a80800000000000000
+      internalID: -8480190298110776708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b5e45320408cf50800000000000000
+      internalID: 6901770836476058453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03de60249960eeb80800000000000000
+      internalID: -8363740202672919248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5252eb453d0a5a300800000000000000
+      internalID: 262792982791333157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_21
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ae91cc627247a0800000000000000
+      internalID: -6394422709482249372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_22
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079345624efaf8300800000000000000
+      internalID: 256617098213865840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_23
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0032ca14b6e21ec0800000000000000
+      internalID: -3597559491098169334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_24
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9f50b7991bfa960800000000000000
+      internalID: 7615500767658899940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_25
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10dd5f65b3251300800000000000000
+      internalID: 222123018789179423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b233d2c281b0590800000000000000
+      internalID: -7707039759298516098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd1384ed2d243280800000000000000
+      internalID: -9064570474859389508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_28
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c924ed26d1a064d0800000000000000
+      internalID: -3143334598639605308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_29
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a161f40e5c626ee80800000000000000
+      internalID: -8149783844366641638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_30
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44de9392ca6fa2720800000000000000
+      internalID: 2822339335787507012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_31
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfa53f02ed779ab0800000000000000
+      internalID: -5001390451300388941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_32
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54127a31e4fe344c0800000000000000
+      internalID: -4304333700219854523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_33
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002fb1411e1cf18d0800000000000000
+      internalID: -2873364864789908992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317e828ad5e052170800000000000000
+      internalID: 8152938495840151315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbdcd5227f9f79f0800000000000000
+      internalID: -468480523612922888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_36
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0adb060d2e12b890800000000000000
+      internalID: -7443854055366206964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a591c1faa05e92830800000000000000
+      internalID: 4047017574219389274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_38
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a502163a35e0ce720800000000000000
+      internalID: 2876690014369030234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_39
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b52925a5befb2660800000000000000
+      internalID: 7362258071980680629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_40
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9b6299ede015ff0800000000000000
+      internalID: -49241771709384202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_41
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8d68992d6a64ac0800000000000000
+      internalID: -3871223406229268263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_dark2_42
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e9cc5a515693b30800000000000000
+      internalID: 4267553265560624674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      house_dark2_0: 1403458610020117804
+      house_dark2_1: 2731243077798780120
+      house_dark2_10: 8821042501814139502
+      house_dark2_11: -3385759541216432934
+      house_dark2_12: 393331530837515870
+      house_dark2_13: -2154048046322553376
+      house_dark2_14: -4189879846549446593
+      house_dark2_15: 4879979201910326007
+      house_dark2_16: 7433644599055642573
+      house_dark2_17: -8480190298110776708
+      house_dark2_18: 6901770836476058453
+      house_dark2_19: -8363740202672919248
+      house_dark2_2: 8580114729419651755
+      house_dark2_20: 262792982791333157
+      house_dark2_21: -6394422709482249372
+      house_dark2_22: 256617098213865840
+      house_dark2_23: -3597559491098169334
+      house_dark2_24: 7615500767658899940
+      house_dark2_25: 222123018789179423
+      house_dark2_26: -7707039759298516098
+      house_dark2_27: -9064570474859389508
+      house_dark2_28: -3143334598639605308
+      house_dark2_29: -8149783844366641638
+      house_dark2_3: 5337274129424780082
+      house_dark2_30: 2822339335787507012
+      house_dark2_31: -5001390451300388941
+      house_dark2_32: -4304333700219854523
+      house_dark2_33: -2873364864789908992
+      house_dark2_34: 8152938495840151315
+      house_dark2_35: -468480523612922888
+      house_dark2_36: -7443854055366206964
+      house_dark2_37: 4047017574219389274
+      house_dark2_38: 2876690014369030234
+      house_dark2_39: 7362258071980680629
+      house_dark2_4: -6064932879418803874
+      house_dark2_40: -49241771709384202
+      house_dark2_41: -3871223406229268263
+      house_dark2_42: 4267553265560624674
+      house_dark2_5: 8349608520486557185
+      house_dark2_6: -2860561447604543888
+      house_dark2_7: -5423724427189042568
+      house_dark2_8: 466902591641465421
+      house_dark2_9: -1508567408223112435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
