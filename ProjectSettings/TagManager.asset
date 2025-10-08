@@ -8,10 +8,14 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
+<<<<<<< HEAD
   - Player
+=======
+  - Ground
+>>>>>>> parent of a7b7fb53 (Revert "Village Prototype, Level Design")
   - 
   - 
   - 
@@ -38,11 +42,20 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 250167293
+    locked: 0
+  - name: Ground
+    uniqueID: 3116683339
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Player
     uniqueID: 3334105179
     locked: 0
+=======
+>>>>>>> parent of a7b7fb53 (Revert "Village Prototype, Level Design")
   m_RenderingLayers:
   - Default
