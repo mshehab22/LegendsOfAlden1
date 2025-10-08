@@ -196,7 +196,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -210,7 +210,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -231,10 +231,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -262,12 +262,12 @@ TextureImporter:
       name: herb_sheet_0
       rect:
         serializedVersion: 2
-        x: 27
-        y: 384
-        width: 14
-        height: 16
+        x: 26
+        y: 383
+        width: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -284,12 +284,12 @@ TextureImporter:
       name: herb_sheet_1
       rect:
         serializedVersion: 2
-        x: 87
-        y: 384
-        width: 19
-        height: 23
+        x: 86
+        y: 383
+        width: 21
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -306,12 +306,12 @@ TextureImporter:
       name: herb_sheet_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 384
-        width: 24
-        height: 34
+        x: 148
+        y: 383
+        width: 26
+        height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -328,12 +328,12 @@ TextureImporter:
       name: herb_sheet_3
       rect:
         serializedVersion: 2
-        x: 216
-        y: 384
-        width: 14
-        height: 17
+        x: 215
+        y: 383
+        width: 16
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -350,12 +350,12 @@ TextureImporter:
       name: herb_sheet_4
       rect:
         serializedVersion: 2
-        x: 277
-        y: 384
-        width: 19
-        height: 23
+        x: 276
+        y: 383
+        width: 21
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -372,12 +372,12 @@ TextureImporter:
       name: herb_sheet_5
       rect:
         serializedVersion: 2
-        x: 340
-        y: 384
-        width: 23
-        height: 32
+        x: 339
+        y: 383
+        width: 25
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -394,12 +394,12 @@ TextureImporter:
       name: herb_sheet_6
       rect:
         serializedVersion: 2
-        x: 27
-        y: 336
-        width: 14
-        height: 16
+        x: 26
+        y: 335
+        width: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -416,12 +416,12 @@ TextureImporter:
       name: herb_sheet_7
       rect:
         serializedVersion: 2
-        x: 87
-        y: 336
-        width: 19
-        height: 23
+        x: 86
+        y: 335
+        width: 21
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -438,12 +438,12 @@ TextureImporter:
       name: herb_sheet_8
       rect:
         serializedVersion: 2
-        x: 149
-        y: 336
-        width: 24
-        height: 34
+        x: 148
+        y: 335
+        width: 26
+        height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -460,12 +460,12 @@ TextureImporter:
       name: herb_sheet_9
       rect:
         serializedVersion: 2
-        x: 216
-        y: 336
-        width: 14
-        height: 17
+        x: 215
+        y: 335
+        width: 16
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -482,12 +482,12 @@ TextureImporter:
       name: herb_sheet_10
       rect:
         serializedVersion: 2
-        x: 277
-        y: 336
-        width: 19
-        height: 23
+        x: 276
+        y: 335
+        width: 21
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -504,12 +504,12 @@ TextureImporter:
       name: herb_sheet_11
       rect:
         serializedVersion: 2
-        x: 340
-        y: 336
-        width: 23
-        height: 32
+        x: 339
+        y: 335
+        width: 25
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -526,12 +526,12 @@ TextureImporter:
       name: herb_sheet_12
       rect:
         serializedVersion: 2
-        x: 20
-        y: 288
-        width: 26
-        height: 27
+        x: 19
+        y: 287
+        width: 28
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -548,12 +548,12 @@ TextureImporter:
       name: herb_sheet_13
       rect:
         serializedVersion: 2
-        x: 84
-        y: 288
-        width: 26
-        height: 32
+        x: 83
+        y: 287
+        width: 28
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -570,12 +570,12 @@ TextureImporter:
       name: herb_sheet_14
       rect:
         serializedVersion: 2
-        x: 148
-        y: 288
-        width: 26
-        height: 40
+        x: 147
+        y: 287
+        width: 28
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -592,12 +592,12 @@ TextureImporter:
       name: herb_sheet_15
       rect:
         serializedVersion: 2
-        x: 212
-        y: 288
-        width: 27
-        height: 29
+        x: 211
+        y: 287
+        width: 29
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -614,12 +614,12 @@ TextureImporter:
       name: herb_sheet_16
       rect:
         serializedVersion: 2
-        x: 276
-        y: 288
-        width: 27
-        height: 34
+        x: 275
+        y: 287
+        width: 29
+        height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -636,12 +636,12 @@ TextureImporter:
       name: herb_sheet_17
       rect:
         serializedVersion: 2
-        x: 340
-        y: 288
-        width: 27
-        height: 45
+        x: 339
+        y: 287
+        width: 29
+        height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -658,12 +658,12 @@ TextureImporter:
       name: herb_sheet_18
       rect:
         serializedVersion: 2
-        x: 13
-        y: 240
-        width: 37
-        height: 31
+        x: 12
+        y: 239
+        width: 39
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -680,12 +680,12 @@ TextureImporter:
       name: herb_sheet_19
       rect:
         serializedVersion: 2
-        x: 77
-        y: 240
-        width: 37
-        height: 31
+        x: 76
+        y: 239
+        width: 39
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -702,12 +702,12 @@ TextureImporter:
       name: herb_sheet_20
       rect:
         serializedVersion: 2
-        x: 141
-        y: 240
-        width: 37
-        height: 31
+        x: 140
+        y: 239
+        width: 39
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -724,12 +724,12 @@ TextureImporter:
       name: herb_sheet_21
       rect:
         serializedVersion: 2
-        x: 209
-        y: 240
-        width: 35
-        height: 28
+        x: 208
+        y: 239
+        width: 37
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -746,12 +746,12 @@ TextureImporter:
       name: herb_sheet_22
       rect:
         serializedVersion: 2
-        x: 273
-        y: 240
-        width: 35
-        height: 28
+        x: 272
+        y: 239
+        width: 37
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -768,12 +768,12 @@ TextureImporter:
       name: herb_sheet_23
       rect:
         serializedVersion: 2
-        x: 337
-        y: 240
-        width: 35
-        height: 28
+        x: 336
+        y: 239
+        width: 37
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -790,12 +790,12 @@ TextureImporter:
       name: herb_sheet_24
       rect:
         serializedVersion: 2
-        x: 22
-        y: 192
-        width: 20
-        height: 23
+        x: 21
+        y: 191
+        width: 22
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -812,12 +812,12 @@ TextureImporter:
       name: herb_sheet_25
       rect:
         serializedVersion: 2
-        x: 86
-        y: 192
-        width: 20
-        height: 31
+        x: 85
+        y: 191
+        width: 22
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -834,12 +834,12 @@ TextureImporter:
       name: herb_sheet_26
       rect:
         serializedVersion: 2
-        x: 150
-        y: 192
-        width: 22
-        height: 32
+        x: 149
+        y: 191
+        width: 24
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -856,12 +856,12 @@ TextureImporter:
       name: herb_sheet_27
       rect:
         serializedVersion: 2
-        x: 213
-        y: 192
-        width: 22
-        height: 29
+        x: 212
+        y: 191
+        width: 24
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -878,12 +878,12 @@ TextureImporter:
       name: herb_sheet_28
       rect:
         serializedVersion: 2
-        x: 277
-        y: 192
-        width: 22
-        height: 32
+        x: 276
+        y: 191
+        width: 24
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -900,12 +900,12 @@ TextureImporter:
       name: herb_sheet_29
       rect:
         serializedVersion: 2
-        x: 341
-        y: 192
-        width: 22
-        height: 33
+        x: 340
+        y: 191
+        width: 24
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -922,12 +922,12 @@ TextureImporter:
       name: herb_sheet_30
       rect:
         serializedVersion: 2
-        x: 22
-        y: 144
-        width: 23
-        height: 20
+        x: 21
+        y: 143
+        width: 25
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -944,12 +944,12 @@ TextureImporter:
       name: herb_sheet_31
       rect:
         serializedVersion: 2
-        x: 86
-        y: 144
-        width: 23
-        height: 22
+        x: 85
+        y: 143
+        width: 25
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -966,12 +966,12 @@ TextureImporter:
       name: herb_sheet_32
       rect:
         serializedVersion: 2
-        x: 150
-        y: 144
-        width: 23
-        height: 23
+        x: 149
+        y: 143
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -988,12 +988,12 @@ TextureImporter:
       name: herb_sheet_33
       rect:
         serializedVersion: 2
-        x: 213
-        y: 144
-        width: 26
-        height: 33
+        x: 212
+        y: 143
+        width: 28
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1010,12 +1010,12 @@ TextureImporter:
       name: herb_sheet_34
       rect:
         serializedVersion: 2
-        x: 277
-        y: 144
-        width: 26
-        height: 42
+        x: 276
+        y: 143
+        width: 28
+        height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1032,12 +1032,12 @@ TextureImporter:
       name: herb_sheet_35
       rect:
         serializedVersion: 2
-        x: 341
-        y: 144
-        width: 26
-        height: 45
+        x: 340
+        y: 143
+        width: 28
+        height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1054,12 +1054,12 @@ TextureImporter:
       name: herb_sheet_36
       rect:
         serializedVersion: 2
-        x: 24
-        y: 96
-        width: 20
-        height: 20
+        x: 23
+        y: 95
+        width: 22
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1076,12 +1076,12 @@ TextureImporter:
       name: herb_sheet_37
       rect:
         serializedVersion: 2
-        x: 88
-        y: 96
-        width: 20
-        height: 22
+        x: 87
+        y: 95
+        width: 22
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1098,12 +1098,12 @@ TextureImporter:
       name: herb_sheet_38
       rect:
         serializedVersion: 2
-        x: 152
-        y: 96
-        width: 21
-        height: 22
+        x: 151
+        y: 95
+        width: 23
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1120,12 +1120,12 @@ TextureImporter:
       name: herb_sheet_39
       rect:
         serializedVersion: 2
-        x: 212
-        y: 96
-        width: 25
-        height: 27
+        x: 211
+        y: 95
+        width: 27
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1142,12 +1142,12 @@ TextureImporter:
       name: herb_sheet_40
       rect:
         serializedVersion: 2
-        x: 276
-        y: 96
-        width: 25
-        height: 28
+        x: 275
+        y: 95
+        width: 27
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1164,12 +1164,12 @@ TextureImporter:
       name: herb_sheet_41
       rect:
         serializedVersion: 2
-        x: 340
-        y: 96
-        width: 25
-        height: 29
+        x: 339
+        y: 95
+        width: 27
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1186,12 +1186,12 @@ TextureImporter:
       name: herb_sheet_42
       rect:
         serializedVersion: 2
-        x: 26
-        y: 48
-        width: 20
-        height: 30
+        x: 25
+        y: 47
+        width: 22
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1208,12 +1208,12 @@ TextureImporter:
       name: herb_sheet_43
       rect:
         serializedVersion: 2
-        x: 90
-        y: 48
-        width: 20
-        height: 30
+        x: 89
+        y: 47
+        width: 22
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1230,12 +1230,12 @@ TextureImporter:
       name: herb_sheet_44
       rect:
         serializedVersion: 2
-        x: 154
-        y: 48
-        width: 20
-        height: 30
+        x: 153
+        y: 47
+        width: 22
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1252,12 +1252,12 @@ TextureImporter:
       name: herb_sheet_45
       rect:
         serializedVersion: 2
-        x: 214
-        y: 48
-        width: 23
-        height: 29
+        x: 213
+        y: 47
+        width: 25
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1274,12 +1274,12 @@ TextureImporter:
       name: herb_sheet_46
       rect:
         serializedVersion: 2
-        x: 278
-        y: 48
-        width: 24
-        height: 29
+        x: 277
+        y: 47
+        width: 26
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1296,12 +1296,12 @@ TextureImporter:
       name: herb_sheet_47
       rect:
         serializedVersion: 2
-        x: 342
-        y: 48
-        width: 23
-        height: 29
+        x: 341
+        y: 47
+        width: 25
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1318,12 +1318,12 @@ TextureImporter:
       name: herb_sheet_48
       rect:
         serializedVersion: 2
-        x: 22
+        x: 21
         y: 0
-        width: 20
-        height: 16
+        width: 22
+        height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1340,12 +1340,12 @@ TextureImporter:
       name: herb_sheet_49
       rect:
         serializedVersion: 2
-        x: 84
+        x: 83
         y: 0
-        width: 23
-        height: 23
+        width: 25
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1362,12 +1362,12 @@ TextureImporter:
       name: herb_sheet_50
       rect:
         serializedVersion: 2
-        x: 130
+        x: 129
         y: 0
-        width: 60
-        height: 22
+        width: 62
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1384,12 +1384,12 @@ TextureImporter:
       name: herb_sheet_51
       rect:
         serializedVersion: 2
-        x: 193
+        x: 192
         y: 0
-        width: 63
-        height: 24
+        width: 65
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1406,12 +1406,12 @@ TextureImporter:
       name: herb_sheet_52
       rect:
         serializedVersion: 2
-        x: 264
+        x: 263
         y: 0
-        width: 51
-        height: 24
+        width: 53
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1428,12 +1428,12 @@ TextureImporter:
       name: herb_sheet_53
       rect:
         serializedVersion: 2
-        x: 331
+        x: 330
         y: 0
-        width: 44
-        height: 42
+        width: 46
+        height: 43
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1450,7 +1450,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a698aa6b67d804c8dadd2dad9a4ff534
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -1458,9 +1458,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
       herb_sheet_0: -7634934680419179705
       herb_sheet_1: 8455575379670904194
