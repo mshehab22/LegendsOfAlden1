@@ -1,42 +1,46 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
-public class PlayerController : MonoBehaviour
+public class ParallaxLayer : MonoBehaviour
 {
-    public float runSpeed = 5f;
-    Vector2 moveInput;
+    public Camera cam;
+    public Transform followTarget;
 
-    public bool IsMoving { get; private set; }
+    private Vector3 startingPosition;
+    private float startingZ;
 
-    Rigidbody2D rb;
+    // How far the camera has moved since the start (in 2D space)
+    private Vector2 CamMoveSinceStart => (Vector2)cam.transform.position - (Vector2)startingPosition;
 
-    private void Awake()
-    {
-        rb = GetComponent<Rigidbody2D>();
-    }
+    // Distance between this layer and the follow target (for parallax)
+    private float ZDistanceFromTarget => transform.position.z - followTarget.position.z;
 
-  
+    // Clipping plane calculation (used to normalize parallax)
+    private float ClippingPlane => Mathf.Abs(cam.transform.position.z) + (ZDistanceFromTarget > 0 ? cam.farClipPlane : cam.nearClipPlane);
+
+    // Parallax multiplier based on depth
+    private float ParallaxFactor => Mathf.Abs(ZDistanceFromTarget) / ClippingPlane;
+
     void Start()
     {
-        
+        if (cam == null) cam = Camera.main;
+        startingPosition = transform.position;
+        startingZ = transform.position.z;
     }
 
-   
-    void Update()
+    void LateUpdate()
     {
-        
-    }
+        if (cam == null || followTarget == null) return;
 
-    private void FixedUpdate()
-    {
-        rb.linearVelocity = new Vector2(moveInput.x * runSpeed, rb.linearVelocity.y);
-    }
-
-    public void OnMove(InputAction.CallbackContext context)
-    {
-        moveInput = context.ReadValue<Vector2>();
-
-        IsMoving = moveInput != Vector2.zero;
-        
+        Vector2 newPos2D = (Vector2)startingPosition + CamMoveSinceStart * ParallaxFactor;
+        transform.position = new Vector3(newPos2D.x, newPos2D.y, startingZ);
     }
 }
+
+
+
+
+
+
+
