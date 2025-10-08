@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3724924001658482276}
   - component: {fileID: 1857768514169513729}
   - component: {fileID: 8498778284903831104}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Alden
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -84,7 +84,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: -3446559870772098342, guid: e64af2d2797748d498e371913538efdb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
