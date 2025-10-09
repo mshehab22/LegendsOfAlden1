@@ -4,7 +4,6 @@ using UnityEngine;
 //  Uses the collider to check directions to see if the object is currently on the ground, touching the wall, or touching the ceiling
 public class TouchingDirections : MonoBehaviour
 {
-
     Rigidbody2D rb;
     CapsuleCollider2D bodyCollider;
     Animator animator;
