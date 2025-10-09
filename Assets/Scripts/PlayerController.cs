@@ -69,33 +69,38 @@ public class PlayerController : MonoBehaviour
     {
         get
         {
-            if (IsMoving && !touchingDirections.IsOnWall)
+            if (CanMove)
             {
-                if (touchingDirections.IsGrounded)
+                if (IsMoving && !touchingDirections.IsOnWall)
                 {
-                    if (IsRunning)
+                    if (touchingDirections.IsGrounded)
                     {
-                        return runSpeed;
+                        if (IsRunning)
+                        {
+                            return runSpeed;
+                        }
+                        else
+                        {
+                            return walkSpeed;
+                        }
                     }
                     else
                     {
-                        return walkSpeed;
+                        // Air move
+                        return airWalkSpeed;
                     }
                 }
                 else
                 {
-                    // Air move
-                    return airWalkSpeed;
+                    return 0; // Idle speed is 0
                 }
             }
             else
             {
-                return 0; // Idle speed is 0
+                // movement locked
+                return 0;
             }
-        }
-
-        set
-        {
+            
         }
 
     }
@@ -114,6 +119,11 @@ public class PlayerController : MonoBehaviour
 
             _isFacingRight = value;
         }
+    }
+
+    public bool CanMove
+    {
+        get { return animator.GetBool(AnimationStrings.canMove); }
     }
 
     public void OnMove(InputAction.CallbackContext context)
@@ -153,7 +163,7 @@ public class PlayerController : MonoBehaviour
     public void OnJump(InputAction.CallbackContext context)
     {
         // TODO add is Alive condition
-        if (context.started && touchingDirections.IsGrounded)
+        if (context.started && touchingDirections.IsGrounded && CanMove)
         {
             animator.SetTrigger(AnimationStrings.jumpTrigger);
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpImpulse);
