@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3470351740779407861}
   - component: {fileID: 6845481361790279892}
   - component: {fileID: 5056050559328769558}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: skeletonEnemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62,7 +62,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -81,8 +81,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1112026171
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 2922865136255791346, guid: 6b3ebe91665e6c940871112042ad4113, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -121,7 +121,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!70 &6410226801677307158
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
