@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
   - Background
@@ -17,8 +17,8 @@ TagManager:
   - UI
   - Enemy
   - EnemyHitbox
-  - 
-  - 
+  - Player
+  - PlayerHitbox
   - 
   - 
   - 
