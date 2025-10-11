@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: e0f9e2c342933c8409e627433d0741a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5426185129518640663
+    second: house_red2_0
+  - first:
+      213: -4293075684447600115
+    second: house_red2_1
+  - first:
+      213: 1112478840960536001
+    second: house_red2_2
+  - first:
+      213: 2760926942516211719
+    second: house_red2_3
+  - first:
+      213: -6308981019153794595
+    second: house_red2_4
+  - first:
+      213: -5226514946105836259
+    second: house_red2_5
+  - first:
+      213: -8664132679475345210
+    second: house_red2_6
+  - first:
+      213: 6982852442240453279
+    second: house_red2_7
+  - first:
+      213: -5485989664082233633
+    second: house_red2_8
+  - first:
+      213: -969520717865612036
+    second: house_red2_9
+  - first:
+      213: 4132970276924989886
+    second: house_red2_10
+  - first:
+      213: 3236755725663399777
+    second: house_red2_11
+  - first:
+      213: 7892076059524967900
+    second: house_red2_12
+  - first:
+      213: -6878423334318588186
+    second: house_red2_13
+  - first:
+      213: 4579906388727902178
+    second: house_red2_14
+  - first:
+      213: -7358505521681216056
+    second: house_red2_15
+  - first:
+      213: -4208050754060514555
+    second: house_red2_16
+  - first:
+      213: -6680911588683908439
+    second: house_red2_17
+  - first:
+      213: -748751582109930760
+    second: house_red2_18
+  - first:
+      213: -3670402077075117065
+    second: house_red2_19
+  - first:
+      213: -440392829255853001
+    second: house_red2_20
+  - first:
+      213: 5271721221037883661
+    second: house_red2_21
+  - first:
+      213: 7654193191632288185
+    second: house_red2_22
+  - first:
+      213: 2032795789813775011
+    second: house_red2_23
+  - first:
+      213: 7722698025227603572
+    second: house_red2_24
+  - first:
+      213: -545820993022657816
+    second: house_red2_25
+  - first:
+      213: -8621406065073989913
+    second: house_red2_26
+  - first:
+      213: 9200626857124808063
+    second: house_red2_27
+  - first:
+      213: 7543188582492686174
+    second: house_red2_28
+  - first:
+      213: -3110938564695873100
+    second: house_red2_29
+  - first:
+      213: -6453804364708918528
+    second: house_red2_30
+  - first:
+      213: -1552511329857422689
+    second: house_red2_31
+  - first:
+      213: 2547455421827840245
+    second: house_red2_32
+  - first:
+      213: -1243652694871585057
+    second: house_red2_33
+  - first:
+      213: 3724666217869786449
+    second: house_red2_34
+  - first:
+      213: 296632994739775558
+    second: house_red2_35
+  - first:
+      213: -8348281534114672751
+    second: house_red2_36
+  - first:
+      213: -7885081864101276365
+    second: house_red2_37
+  - first:
+      213: 4034011599438447091
+    second: house_red2_38
+  - first:
+      213: -5280057544718760411
+    second: house_red2_39
+  - first:
+      213: -3124349148422041065
+    second: house_red2_40
+  - first:
+      213: -2796683160607114864
+    second: house_red2_41
+  - first:
+      213: -1607439175144791213
+    second: house_red2_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_red2_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1d885bf5152b4b0800000000000000
+      internalID: -5426185129518640663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1119
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0242a2296eeb64c0800000000000000
+      internalID: -4293075684447600115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd47979c91507f00800000000000000
+      internalID: 1112478840960536001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700fb7b1d68c05620800000000000000
+      internalID: 2760926942516211719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1119
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f7a2803ff178a0800000000000000
+      internalID: -6308981019153794595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1119
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d77180950b777b0800000000000000
+      internalID: -5226514946105836259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8c4098b31d2c780800000000000000
+      internalID: -8664132679475345210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a06baac4318e060800000000000000
+      internalID: 6982852442240453279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 895
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f9ee6779ddd3b0800000000000000
+      internalID: -5485989664082233633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_9
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 895
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc0d393b029b82f0800000000000000
+      internalID: -969520717865612036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_10
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 895
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1ac57c1924b5930800000000000000
+      internalID: 4132970276924989886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fe0e4fe244bec20800000000000000
+      internalID: 3236755725663399777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdda954bc59468d60800000000000000
+      internalID: 7892076059524967900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eebe2fbb6eea80a0800000000000000
+      internalID: -6878423334318588186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef2bac58981f8f30800000000000000
+      internalID: 4579906388727902178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 671
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc07e073651e990800000000000000
+      internalID: -7358505521681216056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_16
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b886762200a95c0800000000000000
+      internalID: -4208050754060514555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 671
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa74bc9e42a843a0800000000000000
+      internalID: -6680911588683908439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa63533766eb95f0800000000000000
+      internalID: -748751582109930760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbe41de1cc101dc0800000000000000
+      internalID: -3670402077075117065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c539a1e0963e9f0800000000000000
+      internalID: -440392829255853001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_21
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010ade058ae82940800000000000000
+      internalID: 5271721221037883661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_22
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9b4757728293a60800000000000000
+      internalID: 7654193191632288185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_23
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 447
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa72c82001f53c10800000000000000
+      internalID: 2032795789813775011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_24
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e4d45ffe88c2b60800000000000000
+      internalID: 7722698025227603572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_25
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 447
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eafeefd2badc68f0800000000000000
+      internalID: -545820993022657816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6dddaacdc9a5880800000000000000
+      internalID: -8621406065073989913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75c7d921613faf70800000000000000
+      internalID: 9200626857124808063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_28
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57424ddc0acea860800000000000000
+      internalID: 7543188582492686174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_29
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b92d3d9bd9b3d4d0800000000000000
+      internalID: -3110938564695873100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_30
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bc8afbf1b7f66a0800000000000000
+      internalID: -6453804364708918528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_31
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a341acb2f547ae0800000000000000
+      internalID: -1552511329857422689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_32
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 223
+        width: 185
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8f03b85316a5320800000000000000
+      internalID: 2547455421827840245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_33
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 223
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdec8329678adbee0800000000000000
+      internalID: -1243652694871585057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15db607e03ca0b330800000000000000
+      internalID: 3724666217869786449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648ef18132add1400800000000000000
+      internalID: 296632994739775558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_36
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f44220d22f42c80800000000000000
+      internalID: -8348281534114672751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3355e5152df829290800000000000000
+      internalID: -7885081864101276365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_38
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f185543d20bbf730800000000000000
+      internalID: 4034011599438447091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_39
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526ca6553a779b6b0800000000000000
+      internalID: -5280057544718760411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_40
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 210
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7129206c00514a4d0800000000000000
+      internalID: -3124349148422041065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_41
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09932be9b7f2039d0800000000000000
+      internalID: -2796683160607114864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_red2_42
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 198
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353a277369a31b9e0800000000000000
+      internalID: -1607439175144791213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      house_red2_0: -5426185129518640663
+      house_red2_1: -4293075684447600115
+      house_red2_10: 4132970276924989886
+      house_red2_11: 3236755725663399777
+      house_red2_12: 7892076059524967900
+      house_red2_13: -6878423334318588186
+      house_red2_14: 4579906388727902178
+      house_red2_15: -7358505521681216056
+      house_red2_16: -4208050754060514555
+      house_red2_17: -6680911588683908439
+      house_red2_18: -748751582109930760
+      house_red2_19: -3670402077075117065
+      house_red2_2: 1112478840960536001
+      house_red2_20: -440392829255853001
+      house_red2_21: 5271721221037883661
+      house_red2_22: 7654193191632288185
+      house_red2_23: 2032795789813775011
+      house_red2_24: 7722698025227603572
+      house_red2_25: -545820993022657816
+      house_red2_26: -8621406065073989913
+      house_red2_27: 9200626857124808063
+      house_red2_28: 7543188582492686174
+      house_red2_29: -3110938564695873100
+      house_red2_3: 2760926942516211719
+      house_red2_30: -6453804364708918528
+      house_red2_31: -1552511329857422689
+      house_red2_32: 2547455421827840245
+      house_red2_33: -1243652694871585057
+      house_red2_34: 3724666217869786449
+      house_red2_35: 296632994739775558
+      house_red2_36: -8348281534114672751
+      house_red2_37: -7885081864101276365
+      house_red2_38: 4034011599438447091
+      house_red2_39: -5280057544718760411
+      house_red2_4: -6308981019153794595
+      house_red2_40: -3124349148422041065
+      house_red2_41: -2796683160607114864
+      house_red2_42: -1607439175144791213
+      house_red2_5: -5226514946105836259
+      house_red2_6: -8664132679475345210
+      house_red2_7: 6982852442240453279
+      house_red2_8: -5485989664082233633
+      house_red2_9: -969520717865612036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
