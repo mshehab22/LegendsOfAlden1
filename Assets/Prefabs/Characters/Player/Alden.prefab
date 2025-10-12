@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 1857768514169513729}
   - component: {fileID: 8498778284903831104}
   - component: {fileID: 4776569602076794683}
-  m_Layer: 12
+  m_Layer: 3
   m_Name: Alden
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -179,7 +179,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   walkSpeed: 3
-  runSpeed: 8
+  runSpeed: 5
   airWalkSpeed: 3
   jumpImpulse: 6
   _isFacingRight: 1
@@ -424,8 +424,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _maxHealth: 1000
-  _health: 1000
+  _maxHealth: 100
+  _health: 100
   _isAlive: 1
   invincibilityTime: 0.25
 --- !u!1 &1548172772995422865
