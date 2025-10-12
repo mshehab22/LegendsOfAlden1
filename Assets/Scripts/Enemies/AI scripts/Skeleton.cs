@@ -3,17 +3,19 @@ using System;
 using UnityEngine;
 
 
-[RequireComponent(typeof(Rigidbody2D), typeof(TouchingDirections))]
+[RequireComponent(typeof(Rigidbody2D), typeof(TouchingDirections), typeof(Damageable))]
 public class Skeleton : MonoBehaviour
 {
     public float walkSpeed = 3.0f;
     public float walkStopRate = 0.05f;
     public DetectionZone attackZone;
+    public DetectionZone cliffDetectionZone;
     
 
     Rigidbody2D rb;
     TouchingDirections touchingDirections;
     Animator animator;
+    Damageable damageable;
 
     public enum WalkableDirection { Left, Right }
 
@@ -61,17 +63,33 @@ public class Skeleton : MonoBehaviour
         }
     }
 
+    public float AttackCooldown
+    {
+        get
+        {
+            return animator.GetFloat(AnimationStrings.attackCooldown);
+        }
+        private set { 
+            animator.SetFloat(AnimationStrings.attackCooldown, Mathf.Max(value, 0));
+        } }
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         touchingDirections = GetComponent<TouchingDirections>();
         animator = GetComponent<Animator>();
+        damageable = GetComponent<Damageable>();
     }
 
     // Update is called once per frame
     void Update()
     {
         HasTarget = attackZone.detectedColiders.Count > 0;
+
+        if (AttackCooldown > 0)
+        {
+            AttackCooldown -= Time.deltaTime;
+        }
     }
 
     private void FixedUpdate()
@@ -80,10 +98,13 @@ public class Skeleton : MonoBehaviour
         {
             FlipDirection();
         }
-        if(CanMove)
+        if (!damageable.LockVelocity)
+        {
+        if (CanMove)
           rb.linearVelocity = new Vector2(walkSpeed * walkDirectionVector.x, rb.linearVelocity.y);
         else
           rb.linearVelocity = new Vector2(Mathf.Lerp(rb.linearVelocity.x, 0, walkStopRate), rb.linearVelocity.y);
+        }
     }
 
     private void FlipDirection()
@@ -99,6 +120,18 @@ public class Skeleton : MonoBehaviour
         else
         {
             Debug.LogError("Current Walkable Direction is not set to go values to right or left");
+        }
+    }
+    public void OnHit(int damage, Vector2 knockback) 
+    {
+        rb.linearVelocity = new Vector2(knockback.x , rb.linearVelocity.y + knockback.y);
+    }
+   
+    public void OnCliffDetected()
+    {
+        if (touchingDirections.IsGrounded)
+        {
+                       FlipDirection();
         }
     }
 
