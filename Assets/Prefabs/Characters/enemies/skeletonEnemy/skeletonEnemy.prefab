@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4048757747380222985}
   - component: {fileID: 2084587029454659606}
   m_Layer: 11
-  m_Name: DetectionZone
+  m_Name: HitboxDetection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -91,7 +91,105 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 730ea4f8e14b39f4f9518871de3cc5a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  noCollidersRemain:
+    m_PersistentCalls:
+      m_Calls: []
   detectedColiders: []
+--- !u!1 &2379554535769724707
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3369188689678631220}
+  - component: {fileID: 5611083774567564795}
+  - component: {fileID: 300115812116884544}
+  m_Layer: 14
+  m_Name: CliffDetectionZone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3369188689678631220
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2379554535769724707}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.15, y: -1.2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1164184201057053919}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5611083774567564795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2379554535769724707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 730ea4f8e14b39f4f9518871de3cc5a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DetectionZone
+  noCollidersRemain:
+    m_PersistentCalls:
+      m_Calls: []
+  detectedColiders: []
+--- !u!61 &300115812116884544
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2379554535769724707}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &2659839306605253292
 GameObject:
   m_ObjectHideFlags: 0
@@ -107,7 +205,7 @@ GameObject:
   - component: {fileID: 3470351740779407861}
   - component: {fileID: 5056050559328769558}
   - component: {fileID: 5764712715077040198}
-  - component: {fileID: 3055021480730128984}
+  - component: {fileID: 9173058684024669328}
   m_Layer: 10
   m_Name: skeletonEnemy
   m_TagString: Untagged
@@ -125,11 +223,12 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.581, y: -2.556, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: -1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2613113341123282237}
   - {fileID: 2280027388337022609}
+  - {fileID: 3369188689678631220}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3751178632363716488
@@ -266,9 +365,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7eb15dc12006774ebf1f924859de309, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  walkSpeed: 1
-  walkStopRate: 0.1
+  walkSpeed: 3
+  walkStopRate: 0.05
   attackZone: {fileID: 2084587029454659606}
+  cliffDetectionZone: {fileID: 5611083774567564795}
   _hasTarget: 0
 --- !u!95 &5056050559328769558
 Animator:
@@ -324,7 +424,7 @@ MonoBehaviour:
   _isGrounded: 0
   _isOnWall: 0
   _isOnCeiling: 0
---- !u!114 &3055021480730128984
+--- !u!114 &9173058684024669328
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -353,7 +453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2280027388337022609}
   - component: {fileID: 2152276619050768753}
-  - component: {fileID: 259237171588390755}
+  - component: {fileID: 2783139780529401655}
   m_Layer: 11
   m_Name: SwordAttack
   m_TagString: Untagged
@@ -370,7 +470,7 @@ Transform:
   m_GameObject: {fileID: 8136796808435010669}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.25, y: 0.23, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -422,17 +522,17 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.71417224, y: 0.3418591}
-      - {x: 0.26442552, y: 0.53927904}
-      - {x: -0.50215656, y: 0.3228293}
-      - {x: -0.0560112, y: 0.26143718}
-      - {x: -0.29925174, y: 0.23317704}
+    - - {x: 0.39496577, y: 0.056253195}
+      - {x: 0.06702137, y: 0.085669816}
+      - {x: -0.63440233, y: 0.105810225}
+      - {x: -0.40188527, y: 0.07832742}
+      - {x: -0.43149775, y: 0.07719454}
       - {x: -0.42741942, y: 0.047346413}
-      - {x: -0.37304306, y: -0.024670392}
-      - {x: 0.25035357, y: 0.024385452}
-      - {x: 0.9372443, y: 0.1985186}
+      - {x: -0.72230816, y: -0.14674357}
+      - {x: -0.010747433, y: -0.1214242}
+      - {x: 0.6101353, y: -0.018654734}
   m_UseDelaunayMesh: 0
---- !u!114 &259237171588390755
+--- !u!114 &2783139780529401655
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -445,4 +545,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Attack
   attackDamage: 10
-  knockback: {x: 0, y: 0}
+  knockback: {x: 5, y: 2}
