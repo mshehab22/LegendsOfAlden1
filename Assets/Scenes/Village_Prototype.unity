@@ -4205,7 +4205,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   enemyPrefab: {fileID: 822310476}
-  enemyCount: 10
+  enemyCount: 5
   areaMin: {x: -56, y: -2}
   areaMax: {x: 13, y: 8}
 --- !u!4 &569474891
@@ -4217,7 +4217,7 @@ Transform:
   m_GameObject: {fileID: 569474889}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -4.83, y: 2.07, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5637,11 +5637,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1164184201057053919, guid: 7f3f019d0644ecb41b02d901b09fecb2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.07538
+      value: -2.76
       objectReference: {fileID: 0}
     - target: {fileID: 1164184201057053919, guid: 7f3f019d0644ecb41b02d901b09fecb2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.0248
+      value: 2.49
       objectReference: {fileID: 0}
     - target: {fileID: 1164184201057053919, guid: 7f3f019d0644ecb41b02d901b09fecb2, type: 3}
       propertyPath: m_LocalPosition.z
