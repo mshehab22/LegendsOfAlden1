@@ -4863,6 +4863,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alden
       objectReference: {fileID: 0}
+    - target: {fileID: 1333579614645093585, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: knockback.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333579614645093585, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: knockback.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333579614645093585, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: attackDamage
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628522086232994693, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: knockback.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628522086232994693, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: knockback.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628522086232994693, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: attackDamage
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3227550679651034940, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: runSpeed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4862567806617168772, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.853
@@ -4901,6 +4929,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4862567806617168772, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994553433097737256, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: knockback.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994553433097737256, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: attackDamage
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8571488403844982118, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: m_Name
+      value: SwordAttack1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900008244671787974, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: knockback.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900008244671787974, guid: 292ea762bb4611b4fae9e0c25988450f, type: 3}
+      propertyPath: knockback.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
