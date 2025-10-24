@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -23,7 +24,12 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private bool _isMoving = false;
     [SerializeField] private bool _isRunning = false;
-    
+
+    [SerializeField] private float rollSpeed = 1f;        // tweak feel
+    [SerializeField] private float rollDuration = 0.35f;  // match animation length
+
+
+    private bool isRolling = false;
 
     private void Awake()
     {
@@ -42,11 +48,7 @@ public class PlayerController : MonoBehaviour
 
     public bool IsMoving
     {
-        get
-        {
-            return _isMoving;
-        }
-
+        get { return _isMoving; }
         private set
         {
             _isMoving = value;
@@ -56,11 +58,7 @@ public class PlayerController : MonoBehaviour
 
     public bool IsRunning
     {
-        get
-        {
-            return _isRunning;
-        }
-
+        get { return _isRunning; }
         private set
         {
             _isRunning = value;
@@ -78,34 +76,15 @@ public class PlayerController : MonoBehaviour
                 {
                     if (touchingDirections.IsGrounded)
                     {
-                        if (IsRunning)
-                        {
-                            return runSpeed;
-                        }
-                        else
-                        {
-                            return walkSpeed;
-                        }
+                        if (IsRunning) { return runSpeed; }
+                        else { return walkSpeed; }
                     }
-                    else
-                    {
-                        // Air move
-                        return airWalkSpeed;
-                    }
+                    else { return airWalkSpeed; } // Air move
                 }
-                else
-                {
-                    return 0; // Idle speed is 0
-                }
+                else { return 0; } // Idle speed is 0
             }
-            else
-            {
-                // movement locked
-                return 0;
-            }
-            
+            else { return 0; } // movement locked
         }
-
     }
 
     public bool IsFacingRight
@@ -134,8 +113,6 @@ public class PlayerController : MonoBehaviour
         get { return animator.GetBool(AnimationStrings.isAlive); }
     }
 
-    
-
     public void OnMove(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
@@ -145,35 +122,19 @@ public class PlayerController : MonoBehaviour
             IsMoving = (moveInput != Vector2.zero);
             SetFacingDirection(moveInput);
         }
-        else
-        {
-            IsMoving = false;
-        }
+        else { IsMoving = false; }
     }
 
     private void SetFacingDirection(Vector2 moveInput)
     {
-        if (moveInput.x > 0 && !IsFacingRight) // Facing right direction
-        {
-            IsFacingRight = true;
-
-        }
-        else if (moveInput.x < 0 && IsFacingRight) // Facing left direction
-        {
-            IsFacingRight = false;
-        }
+        if (moveInput.x > 0 && !IsFacingRight) { IsFacingRight = true; } // Facing right direction
+        else if (moveInput.x < 0 && IsFacingRight) { IsFacingRight = false; } // Facing left direction
     }
 
     public void OnRun(InputAction.CallbackContext context)
     {
-        if (context.started)
-        {
-            IsRunning = true;
-        }
-        else if (context.canceled)
-        {
-            IsRunning = false;
-        }
+        if (context.started) { IsRunning = true; }
+        else if (context.canceled) { IsRunning = false; }
     }
 
     public void OnJump(InputAction.CallbackContext context)
@@ -192,6 +153,57 @@ public class PlayerController : MonoBehaviour
         {
             animator.SetTrigger(AnimationStrings.attackTrigger);
         }
+    }
+
+    public void OnDashAttack(InputAction.CallbackContext context)
+    {
+        if (context.started && touchingDirections.IsGrounded && CanMove)
+        {
+            animator.SetTrigger(AnimationStrings.dashAttackTrigger);
+
+            damageable.LockVelocity = true; // <- prevents FixedUpdate from overriding
+            float dashForce = 12f;          // tweak
+            float dir = IsFacingRight ? 1f : -1f;
+            rb.linearVelocity = new Vector2(dir * dashForce, rb.linearVelocity.y);
+            StartCoroutine(DashUnlock(0.20f));
+        }
+    }
+    public void StopDash()
+    {
+        damageable.LockVelocity = false;                 // resume normal movement
+        rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y); // optional: stop slide
+    }
+    private IEnumerator DashUnlock(float t)
+    {
+        yield return new WaitForSeconds(t);
+        StopDash();
+    }
+
+    public void OnRoll(InputAction.CallbackContext context)
+    {
+        if (context.started && touchingDirections.IsGrounded && CanMove && !damageable.LockVelocity && !isRolling)
+        {
+            animator.SetTrigger(AnimationStrings.rollTrigger);
+        }
+    }
+    public void RollStart()
+    {
+        isRolling = true;
+        damageable.LockVelocity = true;   // prevents FixedUpdate from overwriting
+        damageable.ExternalInvincible = true;     // optional i-frames
+
+        float dir = IsFacingRight ? 1f : -1f;
+        rb.linearVelocity = new Vector2(dir * rollSpeed, 0f);
+    }
+
+    public void RollStop()
+    {
+        isRolling = false;
+        damageable.LockVelocity = false;
+        damageable.ExternalInvincible = false;
+
+        // optional: stop any sliding
+        rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
     }
 
     public void OnHit (int damage, Vector2 knockback)
