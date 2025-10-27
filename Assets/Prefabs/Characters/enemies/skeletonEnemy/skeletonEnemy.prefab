@@ -365,7 +365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7eb15dc12006774ebf1f924859de309, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  walkSpeed: 3
+  walkSpeed: 1
   walkStopRate: 0.05
   attackZone: {fileID: 2084587029454659606}
   cliffDetectionZone: {fileID: 5611083774567564795}
@@ -545,4 +545,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Attack
   attackDamage: 10
-  knockback: {x: 5, y: 2}
+  knockback: {x: 1, y: 0}
