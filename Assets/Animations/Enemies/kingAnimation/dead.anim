@@ -76,7 +76,11 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
+<<<<<<< Updated upstream
     m_LoopTime: 0
+=======
+    m_LoopTime: 1
+>>>>>>> Stashed changes
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0

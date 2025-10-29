@@ -28,6 +28,7 @@ AnimationClip:
       value: {fileID: -3551423533981550160, guid: bdfe6df01a38d3a46af986652ade5ce8, type: 3}
     - time: 0.3
       value: {fileID: -8931392974600562656, guid: e4f73001abac6a54b80da3d0058f4551, type: 3}
+<<<<<<< Updated upstream
     - time: 0.5
       value: {fileID: 2384118817303356901, guid: 9bcdf7eb64ee22249b8c9c03d960dd72, type: 3}
     - time: 0.6
@@ -35,6 +36,15 @@ AnimationClip:
     - time: 0.7
       value: {fileID: -3247106814296052905, guid: de9b5059390aacb42899fe6b672824c3, type: 3}
     - time: 0.8
+=======
+    - time: 0.4
+      value: {fileID: 2384118817303356901, guid: 9bcdf7eb64ee22249b8c9c03d960dd72, type: 3}
+    - time: 0.5
+      value: {fileID: 2386927484667658715, guid: fcd61e790ba97924684f163cee98d44b, type: 3}
+    - time: 0.6
+      value: {fileID: -3247106814296052905, guid: de9b5059390aacb42899fe6b672824c3, type: 3}
+    - time: 0.7
+>>>>>>> Stashed changes
       value: {fileID: 6428578255999587039, guid: b652bf8fd27f4834c816a1094a9da408, type: 3}
     attribute: m_Sprite
     path: 
@@ -71,12 +81,20 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
+<<<<<<< Updated upstream
     m_StopTime: 0.9
+=======
+    m_StopTime: 0.8
+>>>>>>> Stashed changes
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
+<<<<<<< Updated upstream
     m_LoopTime: 0
+=======
+    m_LoopTime: 1
+>>>>>>> Stashed changes
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
