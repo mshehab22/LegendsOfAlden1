@@ -17,138 +17,26 @@ AnimationClip:
   m_PositionCurves: []
   m_ScaleCurves: []
   m_FloatCurves: []
-  m_PPtrCurves:
-  - serializedVersion: 2
-    curve:
-    - time: 0
-      value: {fileID: -5096865598486616547, guid: 2d9e2a19809f29a449623b19a05c3cbe, type: 3}
-<<<<<<< Updated upstream
-    - time: 0.1
-      value: {fileID: -5096865598486616547, guid: 6409af95306b2ab489677c0d3eee6ef2, type: 3}
-    - time: 0.2
-      value: {fileID: -6167956433970014953, guid: 904d94327dc9a8e41a0aaf8e105b9018, type: 3}
-    - time: 0.3
-      value: {fileID: -6167956433970014953, guid: ebb3328619338184583b186358ea7945, type: 3}
-    - time: 0.4
-      value: {fileID: 5508600253085019753, guid: cfdb3f30e7ac62142800979b0f8153e1, type: 3}
-    - time: 0.5
-      value: {fileID: 5508600253085019753, guid: 439c5a6c07a1ce8448533d9c3d76008a, type: 3}
-    - time: 0.6
-      value: {fileID: -3481375308668102102, guid: 64bee4caef20a794c87e5541e9916679, type: 3}
-    - time: 0.7
-      value: {fileID: -3481375308668102102, guid: ea2c28cca08bea746add5568394f03cf, type: 3}
-    - time: 0.8
-      value: {fileID: 7378345483187849748, guid: 1f1a41ec786197d409a071235b14d5d5, type: 3}
-    - time: 0.9
-      value: {fileID: 7378345483187849748, guid: 8a6c095f470975b4a9994073be1c0071, type: 3}
-    - time: 1
-      value: {fileID: 8210235783277899195, guid: 9a38cc4eabff1a04c8ac7ac65b41d834, type: 3}
-    - time: 1.1
-      value: {fileID: 8210235783277899195, guid: 50515bc3f9f6859458da951e77d450f7, type: 3}
-    - time: 1.2
-      value: {fileID: 156799254483259252, guid: 9592f059d4b0e174f9a177f68cbfc2cd, type: 3}
-    - time: 1.3
-      value: {fileID: 156799254483259252, guid: 8a61714d4711daa42868ae4c90cd1be9, type: 3}
-    - time: 1.4
-      value: {fileID: -8283149682950495328, guid: ac09cf07b8433f546974d31b924927aa, type: 3}
-    - time: 1.5
-      value: {fileID: -8283149682950495328, guid: c8c96c27169aa9a45b6cf9e766fa2e0c, type: 3}
-    - time: 1.6
-      value: {fileID: 6273118954902646326, guid: 87598f79d65cc0f4892b285e4f896baf, type: 3}
-    - time: 1.7
-=======
-    - time: 0.2
-      value: {fileID: -6167956433970014953, guid: 904d94327dc9a8e41a0aaf8e105b9018, type: 3}
-    - time: 0.4
-      value: {fileID: 5508600253085019753, guid: cfdb3f30e7ac62142800979b0f8153e1, type: 3}
-    - time: 0.6
-      value: {fileID: -3481375308668102102, guid: 64bee4caef20a794c87e5541e9916679, type: 3}
-    - time: 0.8
-      value: {fileID: 7378345483187849748, guid: 1f1a41ec786197d409a071235b14d5d5, type: 3}
-    - time: 1
-      value: {fileID: 8210235783277899195, guid: 9a38cc4eabff1a04c8ac7ac65b41d834, type: 3}
-    - time: 1.2
-      value: {fileID: 156799254483259252, guid: 9592f059d4b0e174f9a177f68cbfc2cd, type: 3}
-    - time: 1.4
-      value: {fileID: -8283149682950495328, guid: ac09cf07b8433f546974d31b924927aa, type: 3}
-    - time: 1.6
-      value: {fileID: 6273118954902646326, guid: 87598f79d65cc0f4892b285e4f896baf, type: 3}
-    - time: 1.8
->>>>>>> Stashed changes
-      value: {fileID: 7976770504452433231, guid: 444f7ba01aeca694392e9c809b98e415, type: 3}
-    attribute: m_Sprite
-    path: 
-    classID: 212
-    script: {fileID: 0}
-    flags: 2
-<<<<<<< Updated upstream
-  m_SampleRate: 10
-=======
-  m_SampleRate: 5
->>>>>>> Stashed changes
+  m_PPtrCurves: []
+  m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings:
-    - serializedVersion: 2
-      path: 0
-      attribute: 0
-      script: {fileID: 0}
-      typeID: 212
-      customType: 23
-      isPPtrCurve: 1
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    pptrCurveMapping:
-    - {fileID: -5096865598486616547, guid: 2d9e2a19809f29a449623b19a05c3cbe, type: 3}
-<<<<<<< Updated upstream
-    - {fileID: -5096865598486616547, guid: 6409af95306b2ab489677c0d3eee6ef2, type: 3}
-    - {fileID: -6167956433970014953, guid: 904d94327dc9a8e41a0aaf8e105b9018, type: 3}
-    - {fileID: -6167956433970014953, guid: ebb3328619338184583b186358ea7945, type: 3}
-    - {fileID: 5508600253085019753, guid: cfdb3f30e7ac62142800979b0f8153e1, type: 3}
-    - {fileID: 5508600253085019753, guid: 439c5a6c07a1ce8448533d9c3d76008a, type: 3}
-    - {fileID: -3481375308668102102, guid: 64bee4caef20a794c87e5541e9916679, type: 3}
-    - {fileID: -3481375308668102102, guid: ea2c28cca08bea746add5568394f03cf, type: 3}
-    - {fileID: 7378345483187849748, guid: 1f1a41ec786197d409a071235b14d5d5, type: 3}
-    - {fileID: 7378345483187849748, guid: 8a6c095f470975b4a9994073be1c0071, type: 3}
-    - {fileID: 8210235783277899195, guid: 9a38cc4eabff1a04c8ac7ac65b41d834, type: 3}
-    - {fileID: 8210235783277899195, guid: 50515bc3f9f6859458da951e77d450f7, type: 3}
-    - {fileID: 156799254483259252, guid: 9592f059d4b0e174f9a177f68cbfc2cd, type: 3}
-    - {fileID: 156799254483259252, guid: 8a61714d4711daa42868ae4c90cd1be9, type: 3}
-    - {fileID: -8283149682950495328, guid: ac09cf07b8433f546974d31b924927aa, type: 3}
-    - {fileID: -8283149682950495328, guid: c8c96c27169aa9a45b6cf9e766fa2e0c, type: 3}
-=======
-    - {fileID: -6167956433970014953, guid: 904d94327dc9a8e41a0aaf8e105b9018, type: 3}
-    - {fileID: 5508600253085019753, guid: cfdb3f30e7ac62142800979b0f8153e1, type: 3}
-    - {fileID: -3481375308668102102, guid: 64bee4caef20a794c87e5541e9916679, type: 3}
-    - {fileID: 7378345483187849748, guid: 1f1a41ec786197d409a071235b14d5d5, type: 3}
-    - {fileID: 8210235783277899195, guid: 9a38cc4eabff1a04c8ac7ac65b41d834, type: 3}
-    - {fileID: 156799254483259252, guid: 9592f059d4b0e174f9a177f68cbfc2cd, type: 3}
-    - {fileID: -8283149682950495328, guid: ac09cf07b8433f546974d31b924927aa, type: 3}
->>>>>>> Stashed changes
-    - {fileID: 6273118954902646326, guid: 87598f79d65cc0f4892b285e4f896baf, type: 3}
-    - {fileID: 7976770504452433231, guid: 444f7ba01aeca694392e9c809b98e415, type: 3}
+    genericBindings: []
+    pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-<<<<<<< Updated upstream
-    m_StopTime: 1.8
-=======
-    m_StopTime: 2
->>>>>>> Stashed changes
+    m_StopTime: 1
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-<<<<<<< Updated upstream
-    m_LoopTime: 0
-=======
     m_LoopTime: 1
->>>>>>> Stashed changes
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
