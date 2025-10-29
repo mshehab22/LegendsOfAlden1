@@ -13,10 +13,12 @@ public class Damageable : MonoBehaviour
 
     private bool isInvincible = false;
 
-    
+    public bool ExternalInvincible { get; set; } = false;
 
     private float timeSinceHit = 0;
     public float invincibilityTime = 0.25f;
+
+ 
 
     private void Awake()
     {
@@ -80,7 +82,7 @@ public class Damageable : MonoBehaviour
     // Returns if the whether the damageable took damage or not
     public bool Hit(int damage, Vector2 knockback)
     {
-        if (IsAlive && !isInvincible)
+        if (IsAlive && !isInvincible && !ExternalInvincible)
         {
             Health -= damage;
             isInvincible = true;
