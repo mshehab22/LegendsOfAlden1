@@ -1,27 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1101 &-8479696282621040403
-AnimatorStateTransition:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_Conditions: []
-  m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: -1989012365455986141}
-  m_Solo: 0
-  m_Mute: 0
-  m_IsExit: 0
-  serializedVersion: 3
-  m_TransitionDuration: 0.25
-  m_TransitionOffset: 0
-  m_ExitTime: 0.6875
-  m_HasExitTime: 1
-  m_HasFixedDuration: 1
-  m_InterruptionSource: 0
-  m_OrderedInterruption: 1
-  m_CanTransitionToSelf: 1
 --- !u!1101 &-6718592059244776425
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -107,50 +85,6 @@ MonoBehaviour:
   updateOnStateMachine: 0
   valueOnEnter: 0
   valueOnExit: 0
---- !u!1101 &-5430978338895409486
-AnimatorStateTransition:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_Conditions: []
-  m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 5419907389590044109}
-  m_Solo: 0
-  m_Mute: 0
-  m_IsExit: 0
-  serializedVersion: 3
-  m_TransitionDuration: 0.25
-  m_TransitionOffset: 0
-  m_ExitTime: 0.6875
-  m_HasExitTime: 1
-  m_HasFixedDuration: 1
-  m_InterruptionSource: 0
-  m_OrderedInterruption: 1
-  m_CanTransitionToSelf: 1
---- !u!1101 &-4656716066356175264
-AnimatorStateTransition:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_Conditions: []
-  m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 2514193764118118355}
-  m_Solo: 0
-  m_Mute: 0
-  m_IsExit: 0
-  serializedVersion: 3
-  m_TransitionDuration: 0.25
-  m_TransitionOffset: 0
-  m_ExitTime: 0.8076923
-  m_HasExitTime: 1
-  m_HasFixedDuration: 1
-  m_InterruptionSource: 0
-  m_OrderedInterruption: 1
-  m_CanTransitionToSelf: 1
 --- !u!114 &-4605092337282458726
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -163,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c57042bb7aa8ac4449d6dab25a59ceed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SetFloatBehaviour
-  floatName: attack
+  floatName: 
   updateOnStateEnter: 0
   updateOnStateExit: 1
   updateOnStateMachineEnter: 0
@@ -420,28 +354,6 @@ AnimatorStateMachine:
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 270, y: 0, z: 0}
   m_DefaultState: {fileID: -3374520837163444067}
---- !u!1101 &1699545891608936027
-AnimatorStateTransition:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_Conditions: []
-  m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: -1989012365455986141}
-  m_Solo: 0
-  m_Mute: 0
-  m_IsExit: 0
-  serializedVersion: 3
-  m_TransitionDuration: 0.25
-  m_TransitionOffset: 0
-  m_ExitTime: 0.8076923
-  m_HasExitTime: 1
-  m_HasFixedDuration: 1
-  m_InterruptionSource: 0
-  m_OrderedInterruption: 1
-  m_CanTransitionToSelf: 1
 --- !u!1109 &2051042704936972463
 AnimatorTransition:
   m_ObjectHideFlags: 1
@@ -462,35 +374,6 @@ AnimatorTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 1
---- !u!1102 &2514193764118118355
-AnimatorState:
-  serializedVersion: 6
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: attack3
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Transitions:
-  - {fileID: -8479696282621040403}
-  - {fileID: -5430978338895409486}
-  m_StateMachineBehaviours:
-  - {fileID: 7524393765270126775}
-  m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
-  m_SpeedParameterActive: 0
-  m_MirrorParameterActive: 0
-  m_CycleOffsetParameterActive: 0
-  m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e97135af3641b1d4ca8eed8e91c2d11e, type: 2}
-  m_Tag: 
-  m_SpeedParameter: 
-  m_MirrorParameter: 
-  m_CycleOffsetParameter: 
-  m_TimeParameter: 
 --- !u!114 &3219909962657395885
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -550,7 +433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c57042bb7aa8ac4449d6dab25a59ceed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SetFloatBehaviour
-  floatName: attack
+  floatName: 
   updateOnStateEnter: 0
   updateOnStateExit: 1
   updateOnStateMachineEnter: 0
@@ -567,9 +450,7 @@ AnimatorState:
   m_Name: attack2 0
   m_Speed: 1
   m_CycleOffset: 0
-  m_Transitions:
-  - {fileID: 1699545891608936027}
-  - {fileID: -4656716066356175264}
+  m_Transitions: []
   m_StateMachineBehaviours:
   - {fileID: -4605092337282458726}
   m_Position: {x: 50, y: 50, z: 0}
@@ -656,25 +537,6 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 0
---- !u!114 &7524393765270126775
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c57042bb7aa8ac4449d6dab25a59ceed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SetFloatBehaviour
-  floatName: attack
-  updateOnStateEnter: 0
-  updateOnStateExit: 1
-  updateOnStateMachineEnter: 0
-  updateOnStateMachineExit: 0
-  valueOnEnter: 0
-  valueOnExit: 1
 --- !u!1107 &7568580708810470151
 AnimatorStateMachine:
   serializedVersion: 6
@@ -690,9 +552,6 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: -1989012365455986141}
     m_Position: {x: 290, y: 110, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 2514193764118118355}
-    m_Position: {x: 510, y: -40, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
