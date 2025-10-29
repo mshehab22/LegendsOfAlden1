@@ -1,5 +1,7 @@
+
 using System;
 using UnityEngine;
+
 
 [RequireComponent(typeof(Rigidbody2D), typeof(TouchingDirections), typeof(Damageable))]
 public class Skeleton : MonoBehaviour
@@ -8,6 +10,7 @@ public class Skeleton : MonoBehaviour
     public float walkStopRate = 0.05f;
     public DetectionZone attackZone;
     public DetectionZone cliffDetectionZone;
+    
 
     Rigidbody2D rb;
     TouchingDirections touchingDirections;
@@ -26,48 +29,49 @@ public class Skeleton : MonoBehaviour
         {
             if (_walkDirection != value)
             {
-                gameObject.transform.localScale = new Vector2(
-                    gameObject.transform.localScale.x * -1,
-                    gameObject.transform.localScale.y
-                );
-
+                gameObject.transform.localScale = new Vector2(gameObject.transform.localScale.x * -1, gameObject.transform.localScale.y);
                 if (value == WalkableDirection.Right)
                 {
                     walkDirectionVector = Vector2.right;
                 }
+
+
                 else if (value == WalkableDirection.Left)
                 {
                     walkDirectionVector = Vector2.left;
                 }
+
             }
             _walkDirection = value;
         }
-    }
 
+    }
     public bool _hasTarget = false;
-    public bool HasTarget
-    {
-        get { return _hasTarget; }
+    public bool HasTarget {
+        get {return _hasTarget;}
         private set
         {
-            _hasTarget = value;
-            animator.SetBool(AnimationStrings.hasTarget, value);
-        }
+        _hasTarget = value; 
+        animator.SetBool(AnimationStrings.hasTarget, value);
     }
-
+}
     public bool CanMove
     {
-        get { return animator.GetBool(AnimationStrings.canMove); }
+        get
+        {
+            return animator.GetBool(AnimationStrings.canMove);
+        }
     }
 
     public float AttackCooldown
     {
-        get { return animator.GetFloat(AnimationStrings.attackCooldown); }
-        private set
+        get
         {
-            animator.SetFloat(AnimationStrings.attackCooldown, Mathf.Max(value, 0));
+            return animator.GetFloat(AnimationStrings.attackCooldown);
         }
-    }
+        private set { 
+            animator.SetFloat(AnimationStrings.attackCooldown, Mathf.Max(value, 0));
+        } }
 
     private void Awake()
     {
@@ -94,13 +98,12 @@ public class Skeleton : MonoBehaviour
         {
             FlipDirection();
         }
-
         if (!damageable.LockVelocity)
         {
-            if (CanMove)
-                rb.linearVelocity = new Vector2(walkSpeed * walkDirectionVector.x, rb.linearVelocity.y);
-            else
-                rb.linearVelocity = new Vector2(Mathf.Lerp(rb.linearVelocity.x, 0, walkStopRate), rb.linearVelocity.y);
+        if (CanMove)
+          rb.linearVelocity = new Vector2(walkSpeed * walkDirectionVector.x, rb.linearVelocity.y);
+        else
+          rb.linearVelocity = new Vector2(Mathf.Lerp(rb.linearVelocity.x, 0, walkStopRate), rb.linearVelocity.y);
         }
     }
 
@@ -116,20 +119,22 @@ public class Skeleton : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Current Walkable Direction is not set to valid values (Right/Left)");
+            Debug.LogError("Current Walkable Direction is not set to go values to right or left");
         }
     }
-
-    public void OnHit(int damage, Vector2 knockback)
+    public void OnHit(int damage, Vector2 knockback) 
     {
-        rb.linearVelocity = new Vector2(knockback.x, rb.linearVelocity.y + knockback.y);
+        rb.linearVelocity = new Vector2(knockback.x , rb.linearVelocity.y + knockback.y);
     }
-
+   
     public void OnCliffDetected()
     {
         if (touchingDirections.IsGrounded)
         {
-            FlipDirection();
+                       FlipDirection();
         }
     }
+
 }
+
+
