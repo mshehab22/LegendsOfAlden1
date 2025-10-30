@@ -16,7 +16,6 @@ AnimationClip:
   m_EulerCurves: []
   m_PositionCurves: []
   m_ScaleCurves: []
-<<<<<<< Updated upstream
   m_FloatCurves:
   - serializedVersion: 2
     curve:
@@ -75,9 +74,6 @@ AnimationClip:
     classID: 60
     script: {fileID: 0}
     flags: 0
-=======
-  m_FloatCurves: []
->>>>>>> Stashed changes
   m_PPtrCurves:
   - serializedVersion: 2
     curve:
@@ -108,7 +104,6 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-<<<<<<< Updated upstream
       path: 2109124072
       attribute: 3305885265
       script: {fileID: 0}
@@ -118,8 +113,6 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-=======
->>>>>>> Stashed changes
       path: 0
       attribute: 0
       script: {fileID: 0}
@@ -146,11 +139,7 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-<<<<<<< Updated upstream
     m_LoopTime: 0
-=======
-    m_LoopTime: 1
->>>>>>> Stashed changes
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
@@ -160,7 +149,6 @@ AnimationClip:
     m_KeepOriginalPositionXZ: 0
     m_HeightFromFeet: 0
     m_Mirror: 0
-<<<<<<< Updated upstream
   m_EditorCurves:
   - serializedVersion: 2
     curve:
@@ -219,9 +207,6 @@ AnimationClip:
     classID: 60
     script: {fileID: 0}
     flags: 0
-=======
-  m_EditorCurves: []
->>>>>>> Stashed changes
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
